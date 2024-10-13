@@ -34,7 +34,7 @@ def replace_black_with_transparency(image):
     return rgba_image
 
 # Function to extract frames from video and save them as square PNG images with transparency
-def extract_frames(video_path, output_folder, output_id):
+def extract_frames(video_path, output_folder, output_id, output_res):
     # Create output folder if it doesn't exist
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -57,12 +57,12 @@ def extract_frames(video_path, output_folder, output_id):
         ret, frame = cap.read()
         if not ret:
             break  # Break the loop when there are no more frames
-        frame = cv2.resize(frame, (512, 512))
         # Make the frame square
-        square_frame = make_square(frame)
-        
+        frame = make_square(frame)
+
+        frame = cv2.resize(frame, (output_res, output_res))
         # Replace black background with transparency
-        transparent_frame = replace_black_with_transparency(square_frame)
+        frame = replace_black_with_transparency(frame)
 
         # Save the frame as a PNG file with transparency
         frame_filename = f"{output_folder}_img{frame_count}.png"
@@ -75,7 +75,7 @@ def extract_frames(video_path, output_folder, output_id):
             "Lifetime": frame_duration,
             "StartTime": frame_count * frame_duration
         })
-        cv2.imwrite(frame_filepath, transparent_frame)
+        cv2.imwrite(frame_filepath, frame)
         frame_count += 1
 
     effectFile = open(output_folder + "/" + output_folder+"_fx.json", 'w+')
@@ -99,11 +99,12 @@ if __name__ == "__main__":
     if video_path:
         fileId = int(input("ID of the generated effect file: "))
         fileName = input("Name of file: ")
+        fileRes = input("Output resolution: ")
         if(not fileName):
             fileName = "mp3_to_effect_export"
         # Folder to save frames
 
         # Extract frames and save as PNG with transparency
-        extract_frames(video_path, fileName, fileId)
+        extract_frames(video_path, fileName, fileId, fileRes)
     else:
         print("No video file selected.")
