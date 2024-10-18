@@ -1,0 +1,5 @@
+Mid-October:
+	Attempted to make mobileDBE in React Native
+	Scrapped attempts after extensive hours of research which lead to the conclusion that it is extremely difficult to gain access to Android/data folders without using custom native functionality (also extremely difficult to implement).
+	Moved to Trash
+	Now attempting Flutter
