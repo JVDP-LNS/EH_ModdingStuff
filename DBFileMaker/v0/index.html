@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EH DB File Maker</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>EH DB File Maker</h1>
+        <table>
+            <caption>List of available ItemTypes</caption>
+            <thead>
+                <tr onclick="window.location='placeholder/placeholder.html'">
+                    <th colspan="3">ItemType</th>
+                </tr>
+                <tr>
+                    <th>Number</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr onclick="window.location='undefined/undefined.html';">
+                    <td>0</td>
+                    <td>Undefined</td>
+                    <td>Unused</td>
+                </tr>
+                <tr onclick="window.location='component/component.html';">
+                    <td>1</td>
+                    <td>Component</td>
+                    <td>The main file for a component</td>
+                </tr>
+                <tr onclick="window.location='device/device.html';">
+                    <td>2</td>
+                    <td>Device</td>
+                    <td>Used in Ship or Component files, to give ships certain attributes</td>
+                </tr>
+                <tr onclick="window.location='weapon/weapon.html';">
+                    <td>3</td>
+                    <td>Weapon</td>
+                    <td>Used in Component files, to control shooting of ammunition</td>
+                </tr>
+                <tr onclick="window.location='ammunitionObsolete/ammunitionObsolete.html';">
+                    <td>4</td>
+                    <td>AmmunitionObsolete</td>
+                    <td>Used in Component files, it is simple and customizable based on available prefabs</td>
+                </tr>
+                <tr onclick="window.location='droneBay/droneBay.html';">
+                    <td>5</td>
+                    <td>DroneBay</td>
+                    <td>Used in Component files, to control the spawning and stats of drones</td>
+                </tr>
+                <tr onclick="window.location='ship/ship.html';">
+                    <td>6</td>
+                    <td>Ship</td>
+                    <td>The main file for a ship</td>
+                </tr>
+                <tr onclick="window.location='satellite/satellite.html';">
+                    <td>7</td>
+                    <td>Satellite</td>
+                    <td>The main file for a satellite</td>
+                </tr>
+                <tr onclick="window.location='shipBuild/shipBuild.html';">
+                    <td>8</td>
+                    <td>ShipBuild</td>
+                    <td>Each of this file makes a ship layout for use by AI or acquiring by the player</td>
+                </tr>
+                <tr onclick="window.location='satelliteBuild/satelliteBuild.html';">
+                    <td>9</td>
+                    <td>SatelliteBuild</td>
+                    <td>Each of this file makes a satellite layout for use by AI or acquiring by the player</td>
+                </tr>
+                <tr onclick="window.location='technology/technology.html';">
+                    <td>10</td>
+                    <td>Technology</td>
+                    <td>Adds a specified technology node to the assigned faction's tech tree</td>
+                </tr>
+                <tr onclick="window.location='componentStats/componentStats.html';">
+                    <td>11</td>
+                    <td>ComponentStats</td>
+                    <td>Used in Component files, to define the stats of the component</td>
+                </tr>
+                <tr onclick="window.location='componentMod/componentMod.html';">
+                    <td>12</td>
+                    <td>ComponentMod</td>
+                    <td>Used in Component files, to add a possbile modifier to the stats</td>
+                </tr>
+                <tr onclick="window.location='skill/skill.html';">
+                    <td>13</td>
+                    <td>Skill</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='faction/faction.html';">
+                    <td>14</td>
+                    <td>Faction</td>
+                    <td>The main file for a faction</td>
+                </tr>
+                <tr onclick="window.location='quest/quest.html';">
+                    <td>15</td>
+                    <td>Quest</td>
+                    <td>A file for quests, can be chained together for long quests</td>
+                </tr>
+                <tr onclick="window.location='loot/loot.html';">
+                    <td>16</td>
+                    <td>Loot</td>
+                    <td>Used in Quest files, A set of components, ships, satellites, currency etc. which can be dsiplayed, given to or retreived from the player</td>
+                </tr>
+                <tr onclick="window.location='fleet/fleet.html';">
+                    <td>18</td>
+                    <td>Fleet</td>
+                    <td>Used in Quest files, This file defines a quest battle, controls what ships appear</td>
+                </tr>
+                <tr onclick="window.location='character/character.html';">
+                    <td>19</td>
+                    <td>Character</td>
+                    <td>Used in Quest files, The main file for a quest character</td>
+                </tr>
+                <tr onclick="window.location='questItem/questItem.html';">
+                    <td>20</td>
+                    <td>QuestItem</td>
+                    <td>Used in Quest and Loot files, The main file for a quest item</td>
+                </tr>
+                <tr onclick="window.location='ammunition/ammunition.html';">
+                    <td>25</td>
+                    <td>Ammunition</td>
+                    <td>Used in Component, it allows a lot of customization</td>
+                </tr>
+                <tr onclick="window.location='visualEffect/visualEffect.html';">
+                    <td>26</td>
+                    <td>VisualEffect</td>
+                    <td>Used in Ammunition(Advanced), Devices and Weapon files, to define purely visual effects</td>
+                </tr>
+                <tr onclick="window.location='bulletPrefab/bulletPrefab.html';">
+                    <td>27</td>
+                    <td>BulletPrefab</td>
+                    <td>Used in Ammunition(Advanced), defines the hitbox behaviour of ammo</td>
+                </tr>
+                <tr onclick="window.location='behaviorTree/behaviorTree.html';">
+                    <td>28</td>
+                    <td>BehaviorTree</td>
+                    <td>Used in Ship, defines a custom AI that controls the ship in the hands of Autopilot or computer</td>
+                </tr>
+                <tr onclick="window.location='gameObjectPrefab/gameObjectPrefab.html';">
+                    <td>29</td>
+                    <td>GameObjectPrefab</td>
+                    <td>Used in Device, to customize objects created by certain devices</td>
+                </tr>
+                <tr onclick="window.location='combatRules/combatRules.html';">
+                    <td>30</td>
+                    <td>CombatRules</td>
+                    <td>Used in Fleet, to customize the battlefield</td>
+                </tr>
+                <tr onclick="window.location='componentStatUpgrade/componentStatUpgrade.html';">
+                    <td>31</td>
+                    <td>ComponentStatUpgrade</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='statUpgradeTemplate/statUpgradeTemplate.html';">
+                    <td>32</td>
+                    <td>StatUpgradeTemplate</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='frontierLevel/frontierLevel.html';">
+                    <td>33</td>
+                    <td>FrontierLevel</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='frontierCommonLevel/frontierCommonLevel.html';">
+                    <td>34</td>
+                    <td>FrontierCommonLevel</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='componentGroupTag/componentGroupTag.html';">
+                    <td>35</td>
+                    <td>ComponentGroupTag</td>
+                    <td>Used in Component, to restrict number of placeable modules belonging to the group</td>
+                </tr>
+                <tr onclick="window.location='shipSettings/shipSettings.html';">
+                    <td>100</td>
+                    <td>ShipSettings</td>
+                    <td>Global modifiers for ship stats</td>
+                </tr>
+                <tr onclick="window.location='galaxySettings/galaxySettings.html';">
+                    <td>101</td>
+                    <td>GalaxySettings</td>
+                    <td>Global settings, to define Game Start conditions and certain features in the entire map</td>
+                </tr>
+                <tr onclick="window.location='databaseSettings/databaseSettings.html';">
+                    <td>102</td>
+                    <td>DatabaseSettings</td>
+                    <td>Mod <s></s>ettings, to give the mod name, version etc</td>
+                </tr>
+                <tr onclick="window.location='explorationSettings/explorationSettings.html';">
+                    <td>103</td>
+                    <td>ExplorationSettings</td>
+                    <td>Global settings, to modify certain features in all explorations</td>
+                </tr>
+                <tr onclick="window.location='frontierSettings/frontierSettings.html';">
+                    <td>104</td>
+                    <td>FrontierSettings</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='shipModSettings/shipModSettings.html';">
+                    <td>105</td>
+                    <td>ShipModSettings</td>
+                    <td>Global settings, to modify all Ship Perks (upgrades to ship in the shipyard)</td>
+                </tr>
+                <tr onclick="window.location='specialEventSettings/specialEventSettings.html';">
+                    <td>106</td>
+                    <td>SpecialEventSettings</td>
+                    <td>Global settings, to modify date-based events that occur in the game</td>
+                </tr>
+                <tr onclick="window.location='skillSettings/skillSettings.html';">
+                    <td>107</td>
+                    <td>SkillSettings</td>
+                    <td>Global settings, to modify the skills available in the Player Skill Tree</td>
+                </tr>
+                <tr onclick="window.location='debugSettings/debugSettings.html';">
+                    <td>108</td>
+                    <td>DebugSettings</td>
+                    <td>Global settings, to modify behaviour of the secret console in the main menu</td>
+                </tr>
+                <tr onclick="window.location='combatSettings/combatSettings.html';">
+                    <td>109</td>
+                    <td>CombatSettings</td>
+                    <td>Global settings, to modify default Ship AI and CombatRules</td>
+                </tr>
+                <tr onclick="window.location='uiSettings/uiSettings.html';">
+                    <td>110</td>
+                    <td>UiSettings</td>
+                    <td>Global settings, to modify the game UI colors</td>
+                </tr>
+                <tr onclick="window.location='factionsSettings/factionsSettings.html';">
+                    <td>111</td>
+                    <td>FactionsSettings</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='musicPlaylist/musicPlaylist.html';">
+                    <td>112</td>
+                    <td>MusicPlaylist</td>
+                    <td>Global settings, to modify the random list of music</td>
+                </tr>
+                <tr onclick="window.location='researchSettings/researchSettings.html';">
+                    <td>113</td>
+                    <td>ResearchSetting</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='pvpSettings/pvpSettings.html';">
+                    <td>114</td>
+                    <td>PvpSettings</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='frontierNpcSettings/frontierNpcSettings.html';">
+                    <td>115</td>
+                    <td>FrontierNpcSettings</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='frontierLevelSettings/frontierLevelSettings.html';">
+                    <td>116</td>
+                    <td>FrontierLevelSettings</td>
+                    <td>Unused in EH</td>
+                </tr>
+                <tr onclick="window.location='localizationSettings/localizationSettings.html';">
+                    <td>117</td>
+                    <td>LocalizationSettings</td>
+                    <td>Global settings, modify what Corrosive Damage is called</td>
+                </tr>    
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Footer</td>
+                    <td>Placeholder</td>
+                    <td>Text</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EHDB Component Maker</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../index.css">
+    </head>
+    <body>
+        <h1>Layout Maker</h1>
+        <button id="gridUp">UP</button> <input id="gridSize" type="number" inputmode="numeric" value="10"> <button id="gridDown">DOWN</button>
+        <div id="dbg">null</div>
+        <div id="canvasContainer" 
+            style="height: 512px; width: 512px;
+            overflow: auto;">
+        <canvas id="canvasLayout" height="10" width="10" 
+            style="outline: 1px solid white; padding: 0;
+            height: 1000px; image-rendering: pixelated;"></canvas>
+        </div>
+        <p id="test" style="font-size: 3em;">default</p>
+        <button id="buttonSubmit">Submit</button>
+        <div id="json"></div>
+    </body>
+    <script src="layoutMaker.js"></script>
+</html>

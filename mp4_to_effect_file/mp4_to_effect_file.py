@@ -60,7 +60,7 @@ def extract_frames(video_path, output_folder, output_id, output_res):
         # Make the frame square
         frame = make_square(frame)
 
-        frame = cv2.resize(frame, (output_res, output_res))
+        frame = cv2.resize(frame, (int(output_res), int(output_res)))
         # Replace black background with transparency
         frame = replace_black_with_transparency(frame)
 

@@ -1,0 +1,974 @@
+{
+    "ItemType": 26,
+    "Id": 12345,
+    "Elements": [
+        {
+            "Type": 9,
+            "Image": "spinner_img0.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img1.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.00034435261707988976
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img2.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0006887052341597795
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img3.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0010330578512396692
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img4.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.001377410468319559
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img5.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0017217630853994489
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img6.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0020661157024793385
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img7.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0024104683195592283
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img8.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.002754820936639118
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img9.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.003099173553719008
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img10.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0034435261707988977
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img11.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0037878787878787876
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img12.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.004132231404958677
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img13.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.004476584022038567
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img14.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.004820936639118457
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img15.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.005165289256198346
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img16.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.005509641873278236
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img17.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.005853994490358126
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img18.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.006198347107438016
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img19.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.006542699724517906
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img20.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0068870523415977955
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img21.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.007231404958677685
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img22.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.007575757575757575
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img23.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.007920110192837464
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img24.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.008264462809917354
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img25.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.008608815426997244
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img26.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.008953168044077134
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img27.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.009297520661157023
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img28.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.009641873278236913
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img29.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.009986225895316803
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img30.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.010330578512396693
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img31.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.010674931129476583
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img32.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.011019283746556472
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img33.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.011363636363636362
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img34.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.011707988980716252
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img35.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.012052341597796142
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img36.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.012396694214876032
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img37.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.012741046831955921
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img38.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.013085399449035811
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img39.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.013429752066115701
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img40.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.013774104683195591
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img41.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.01411845730027548
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img42.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.01446280991735537
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img43.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.01480716253443526
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img44.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.01515151515151515
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img45.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.01549586776859504
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img46.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.015840220385674928
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img47.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.016184573002754818
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img48.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.016528925619834708
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img49.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.016873278236914598
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img50.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.017217630853994487
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img51.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.017561983471074377
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img52.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.017906336088154267
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img53.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.018250688705234157
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img54.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.018595041322314047
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img55.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.018939393939393936
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img56.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.019283746556473826
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img57.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.019628099173553716
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img58.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.019972451790633606
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img59.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.020316804407713496
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img60.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.020661157024793386
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img61.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.021005509641873275
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img62.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.021349862258953165
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img63.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.021694214876033055
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img64.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.022038567493112945
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img65.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.022382920110192835
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img66.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.022727272727272724
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img67.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.023071625344352614
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img68.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.023415977961432504
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img69.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.023760330578512394
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img70.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.024104683195592284
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img71.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.024449035812672174
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img72.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.024793388429752063
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img73.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.025137741046831953
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img74.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.025482093663911843
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img75.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.025826446280991733
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img76.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.026170798898071623
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img77.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.026515151515151512
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img78.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.026859504132231402
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img79.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.027203856749311292
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img80.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.027548209366391182
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img81.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02789256198347107
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img82.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02823691460055096
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img83.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02858126721763085
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img84.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02892561983471074
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img85.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02926997245179063
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img86.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02961432506887052
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img87.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.02995867768595041
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img88.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.0303030303030303
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img89.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03064738292011019
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img90.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03099173553719008
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img91.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03133608815426997
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img92.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.031680440771349856
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img93.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03202479338842975
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img94.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.032369146005509636
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img95.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03271349862258953
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img96.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.033057851239669415
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img97.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03340220385674931
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img98.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.033746556473829195
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img99.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03409090909090909
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img100.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.034435261707988975
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img101.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03477961432506887
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img102.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.035123966942148754
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img103.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03546831955922865
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img104.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.035812672176308534
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img105.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03615702479338843
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img106.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.036501377410468314
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img107.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03684573002754821
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img108.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03719008264462809
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img109.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03753443526170799
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img110.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03787878787878787
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img111.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.038223140495867766
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img112.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03856749311294765
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img113.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.038911845730027546
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img114.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03925619834710743
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img115.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.039600550964187325
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img116.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.03994490358126721
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img117.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.040289256198347105
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img118.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.04063360881542699
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img119.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.040977961432506885
+        },
+        {
+            "Type": 9,
+            "Image": "spinner_img120.png",
+            "ColorMode": 1,
+            "Size": 1,
+            "Lifetime": 0.00034435261707988976,
+            "StartTime": 0.04132231404958677
+        }
+    ]
+}

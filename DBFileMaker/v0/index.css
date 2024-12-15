@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid rgb(128, 128, 128);
+    border-collapse: collapse;
+    padding: 0.5em;
+}
+
+table {
+  margin-top: 1em;
+}
+
+.grid {
+  display: table;
+  background-color: grey;
+  border-spacing: 1px;
+  border: 2px solid white;
+  padding: 0px;
+}
+.row {
+  display: table-row;
+  border: 1px solid white;
+}
+.cell {
+  height: 3em;
+  width: 3em;
+  display: table-cell;
+  border: 1px solid white;
+}
+
+tr > td:nth-child(1) {
+  text-align: right;
+}
