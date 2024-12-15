@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EHDB Ship Maker</title>
+        <link rel="stylesheet" href="ship.css">
+    <script src="ship.js" defer></script>
+    </head>
+    <body>
+        <table id="tableMain">
+            <thead>
+            </thead>
+            <tbody>
+                <tr>
+                    <th class="tableRow-heading" colspan="2">Ship File</th>
+                </tr>
+                <tr>
+                    <td>ItemType</td>
+                    <td>
+                        <label>6 (Ship)</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Id</td>
+                    <td>
+                        <input id="schemaId" class="input-required" type="number" inputmode="numeric" required value="1000">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input id="schemaName" type="text" value="ExampleShippe">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td>
+                        <span id="schemaDescription" role="textbox" contenteditable="">ExampleDesc</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="canvasSizeControl">
+                        <button id="canvasSizeUp">↑</button>
+                        <input id="canvasSizeInput" type="number" value="16">
+                        <button id="canvasSizeDown">↓</button>
+                    </td>
+                    <td>
+                        <button id="canvasZoomIn">ZoomIn</button>
+                        <button id="canvasZoomOut">ZoomOut</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div id="canvasContainer">
+                            <div id="canvasBackground"></div>
+                            <canvas id="canvas" width="16" height="16"></canvas>
+                            <canvas id="grid"></canvas>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <button id="canvasErase" class="colorButtonSelected" style="background-color: grey;" onclick="selectColor(0);">|</button>
+                        <button id="canvasBlue" style="background-color: blue;" onclick="selectColor(1);">|</button>
+                        <button id="canvasGreen" style="background-color: lime;" onclick="selectColor(2);">|</button>
+                        <button id="canvasCyan" style="background-color: cyan;" onclick="selectColor(3);">|</button>
+                        <button id="canvasRed" style="background-color: red;" onclick="selectColor(4);">|</button>
+                        <button id="canvasYellow" style="background-color: yellow;" onclick="selectColor(5);">|</button>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <button id="buttonSubmit">Generate JSON and copy to Clipboard</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <pre id="jsonDisplay"></pre>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>
