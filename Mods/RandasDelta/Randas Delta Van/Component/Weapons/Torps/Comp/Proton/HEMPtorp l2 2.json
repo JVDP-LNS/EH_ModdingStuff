@@ -1,0 +1,106 @@
+{
+  "ItemType": 25,
+  "Id": 12072,
+  "Body": {
+    "Size": 0.6,
+    "Velocity": 0.1,
+    "Range": 0.005,
+    "Lifetime": 0.05,
+    "Color": "#B3FDFD",
+    "BulletPrefab": 12009,
+    "EnergyCost": 20.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#0F60FEFF",
+      "ColorMode": 1,
+      "Size": 4.5,
+      "Lifetime": 0.15
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "Color": "#0F0092CC",
+      "ColorMode": 1,
+      "Size": 1.5,
+      "Lifetime": 2.5
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12072,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 30
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#00F7FF",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "PowerMultiplier": 50.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#1F0088FF",
+      "ColorMode": 1,
+      "Size": 12.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#B3FDFD",
+      "ColorMode": 1,
+      "Size": 1.5,
+      "Lifetime": 0.075
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 998,
+      "Color": "#7A75FEFF",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "PowerMultiplier": 50.0
+    },
+    {
+      "Condition": 7,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#23003FFF",
+      "ColorMode": 1,
+      "Size": 14.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 7,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#00FFFF",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 60.0
+    },
+    {
+      "Condition": 7,
+      "EffectType": 2,
+      "Ammunition": 998,
+      "Color": "#8000FFFF",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 60.0
+    }
+  ],
+  "Effects": []
+}

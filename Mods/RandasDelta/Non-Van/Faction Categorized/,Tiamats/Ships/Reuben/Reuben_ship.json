@@ -1,0 +1,79 @@
+{
+  "ItemType": 6,
+  "Id": 12376,
+  "Name": "Reuben",
+  "SizeClass": 1,
+  "IconImage": "TAMReuben.png",
+  "IconScale": 0.9,
+  "ModelImage": "TAMReuben.png",
+  "ModelScale": 2.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#3F84FF00",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.1
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "400001404100000000011404110000000111404111000001110000011100001100404001100011000404000110011440424044110011440222044110001332222233100001132222231100000113252311000000015555510000000000555000000000000555000000000000050000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7206704,
+        "y": 0.124767229
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.7243948,
+        "y": -0.109869644
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.20297952,
+        "y": 0.109869644
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.20297952,
+        "y": -0.124767229
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.0242085662,
+        "y": 0.433891982
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.0130353821,
+        "y": -0.4264432
+      },
+      "WeaponClass": "CL"
+    }
+  ]
+}

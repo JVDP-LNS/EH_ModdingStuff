@@ -1,0 +1,128 @@
+{
+  "ItemType": 6,
+  "Id": 37,
+  "Name": "Hornet MK2",
+  "Faction": 4,
+  "SizeClass": 2,
+  "IconImage": "4hornetmk2.png",
+  "IconScale": 1.1,
+  "ModelImage": "4hornetmk2.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.015
+  },
+  "EngineColor": "#3D7AFFD0",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.13
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.25
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.22
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.63,
+        "y": 0.35
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.63,
+        "y": -0.31
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.48
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.45
+      },
+      "Size": 0.1
+    }
+  ],
+  "EnergyResistance": 0.5,
+  "Regeneration": true,
+  "Layout": "400000444000000000000444000000000000444000000000401000104000000411020114000000411222114000000112222211000004113222311400004113323311400000111333111000000011131110000000051111150000000005111500000000005555500000000000505000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.260997057,
+        "y": 0.02052786
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.991202354,
+        "y": 0.0263929628
+      },
+      "PlatformType": 2,
+      "AutoAimingArc": 120.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.624633431,
+        "y": 0.5894428
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.6099707,
+        "y": -0.530791759
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.04105572,
+        "y": 0.6392962
+      },
+      "Rotation": 20.0,
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.02346041,
+        "y": -0.6334311
+      },
+      "Rotation": -20.0,
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13109,
+  "Name": "Soaring Falcon",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13109,
+  "Icon": "intertial_damper2",
+  "Color": "#ADBBBC",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13118,
+  "Name": "Salvage Beam",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "energybeam1",
+  "Color": "#B5B5B5",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13118,
+  "AmmunitionId": 13118,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16,
+    7
+  ]
+}

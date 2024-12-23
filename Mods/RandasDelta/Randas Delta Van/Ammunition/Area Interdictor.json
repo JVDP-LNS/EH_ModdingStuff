@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 993,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1002,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#017F7F7F",
+      "ColorMode": 2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 5,
+      "Power": 1.0
+    },
+    {
+      "DamageType": 1,
+      "Power": 1E-05
+    }
+  ]
+}

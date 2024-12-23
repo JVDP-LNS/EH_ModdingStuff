@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 13003,
+  "Name": "Pulse Dartling Gun",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 500,
+  "Icon": "gun1",
+  "Color": "#8FEFEF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13003,
+  "AmmunitionId": 13001,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    5
+  ]
+}

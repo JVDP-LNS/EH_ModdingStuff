@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 12111,
+  "Body": {
+    "Type": 2,
+    "Size": 0.5,
+    "Lifetime": 0.5,
+    "Weight": 10.0,
+    "HitPoints": 1000,
+    "Color": "#01050505",
+    "BulletPrefab": 3,
+    "EnergyCost": 1.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [],
+  "ImpactType": 2,
+  "Effects": []
+}

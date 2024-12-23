@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 12003,
+  "Elements": [
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

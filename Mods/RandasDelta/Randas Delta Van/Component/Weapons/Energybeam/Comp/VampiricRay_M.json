@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 103,
+  "Name": "Vampiric Ray M2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 9,
+  "Level": 110,
+  "Icon": "energybeam2",
+  "Color": "#FF0000",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 88,
+  "AmmunitionId": 12195,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

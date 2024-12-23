@@ -1,0 +1,88 @@
+{
+  "ItemType": 6,
+  "Id": 76,
+  "Name": "Gladius MK2",
+  "SizeClass": 3,
+  "IconImage": "0gladiusmk2.png",
+  "IconScale": 1.15,
+  "ModelImage": "0gladiusmk2.png",
+  "ModelScale": 4.2,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#4100F2FF",
+  "EngineSize": 0.5,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.6
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.6
+      },
+      "Size": 0.3
+    }
+  ],
+  "BaseWeightModifier": 0.2,
+  "Layout": "4004400000004400000044400000444000000444000004440000441100000001144004411024442011440044112244422114401111122444221111111133322222333111111333222223331111111112222211111111133322222333111011333222223331100011112222211110000551125552115500005515555555155000000055555550000000000050005000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9501466,
+        "y": 0.5014663
+      },
+      "WeaponClass": "LC"
+    },
+    {
+      "Position": {
+        "x": 0.947214067,
+        "y": -0.478005856
+      },
+      "WeaponClass": "LM"
+    },
+    {
+      "Position": {
+        "x": 0.563049853,
+        "y": 0.78299123
+      },
+      "WeaponClass": "LM"
+    },
+    {
+      "Position": {
+        "x": 0.5542522,
+        "y": -0.750733137
+      },
+      "WeaponClass": "LM"
+    },
+    {
+      "Position": {
+        "x": 0.325513184,
+        "y": 0.0117302053
+      },
+      "PlatformType": 3,
+      "WeaponClass": "LMS"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13061,
+  "Name": "Zombie's Reanimation",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 3,
+  "Icon": "detonator1",
+  "Color": "#DFC99F",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13061,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

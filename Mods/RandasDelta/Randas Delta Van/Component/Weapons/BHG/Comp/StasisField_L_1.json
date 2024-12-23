@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 23,
+  "Name": "Heavy Stasis Field",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 4,
+  "Level": 70,
+  "Icon": "torpedo2",
+  "Color": "#FFA0FF",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 81,
+  "AmmunitionId": 12163,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

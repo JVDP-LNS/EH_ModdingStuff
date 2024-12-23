@@ -1,0 +1,107 @@
+{
+  "ItemType": 25,
+  "Id": 12191,
+  "Body": {
+    "Type": 3,
+    "Size": 2.0,
+    "Range": 14.0,
+    "Lifetime": 0.1,
+    "Color": "#FF0073",
+    "BulletPrefab": 12010,
+    "EnergyCost": 40.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 996,
+      "Color": "#39FF0004",
+      "ColorMode": 1,
+      "Size": 28.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 20.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#41FF006A",
+      "ColorMode": 1,
+      "Size": 25.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 18.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 997,
+      "Color": "#45FF00F0",
+      "ColorMode": 1,
+      "Size": 22.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 16.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#3F7B00FF",
+      "ColorMode": 1,
+      "Size": 19.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 14.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#430D00FF",
+      "ColorMode": 1,
+      "Size": 16.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 12.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Color": "#3D0077FF",
+      "ColorMode": 1,
+      "Size": 13.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 10.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12185,
+      "Color": "#3900EDFF",
+      "ColorMode": 1,
+      "Quantity": 8,
+      "Size": 4.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#3F0001FF",
+      "ColorMode": 1,
+      "Size": 30.0,
+      "Lifetime": 1.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12019,
+      "Color": "#6EFF008D",
+      "ColorMode": 1,
+      "Size": 25.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 20.0
+    }
+  ],
+  "ImpactType": 2
+}

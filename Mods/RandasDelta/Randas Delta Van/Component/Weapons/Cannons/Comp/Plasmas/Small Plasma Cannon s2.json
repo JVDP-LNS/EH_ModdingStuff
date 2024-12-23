@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 12221,
+  "Body": {
+    "Type": 2,
+    "Size": 0.01,
+    "Lifetime": 0.02,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12046,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

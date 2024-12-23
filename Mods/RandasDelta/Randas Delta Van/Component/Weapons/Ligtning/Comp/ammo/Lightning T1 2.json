@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 12112,
+  "Body": {
+    "Type": 2,
+    "Size": 0.1,
+    "Range": 1.0,
+    "Lifetime": 0.04
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12105,
+      "Color": "#6E4CDBFE",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "PowerMultiplier": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12112,
+      "Color": "#01000405",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "MaxNestingLevel": 3
+    }
+  ],
+  "ImpactType": 2
+}

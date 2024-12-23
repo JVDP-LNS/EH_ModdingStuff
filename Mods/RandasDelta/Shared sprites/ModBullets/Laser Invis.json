@@ -1,0 +1,11 @@
+{
+  "ItemType": 27,
+  "Id": 12010,
+  "Shape": 2,
+  "Image": "laser",
+  "Size": 1.0,
+  "Margins": 1.0,
+  "MainColor": "#02050505",
+  "MainColorMode": 1,
+  "SecondColor": "#02050505"
+}

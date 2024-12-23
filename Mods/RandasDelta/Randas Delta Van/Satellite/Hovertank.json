@@ -1,0 +1,20 @@
+{
+  "ItemType": 7,
+  "Id": 22,
+  "Name": "$Hovertank",
+  "ModelImage": "hovertank",
+  "ModelScale": 1.8,
+  "SizeClass": -1,
+  "Layout": "0004000114441111444115544455552225555222550022200",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.2
+      },
+      "PlatformType": 1,
+      "WeaponClass": "CT",
+      "Image": "hovertank_gun",
+      "Size": 1.4
+    }
+  ]
+}

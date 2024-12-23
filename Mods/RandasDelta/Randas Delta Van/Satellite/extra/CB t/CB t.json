@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17049,
+  "Name": "Carrier M4",
+  "ModelImage": "satellite5",
+  "ModelScale": 1.8,
+  "SizeClass": -1,
+  "Layout": "0000000111111111111111111111111111111111111111111",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "C",
+      "Image": "holy_gun ",
+      "Size": 1.5
+    }
+  ]
+}

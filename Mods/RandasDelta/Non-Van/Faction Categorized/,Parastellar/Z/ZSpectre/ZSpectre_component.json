@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13210,
+  "Name": "Spectral Barrage",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 12301,
+  "Icon": "shock2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 17010,
+  "AmmunitionId": 13210,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    13
+  ]
+}

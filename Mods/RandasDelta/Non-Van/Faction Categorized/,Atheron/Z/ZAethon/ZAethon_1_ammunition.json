@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 13235,
+  "Body": {
+    "Type": 2,
+    "Size": 0.1,
+    "Velocity": 30.0,
+    "Range": 30.0,
+    "EnergyCost": 50.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13236,
+      "Color": "#00000000",
+      "Size": 5.0,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13235,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "RandomFactor": 1.0,
+      "MaxNestingLevel": 3
+    }
+  ],
+  "ImpactType": 1
+}

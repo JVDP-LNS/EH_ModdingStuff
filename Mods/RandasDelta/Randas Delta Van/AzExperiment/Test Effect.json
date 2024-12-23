@@ -1,0 +1,23 @@
+{
+  "ItemType": 26,
+  "Id": 19999,
+  "Elements": [
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "ColorMode": 2,
+      "Color": "#00FFFFFF",
+      "Size": 10.0,
+      "StartTime": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "ColorMode": 2,
+      "Color": "#00FFFFFF",
+      "Size": 10.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

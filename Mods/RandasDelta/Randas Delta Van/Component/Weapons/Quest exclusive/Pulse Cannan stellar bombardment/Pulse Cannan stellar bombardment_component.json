@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 12201,
+  "Name": "Pulse Cannan stellar bombardment",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#FF0200",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 12201,
+  "AmmunitionId": 12201
+}

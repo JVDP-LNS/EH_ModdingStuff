@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13116,
+  "Name": "Gladius Beam",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "laser3",
+  "Color": "#B7B7B7",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13116,
+  "AmmunitionId": 13116,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    14,
+    16
+  ]
+}

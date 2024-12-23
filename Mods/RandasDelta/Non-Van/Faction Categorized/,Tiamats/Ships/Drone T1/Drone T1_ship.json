@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 12361,
+  "ShipCategory": 6,
+  "Name": "Drone T1",
+  "IconImage": "TAMdrone1.png",
+  "IconScale": 0.5,
+  "ModelImage": "TAMdrone1.png",
+  "ModelScale": 0.6,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3B89FF00",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.7,
+  "Layout": "4400000004444000000044440000000444400000004433333333333333333333333333333333333333333333555555555005555555550055555555500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7914339,
+        "y": 0.333333343
+      }
+    },
+    {
+      "Position": {
+        "x": 0.7914339,
+        "y": -0.318435758
+      }
+    }
+  ]
+}

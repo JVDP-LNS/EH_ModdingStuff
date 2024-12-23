@@ -1,0 +1,49 @@
+{
+  "ItemType": 25,
+  "Id": 12082,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 15.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "AudioClip": "explosion_04",
+      "Color": "#7AFF007B",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 15.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1002,
+      "AudioClip": "explosion_04",
+      "Color": "#0063FF",
+      "ColorMode": 1,
+      "Size": 1.2,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_02",
+      "Color": "#297900FF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 15.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 1.0
+    }
+  ]
+}

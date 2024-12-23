@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 168,
+  "Name": "$IonCannon_L_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 11,
+  "Level": 150,
+  "Icon": "ion_cannon1",
+  "Color": "#BCC7FF",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 22,
+  "AmmunitionId": 12175,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7,
+    14
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13073,
+  "Name": "Shadow Cloak",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 7,
+  "Icon": "doom1",
+  "Color": "#D2D8BF",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13073,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

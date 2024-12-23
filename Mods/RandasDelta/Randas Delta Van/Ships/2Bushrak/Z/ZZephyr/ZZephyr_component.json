@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13015,
+  "Name": "Zephyr Booster ",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "accelerator1",
+  "Color": "#FFB2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13015,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

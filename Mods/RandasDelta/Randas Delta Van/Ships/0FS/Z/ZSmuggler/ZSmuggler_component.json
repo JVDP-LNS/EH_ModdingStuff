@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13121,
+  "Name": "Rigged Junk Launcher",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "torpedo3",
+  "Color": "#BABABA",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13121,
+  "AmmunitionId": 13121,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    13,
+    14
+  ]
+}

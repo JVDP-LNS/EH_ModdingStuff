@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 69,
+  "Name": "Crab MK2",
+  "Faction": 12,
+  "SizeClass": 2,
+  "IconImage": "12crabmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "12crabmk2.png",
+  "ModelScale": 3.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#3BFF887F",
+  "EngineSize": 0.3,
+  "Regeneration": true,
+  "Layout": "4000000000000000000000000004040000000000000000404000000000000000040400000000000040004040004000000014400444004410000001440133310441000001144132223144110000133112222211331000013333222223333100001111122222111110000011013222310110000000055122215500000000055501110555000000005551101155500000000500555550050000000000555555500000000000055505550000000000000500050000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    },
+    {
+      "Position": {
+        "x": 0.2700186,
+        "y": 0.549348235
+      },
+      "Rotation": -10.0,
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    },
+    {
+      "Position": {
+        "x": 0.2774674,
+        "y": -0.538175046
+      },
+      "Rotation": 10.0,
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    }
+  ]
+}

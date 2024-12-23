@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 13092,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 1E-05,
+    "Range": 20.0,
+    "Lifetime": 0.1,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 993,
+      "Size": 40.0,
+      "PowerMultiplier": 1E-05
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1001,
+      "Color": "#3265CEFF",
+      "ColorMode": 1,
+      "Size": 20.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": []
+}

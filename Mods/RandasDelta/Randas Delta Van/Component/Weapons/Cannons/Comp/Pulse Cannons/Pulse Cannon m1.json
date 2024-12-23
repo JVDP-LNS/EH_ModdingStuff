@@ -1,0 +1,76 @@
+{
+  "ItemType": 25,
+  "Id": 11003,
+  "Body": {
+    "Size": 0.6,
+    "Velocity": 30.0,
+    "Range": 20.0,
+    "Lifetime": 0.7,
+    "Color": "#FF9D84",
+    "BulletPrefab": 12001,
+    "EnergyCost": 1.5
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 12001,
+      "Color": "#FF9D84",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.9
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#32FF3F00",
+      "ColorMode": 1,
+      "Size": 10.0,
+      "Lifetime": 0.9
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#1EFD8653",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "Lifetime": 0.8
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#32F91000",
+      "ColorMode": 1,
+      "Size": 20.0,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#3CFE8E56",
+      "ColorMode": 1,
+      "Size": 10.0,
+      "Lifetime": 0.15
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "hit_01",
+      "Color": "#46FFAA65",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "Lifetime": 0.1
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 4.0
+    }
+  ]
+}

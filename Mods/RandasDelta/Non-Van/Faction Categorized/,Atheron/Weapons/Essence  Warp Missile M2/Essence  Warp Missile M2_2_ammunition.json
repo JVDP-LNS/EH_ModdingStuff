@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 12296,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 50.0,
+    "Range": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12297,
+      "Color": "#00000000",
+      "Quantity": 5
+    }
+  ],
+  "ImpactType": 1
+}

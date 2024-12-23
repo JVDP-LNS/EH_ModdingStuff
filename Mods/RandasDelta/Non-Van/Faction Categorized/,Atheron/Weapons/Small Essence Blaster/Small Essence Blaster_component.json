@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12285,
+  "Name": "Small Essence Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 80,
+  "Icon": "gun2",
+  "Color": "#D47FFF",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 17004,
+  "AmmunitionId": 12285,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 106,
+  "Name": "$MassDriver_M_2",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 50,
+  "Icon": "gun7",
+  "Color": "#BFEF8F",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 36,
+  "AmmunitionId": 12121,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

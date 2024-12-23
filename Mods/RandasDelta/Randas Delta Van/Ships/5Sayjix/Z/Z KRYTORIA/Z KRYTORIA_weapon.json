@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 13057,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*flux_03",
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "controls_shot"
+}

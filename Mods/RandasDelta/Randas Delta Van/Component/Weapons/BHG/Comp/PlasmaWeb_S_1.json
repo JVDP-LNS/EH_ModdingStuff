@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 163,
+  "Name": "$PlasmaWeb_S_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 70,
+  "Icon": "torpedo4",
+  "Color": "#F9FFD7",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 54,
+  "AmmunitionId": 12142,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

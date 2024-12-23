@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 13202,
+  "DeviceClass": 9,
+  "EnergyConsumption": 3.0,
+  "PassiveEnergyConsumption": 1.0,
+  "Power": 1.0,
+  "Size": 2.0,
+  "Cooldown": 0.2,
+  "Offset": {
+    "x": 2.0
+  },
+  "ActivationType": 2,
+  "Color": "#3FBF88",
+  "EffectPrefab": "Flicker",
+  "ControlButtonIcon": "controls_boost"
+}

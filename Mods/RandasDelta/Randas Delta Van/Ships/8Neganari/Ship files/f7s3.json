@@ -1,0 +1,75 @@
+{
+  "ItemType": 6,
+  "Id": 53,
+  "Name": "Hatchet MK2",
+  "Faction": 8,
+  "SizeClass": 1,
+  "IconImage": "8hatchetmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "8hatchetmk2.png",
+  "ModelScale": 2.2,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FFE865",
+  "EngineSize": 0.5,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.84
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.85
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.1,
+  "Layout": "4000001000000000000100000000000111000000000003000000000002220000004041222140400404122214040041412221414001111222111101111022201111110000500001110000555000011000555550001",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.7
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": -0.0263929628,
+        "y": 0.448680341
+      },
+      "Rotation": 90.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.02346041,
+        "y": -0.4398827
+      },
+      "Rotation": -90.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.219941348,
+        "y": 0.4516129
+      },
+      "Rotation": 90.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.225806445,
+        "y": -0.4398827
+      },
+      "Rotation": -90.0,
+      "WeaponClass": "CMT"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 12265,
+  "Name": "Ichorburner",
+  "DisplayCategory": 4,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Level": 75,
+  "Icon": "afterburner1",
+  "Color": "#D670FF",
+  "Layout": "010010010",
+  "CellType": "5",
+  "DeviceId": 12265,
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

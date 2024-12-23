@@ -1,0 +1,70 @@
+{
+  "ItemType": 6,
+  "Id": 12371,
+  "ShipCategory": 1,
+  "Name": "Garav",
+  "IconImage": "TAMGarav.png",
+  "IconScale": 0.8,
+  "ModelImage": "TAMGarav.png",
+  "ModelScale": 1.4,
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "EngineColor": "#4182FF00",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "BaseWeightModifier": -0.2,
+  "Layout": "4004020400000042224000001422241000010020010001122222110411222221140110555011000105550100001100011000011000110000010001000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.664804459,
+        "y": 0.2849162
+      },
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.661080062,
+        "y": -0.266294241
+      },
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.00186219742,
+        "y": 0.981378
+      },
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.00186219742,
+        "y": -0.951582849
+      },
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    }
+  ]
+}

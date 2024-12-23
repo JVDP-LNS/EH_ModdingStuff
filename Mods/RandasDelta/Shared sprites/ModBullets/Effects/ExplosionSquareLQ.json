@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 14019,
+  "Elements": [
+    {
+      "Image": "explosionSquareLQ.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

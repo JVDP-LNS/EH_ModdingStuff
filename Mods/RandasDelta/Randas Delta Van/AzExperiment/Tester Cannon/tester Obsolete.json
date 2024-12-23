@@ -1,0 +1,12 @@
+{
+  "ItemType": 4,
+  "Id": 19998,
+  "AmmunitionClass": 19,
+  "Impulse": 0.001,
+  "Size": 30.0,
+  "Range": 250.0,
+  "Velocity": 50.0,
+  "HitPoints": 100,
+  "Color": "#3FA400FF",
+  "BulletPrefab": "Rocket"
+}

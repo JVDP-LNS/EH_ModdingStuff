@@ -1,0 +1,61 @@
+{
+  "ItemType": 6,
+  "Id": 64,
+  "Name": "Barracuda",
+  "Faction": 9,
+  "IconImage": "9baraccudamk2.png",
+  "IconScale": 0.8,
+  "ModelImage": "9baraccudamk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#40FF00FE",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.98
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.98
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "4000040000000001410000000024200000000242000000002220000000022200004000020000441112221114411155511140011555110000000500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": -0.08504399,
+        "y": 0.894428134
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.09384164,
+        "y": -0.8797654
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

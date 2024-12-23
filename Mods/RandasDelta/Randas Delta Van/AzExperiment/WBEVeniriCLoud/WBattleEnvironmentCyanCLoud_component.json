@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 18001,
+  "Name": "WBECyan",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#1E00FEFF",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 18001,
+  "AmmunitionId": 18001,
+  "PossibleModifications": [
+    14,
+    6
+  ]
+}

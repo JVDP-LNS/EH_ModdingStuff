@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13208,
+  "Name": "Pulse Spear",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Icon": "gun7",
+  "Color": "#B2FFFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13208,
+  "AmmunitionId": 13208,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

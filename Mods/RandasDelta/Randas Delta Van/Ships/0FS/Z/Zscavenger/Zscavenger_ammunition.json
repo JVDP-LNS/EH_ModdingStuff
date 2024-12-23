@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 13118,
+  "Body": {
+    "Type": 3,
+    "Size": 0.5,
+    "Range": 12.0,
+    "Lifetime": 0.1,
+    "Color": "#4500FFAC",
+    "BulletPrefab": 2,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#007A7A7A",
+      "ColorMode": 2,
+      "Size": 10.0,
+      "Lifetime": 0.1
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 2,
+      "Power": 10.0
+    }
+  ]
+}

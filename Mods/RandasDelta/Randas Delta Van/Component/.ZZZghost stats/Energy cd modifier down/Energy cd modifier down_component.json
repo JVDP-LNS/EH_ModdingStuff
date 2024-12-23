@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 14003,
+  "Name": "Energy cd modifier down",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 14003,
+  "Icon": "gun1",
+  "Color": "#01020202",
+  "Layout": "0",
+  "PossibleModifications": [
+    13,
+    21
+  ]
+}

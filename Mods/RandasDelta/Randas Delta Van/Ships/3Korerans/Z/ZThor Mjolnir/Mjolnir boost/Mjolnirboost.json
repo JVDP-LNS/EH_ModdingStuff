@@ -1,0 +1,12 @@
+{
+  "ItemType": 2,
+  "Id": 13026,
+  "Power": 1.0,
+  "Size": 0.1,
+  "Cooldown": 1.0,
+  "Lifetime": 1.0,
+  "ActivationType": 2,
+  "Color": "#FEFF00",
+  "EffectPrefab": "Charge1",
+  "ControlButtonIcon": "controls_boost"
+}

@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 13016,
+  "Body": {
+    "Type": 3,
+    "Size": 0.1,
+    "Range": 15.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 2,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 13018,
+      "Quantity": 1,
+      "Cooldown": 0.02
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": []
+}

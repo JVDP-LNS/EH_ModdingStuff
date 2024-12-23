@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13120,
+  "Name": "Easter Shell",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Icon": "inertial1",
+  "Color": "#DBC7D9",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13120,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

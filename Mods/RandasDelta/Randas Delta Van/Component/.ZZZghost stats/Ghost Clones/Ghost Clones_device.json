@@ -1,0 +1,13 @@
+{
+  "ItemType": 2,
+  "Id": 15002,
+  "DeviceClass": 16,
+  "EnergyConsumption": 10.0,
+  "PassiveEnergyConsumption": 1.0,
+  "Power": 1.0,
+  "Size": 1.0,
+  "Cooldown": 60.0,
+  "ActivationType": 2,
+  "EffectPrefab": "Wave",
+  "ControlButtonIcon": "controls_boost"
+}

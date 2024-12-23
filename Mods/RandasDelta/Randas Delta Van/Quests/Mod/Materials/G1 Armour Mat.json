@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15006,
+  "Name": "Grade 1 Armour Mats",
+  "Description": "A special compound produced at a fuel forge, which slighty resists damage.",
+  "Icon": "stone",
+  "Color": "#84E0D1",
+  "Price": 30
+}

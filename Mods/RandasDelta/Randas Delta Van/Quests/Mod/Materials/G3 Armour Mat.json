@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15010,
+  "Name": "Grade 3 Armour Mats",
+  "Description": "A special compound produced at a fuel forge, which damage",
+  "Icon": "stone",
+  "Color": "#88E197",
+  "Price": 3000
+}

@@ -1,0 +1,76 @@
+{
+  "ItemType": 6,
+  "Id": 75,
+  "Name": "Eden MK2",
+  "SizeClass": 1,
+  "IconImage": "0edenmk2.png",
+  "IconScale": 0.8,
+  "ModelImage": "0edenmk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineColor": "#4100EEFF",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.15
+      },
+      "Size": 0.2
+    }
+  ],
+  "Regeneration": true,
+  "BaseWeightModifier": 0.2,
+  "Layout": "400004400000000014410000011334433110115222222511115222222511022224422220044224422440144222222441111222222111011225522110000005500000000055550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "Offset": 0.2,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.4868035
+      },
+      "Offset": 0.2,
+      "PlatformType": 3,
+      "WeaponClass": "CMTL"
+    },
+    {
+      "Offset": 0.2,
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.266862184,
+        "y": 0.4340176
+      },
+      "Rotation": 120.0,
+      "Offset": 0.2,
+      "PlatformType": 2,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.266862184,
+        "y": -0.4281525
+      },
+      "Rotation": -120.0,
+      "Offset": 0.2,
+      "PlatformType": 2,
+      "WeaponClass": "L"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 13106,
+  "Name": "Tartaral Gravity Pit",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 9,
+  "Icon": "detonator1",
+  "Color": "#FF00A9",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13106,
+  "AmmunitionId": 13106,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    13,
+    6
+  ]
+}

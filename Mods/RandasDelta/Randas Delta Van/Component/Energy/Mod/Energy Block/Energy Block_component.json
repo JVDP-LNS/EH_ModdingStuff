@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 11003,
+  "Name": "Energy Block",
+  "DisplayCategory": 3,
+  "ComponentStatsId": 11003,
+  "Level": 70,
+  "Icon": "block",
+  "Color": "#00FDFF",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

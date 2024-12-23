@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12139,
+  "Name": "Blackhole Cannon",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 3,
+  "Faction": 9,
+  "Level": 120,
+  "Icon": "gun7",
+  "Color": "#660033",
+  "Layout": "0000000100001000010000100",
+  "CellType": "4",
+  "WeaponId": 13042,
+  "AmmunitionId": 12140,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    6,
+    7
+  ]
+}

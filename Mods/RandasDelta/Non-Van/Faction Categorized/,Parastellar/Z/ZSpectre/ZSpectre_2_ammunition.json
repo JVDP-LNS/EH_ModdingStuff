@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 13211,
+  "Body": {
+    "Type": 2,
+    "Size": 0.1,
+    "Velocity": 10.0,
+    "Range": 0.5,
+    "Lifetime": 0.05
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13212,
+      "Color": "#0A00F5FF",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "RandomFactor": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

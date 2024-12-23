@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 171,
+  "Name": "Repair Beam",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 11,
+  "Level": 150,
+  "Icon": "laser3",
+  "Color": "#C2FFC0",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 71,
+  "AmmunitionId": 71,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

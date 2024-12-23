@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 12044,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 0.1,
+    "Range": 0.03,
+    "Lifetime": 0.3
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12043,
+      "Quantity": 2,
+      "PowerMultiplier": 1.0
+    }
+  ]
+}

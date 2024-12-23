@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 13615,
+  "Name": "ZAnchorageTEST",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#BB00FF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 17009,
+  "AmmunitionId": 13615,
+  "PossibleModifications": [
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    13
+  ]
+}

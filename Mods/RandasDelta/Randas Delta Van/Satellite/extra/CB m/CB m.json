@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17047,
+  "Name": "Carrier M2",
+  "ModelImage": "satellite5",
+  "ModelScale": 0.7,
+  "SizeClass": -1,
+  "Layout": "0000011111111111111100000",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "C",
+      "Image": "holy_gun ",
+      "Size": 1.5
+    }
+  ]
+}

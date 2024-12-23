@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 12343,
+  "Name": "Small Condensed Plasma Beam",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 130,
+  "Icon": "laser2",
+  "Color": "#95ECEE",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 17006,
+  "AmmunitionId": 12343,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    7
+  ]
+}

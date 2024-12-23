@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 12085,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 2.0,
+    "Range": 3.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12076
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#00FFFFFF",
+      "ColorMode": 2,
+      "Size": 3.0,
+      "Lifetime": 0.3
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": []
+}

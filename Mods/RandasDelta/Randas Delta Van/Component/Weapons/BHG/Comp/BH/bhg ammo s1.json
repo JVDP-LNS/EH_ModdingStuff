@@ -1,0 +1,122 @@
+{
+  "ItemType": 25,
+  "Id": 12138,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 30.0,
+    "Range": 15.0,
+    "Lifetime": 0.5,
+    "Color": "#FECCE5",
+    "BulletPrefab": 12001,
+    "EnergyCost": 50.0
+  },
+  "Triggers": [
+    {
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#50000000",
+      "ColorMode": 1,
+      "Size": 50.0,
+      "Lifetime": 10.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1EFF0088",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#32FF7FBF",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 83.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 71.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 59.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 47.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 35.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "ColorMode": 1,
+      "Size": 25.0,
+      "RandomFactor": 0.2
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "Color": "#FFE0F7",
+      "Size": 20.0,
+      "RandomFactor": 0.2,
+      "PowerMultiplier": 2.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "Color": "#FECCE5",
+      "ColorMode": 1,
+      "Size": 15.0,
+      "RandomFactor": 0.2,
+      "PowerMultiplier": 3.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "Color": "#FF99CC",
+      "ColorMode": 1,
+      "Size": 12.0,
+      "RandomFactor": 0.2,
+      "PowerMultiplier": 4.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "Color": "#FE4CA5",
+      "ColorMode": 1,
+      "Size": 7.0,
+      "RandomFactor": 0.2,
+      "PowerMultiplier": 5.0
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 20.0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ItemType": 11,
+  "Id": 12262,
+  "Type": 1,
+  "EnergyPoints": 12.0,
+  "EnergyRechargeRate": 12.0,
+  "EnergyRechargeCooldownModifier": -0.2,
+  "Weight": 75.0
+}

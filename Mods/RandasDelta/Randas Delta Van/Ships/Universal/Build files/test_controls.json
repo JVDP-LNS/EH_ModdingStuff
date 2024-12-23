@@ -1,0 +1,181 @@
+{
+  "ItemType": 8,
+  "Id": 226,
+  "ShipId": 32,
+  "NotAvailableInGame": true,
+  "BuildFaction": -1,
+  "Components": [
+    {
+      "ComponentId": 58,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 10,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 58,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 7,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 56,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 56,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 13,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 56,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 5,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 57,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 11,
+      "Y": 18,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 57,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 18,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 57,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 7,
+      "Y": 18,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 116,
+      "Modification": 6,
+      "Quality": 5,
+      "Locked": true,
+      "X": 15,
+      "Y": 12,
+      "BarrelId": 3
+    },
+    {
+      "ComponentId": 116,
+      "Modification": 6,
+      "Quality": 5,
+      "Locked": true,
+      "X": 1,
+      "Y": 12,
+      "BarrelId": 2
+    },
+    {
+      "ComponentId": 112,
+      "Locked": true,
+      "X": 16,
+      "Y": 12,
+      "BarrelId": 3,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 112,
+      "Locked": true,
+      "Y": 12,
+      "BarrelId": 2,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 151,
+      "Modification": 6,
+      "Quality": 5,
+      "Locked": true,
+      "X": 8,
+      "Y": 1,
+      "BarrelId": 1,
+      "KeyBinding": 2
+    },
+    {
+      "ComponentId": 75,
+      "Modification": 12,
+      "Quality": 5,
+      "Locked": true,
+      "X": 7,
+      "Y": 11,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 13,
+      "Y": 13,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 8,
+      "Y": 5,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 3,
+      "Y": 13,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
+      "ComponentId": 70,
+      "Modification": 2,
+      "Quality": 5,
+      "Locked": true,
+      "X": 8,
+      "Y": 8,
+      "BarrelId": -1,
+      "KeyBinding": 3
+    },
+    {
+      "ComponentId": 13035,
+      "Modification": 14,
+      "Quality": 5,
+      "Locked": true,
+      "KeyBinding": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 2,
+  "Id": 13216,
+  "DeviceClass": 13,
+  "EnergyConsumption": 2.0,
+  "PassiveEnergyConsumption": 2.0,
+  "Cooldown": 10.0,
+  "ActivationType": 2,
+  "Color": "#FF1E22",
+  "ControlButtonIcon": "controls_boost"
+}

@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 43,
+  "Name": "Chronos MK2",
+  "Faction": 5,
+  "SizeClass": 2,
+  "IconImage": "5chronosmk2.png",
+  "IconScale": 1.1,
+  "ModelImage": "5chronosmk2.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#40FEFF6B",
+  "EngineSize": 0.5,
+  "BaseWeightModifier": 0.1,
+  "BuiltinDevices": [],
+  "Layout": "4000011100000001111111110001113333311100113222223110043220402234044322444223444432244422344043220402234001132555231100111355531110001105550110000010050010000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.05
+      },
+      "Offset": 0.4,
+      "PlatformType": 2,
+      "AutoAimingArc": 155.0,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.06744868,
+        "y": 0.580645144
+      },
+      "Rotation": 90.0,
+      "Offset": 0.4,
+      "PlatformType": 2,
+      "AutoAimingArc": 40.0,
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.05
+      },
+      "Offset": 0.31,
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.06158358,
+        "y": -0.5777126
+      },
+      "Rotation": -90.0,
+      "Offset": 0.4,
+      "PlatformType": 2,
+      "AutoAimingArc": 40.0,
+      "WeaponClass": "C"
+    }
+  ]
+}

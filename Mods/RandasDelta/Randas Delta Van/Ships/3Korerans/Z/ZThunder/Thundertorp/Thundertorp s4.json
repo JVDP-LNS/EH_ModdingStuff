@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 13039,
+  "Body": {
+    "Type": 3,
+    "Size": 0.4,
+    "Range": 1.5,
+    "Lifetime": 1.0,
+    "BulletPrefab": 5
+  },
+  "Triggers": [],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 1.0
+    }
+  ]
+}

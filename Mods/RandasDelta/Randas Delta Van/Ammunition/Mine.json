@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 109,
+  "Body": {
+    "Type": 2,
+    "Size": 0.5,
+    "Lifetime": 30.0,
+    "Weight": 0.5,
+    "HitPoints": 10,
+    "Color": "#C0C0C0",
+    "BulletPrefab": 9,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "explosion_04",
+      "Ammunition": 999,
+      "Color": "#FFBE00",
+      "ColorMode": 2,
+      "Quantity": 1,
+      "Size": 5.0,
+      "PowerMultiplier": 30.0
+    }
+  ],
+  "Effects": []
+}

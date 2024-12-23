@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13002,
+  "Name": "Paladin's Shield",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 1,
+  "Level": 500,
+  "Icon": "shield2",
+  "Color": "#8FEFEF",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13002,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    15
+  ]
+}

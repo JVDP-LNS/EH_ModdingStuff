@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 12081,
+  "Body": {
+    "Type": 1,
+    "Size": 0.3,
+    "Velocity": 14.0,
+    "Range": 14.0,
+    "Weight": 0.3,
+    "BulletPrefab": 12002,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 997,
+      "Color": "#37B200FF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "PowerMultiplier": 5.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12081,
+      "Quantity": 2,
+      "MaxNestingLevel": 3
+    }
+  ],
+  "Effects": [
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 5.0
+    }
+  ]
+}

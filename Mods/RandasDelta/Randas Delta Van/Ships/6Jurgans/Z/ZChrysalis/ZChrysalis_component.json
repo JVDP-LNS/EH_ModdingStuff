@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13050,
+  "Name": "Chrysalis Shell",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13050,
+  "Faction": 6,
+  "Icon": "doom1",
+  "Color": "#DFC99F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    3
+  ]
+}

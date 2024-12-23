@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 15004,
+  "Name": "ghost weight reduc",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 15004,
+  "Color": "#07070707",
+  "Layout": "0",
+  "PossibleModifications": [
+    14,
+    13
+  ]
+}

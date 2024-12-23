@@ -1,0 +1,84 @@
+{
+  "ItemType": 6,
+  "Id": 42,
+  "Name": "Proxima MK2",
+  "Faction": 5,
+  "SizeClass": 1,
+  "IconImage": "5proximamk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "5proximamk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FCFF6B",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.6
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.6
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "4000000000000011111000001122211000112242211001324442310113244423114132040231441132223114411555551140110555011000000500000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.08,
+        "y": 0.01173021
+      },
+      "Offset": 0.55,
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.190615833,
+        "y": 0.181818187
+      },
+      "Rotation": 95.0,
+      "Offset": 0.75,
+      "PlatformType": 2,
+      "AutoAimingArc": 45.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.196480945,
+        "y": -0.181818187
+      },
+      "Rotation": -95.0,
+      "Offset": 0.75,
+      "PlatformType": 2,
+      "AutoAimingArc": 45.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

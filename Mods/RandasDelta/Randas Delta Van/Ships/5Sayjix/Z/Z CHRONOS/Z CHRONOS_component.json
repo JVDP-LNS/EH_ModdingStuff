@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13053,
+  "Name": "Z CHRONOS",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "detonator1",
+  "Color": "#BFFF7F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13053,
+  "AmmunitionId": 13053,
+  "PossibleModifications": [
+    6
+  ]
+}

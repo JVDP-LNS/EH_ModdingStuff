@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 13622,
+  "Name": "Anchor V2",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Color": "#3BFF00B6",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13621,
+  "AmmunitionId": 13622,
+  "WeaponSlotType": "V"
+}

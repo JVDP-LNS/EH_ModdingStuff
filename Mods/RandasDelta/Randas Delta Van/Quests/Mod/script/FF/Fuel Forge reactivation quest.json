@@ -1,0 +1,19 @@
+{
+  "ItemType": 15,
+  "Id": 15010,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 55,
+      "DefaultTransition": 5,
+      "Character": 12001,
+      "Value": 1
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    }
+  ]
+}

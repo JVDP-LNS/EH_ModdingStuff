@@ -1,0 +1,81 @@
+{
+  "ItemType": 6,
+  "Id": 12341,
+  "ShipCategory": 1,
+  "Name": "Poltergeist",
+  "Faction": 12301,
+  "SizeClass": 2,
+  "IconImage": "PRSpoltergeist.png",
+  "IconScale": 1.0,
+  "ModelImage": "PRSpoltergeist.png",
+  "ModelScale": 3.2,
+  "EnginePosition": {
+    "x": -0.6,
+    "y": -0.12
+  },
+  "EngineColor": "#4300FFBE",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.65,
+        "y": -0.12
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.12
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.75,
+        "y": -0.12
+      },
+      "Size": 0.3
+    }
+  ],
+  "EnergyResistance": 0.25,
+  "KineticResistance": 0.25,
+  "HeatResistance": 0.25,
+  "Layout": "4004000020000000001440442444000001144144244400000114414422211000011133322221110001113332222111100011333222211100001013322221110000011132222311100001111222233000000011125523330000011112555533000000011555553300000001055555300000000100055030000000000005000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.519553065,
+        "y": 0.6275605
+      },
+      "Rotation": -15.0,
+      "PlatformType": 3,
+      "WeaponClass": "LCS"
+    },
+    {
+      "Position": {
+        "x": 0.545623839,
+        "y": 0.0689013
+      },
+      "Rotation": 20.0,
+      "Offset": 0.1,
+      "PlatformType": 3,
+      "AutoAimingArc": 30.0,
+      "WeaponClass": "SL"
+    },
+    {
+      "Position": {
+        "x": 0.404096842,
+        "y": -0.0837988853
+      },
+      "Rotation": -32.0,
+      "Offset": 0.5,
+      "PlatformType": 3,
+      "AutoAimingArc": 30.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

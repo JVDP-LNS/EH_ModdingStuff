@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 12261,
+  "Name": "2C Bio Reactor",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 12261,
+  "Faction": 12,
+  "Level": 120,
+  "Icon": "reactorbio2.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "Restrictions": {
+    "NotForMechanicShips": true,
+    "UniqueComponentTag": "bioreactor2"
+  },
+  "PossibleModifications": [
+    12,
+    9
+  ]
+}

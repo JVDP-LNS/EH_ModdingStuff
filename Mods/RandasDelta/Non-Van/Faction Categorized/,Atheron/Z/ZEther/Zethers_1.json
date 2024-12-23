@@ -1,0 +1,21 @@
+{
+  "ItemType": 25,
+  "Id": 13271,
+  "Body": {
+    "Type": 1,
+    "Size": 1.0,
+    "Velocity": 60.0,
+    "Range": 30.0,
+    "Lifetime": 0.5,
+    "BulletPrefab": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13272,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 3,
+  "Id": 11,
+  "WeaponClass": 5,
+  "FireRate": 0.1,
+  "ActivationType": 1,
+  "ShotSound": "shot_01",
+  "ChargeSound": "launch_03",
+  "ShotEffectPrefab": "Charge1",
+  "ControlButtonIcon": "controls_shot"
+}

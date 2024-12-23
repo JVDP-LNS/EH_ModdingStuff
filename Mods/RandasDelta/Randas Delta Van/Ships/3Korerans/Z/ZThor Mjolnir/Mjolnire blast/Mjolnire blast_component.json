@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 13023,
+  "Name": "Mjolnire blast",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13023,
+  "AmmunitionId": 13023,
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

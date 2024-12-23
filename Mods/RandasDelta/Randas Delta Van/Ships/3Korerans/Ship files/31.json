@@ -1,0 +1,43 @@
+{
+  "ItemType": 6,
+  "Id": 88,
+  "ShipCategory": 6,
+  "Name": "Drone",
+  "Faction": 3,
+  "IconImage": "3dronem32.png",
+  "IconScale": 0.7,
+  "ModelImage": "3dronem32.png",
+  "ModelScale": 0.7,
+  "EnginePosition": {
+    "x": -0.85,
+    "y": 0.03
+  },
+  "EngineColor": "#3C4343C0",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.42,
+        "y": 0.93
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.42,
+        "y": -0.9
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "4443111444311144431113333333555322255532225553222",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.03
+      }
+    }
+  ]
+}

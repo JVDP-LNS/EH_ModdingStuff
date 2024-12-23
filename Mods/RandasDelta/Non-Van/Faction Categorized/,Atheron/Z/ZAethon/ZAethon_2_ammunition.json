@@ -1,0 +1,56 @@
+{
+  "ItemType": 25,
+  "Id": 13236,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 3.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1002,
+      "Color": "#F56BFF",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#1E9D00FF",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 4.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 14017,
+      "Color": "#FEA3FE",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.4
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13231,
+      "Color": "#C170FF",
+      "ColorMode": 1,
+      "Quantity": 4,
+      "Size": 5.0,
+      "PowerMultiplier": 100.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 3,
+      "DamageType": 1
+    }
+  ]
+}

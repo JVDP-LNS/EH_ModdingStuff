@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 12097,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 6.0,
+    "Range": 20.0,
+    "Color": "#01020202",
+    "EnergyCost": 25.0
+  },
+  "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 2,
+      "Ammunition": 101,
+      "Size": 0.001,
+      "PowerMultiplier": 75.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12077,
+      "Color": "#93D7FF",
+      "ColorMode": 1
+    }
+  ],
+  "Effects": []
+}

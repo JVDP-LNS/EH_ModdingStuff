@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13111,
+  "Name": "Meteor Charge",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "accelerator1",
+  "Color": "#C1C1C1",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13111,
+  "AmmunitionId": 13111,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    8,
+    7
+  ]
+}

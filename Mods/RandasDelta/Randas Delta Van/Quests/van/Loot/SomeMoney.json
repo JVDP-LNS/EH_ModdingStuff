@@ -1,0 +1,62 @@
+{
+  "ItemType": 16,
+  "Id": 1,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Loot": {
+          "Type": 1,
+          "ValueRatio": 3.001
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000,
+          "MaxAmount": 2000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 20,
+          "MinAmount": 1,
+          "MaxAmount": 3,
+          "Items": [
+            {
+              "Loot": {
+                "Type": 25,
+                "ItemId": 12,
+                "MinAmount": 5,
+                "MaxAmount": 10
+              }
+            },
+            {
+              "Loot": {
+                "Type": 25,
+                "ItemId": 14,
+                "MinAmount": 6,
+                "MaxAmount": 12
+              }
+            },
+            {
+              "Loot": {
+                "Type": 25,
+                "ItemId": 16,
+                "MinAmount": 4,
+                "MaxAmount": 8
+              }
+            },
+            {
+              "Loot": {
+                "Type": 4,
+                "MinAmount": 1,
+                "MaxAmount": 3
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

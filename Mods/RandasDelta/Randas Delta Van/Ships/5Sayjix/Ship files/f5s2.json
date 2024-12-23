@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 41,
+  "Name": "Kryptoria MK2",
+  "Faction": 5,
+  "IconImage": "5kryptoriamk2.png",
+  "IconScale": 0.9,
+  "ModelImage": "5kryptoriamk2.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FEFF6B",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "400000000000111000001222100033242330433242334413242314001555100000555000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "Offset": 0.7,
+      "PlatformType": 1,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.08211144,
+        "y": 0.0146627566
+      },
+      "Offset": 0.7,
+      "PlatformType": 1,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.360703826,
+        "y": 0.797654
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.3489736,
+        "y": -0.762463331
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

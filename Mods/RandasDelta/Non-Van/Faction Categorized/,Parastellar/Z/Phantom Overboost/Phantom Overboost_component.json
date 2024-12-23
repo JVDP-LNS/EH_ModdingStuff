@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13215,
+  "Name": "Phantom Overboost",
+  "ComponentStatsId": 1,
+  "Layout": "1",
+  "DeviceId": 13215,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12344,
+  "Name": "Condensed Plasma Beam",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 12302,
+  "Level": 150,
+  "Icon": "laser3",
+  "Color": "#8FEFCF",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 17003,
+  "AmmunitionId": 12344,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ItemType": 6,
+  "Id": 15,
+  "Name": "Helios MK2",
+  "Faction": 7,
+  "SizeClass": 2,
+  "IconImage": "7heliosmk2.png",
+  "IconScale": 1.1,
+  "ModelImage": "7heliosmk2.png",
+  "ModelScale": 3.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#40DFD49F",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.65,
+        "y": 0.15
+      },
+      "Size": 0.4
+    },
+    {
+      "Position": {
+        "x": -0.65,
+        "y": -0.15
+      },
+      "Size": 0.4
+    }
+  ],
+  "BaseWeightModifier": 0.1,
+  "BuiltinDevices": [],
+  "Layout": "400000444000000000001444100000000011444110000000002222200000000013222310000000013222310000000002222200000004043242340400004143242341400004143242341400001111555111100001111555111100000111555111000000010555010000000000555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.95
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.07331378,
+        "y": 0.689149559
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.123167157,
+        "y": 0.5777126
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.1319648,
+        "y": 0.00293255132
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.1260997,
+        "y": -0.5835777
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.0791788846,
+        "y": -0.683284461
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

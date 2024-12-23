@@ -1,0 +1,63 @@
+{
+  "ItemType": 6,
+  "Id": 31,
+  "Name": "Praetor MK2",
+  "Faction": 3,
+  "SizeClass": 1,
+  "IconImage": "3praetormk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "3praetormk2.png",
+  "ModelScale": 2.5,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40435CC0",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.2,
+  "BuiltinDevices": [],
+  "Layout": "4000000440000000000000044000000000000014410000000000001111000000000000333300000000000032230000000000000220000000000000022000000000000012210000000000011221100000000011322311000000001132231100000000112552110000000011555511000000001155551100000000100550010000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.856305
+      },
+      "WeaponClass": "LTS"
+    }
+  ]
+}

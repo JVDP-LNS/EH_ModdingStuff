@@ -1,0 +1,77 @@
+{
+  "ItemType": 6,
+  "Id": 59,
+  "Name": "ISS Corvette MK2",
+  "Faction": 11,
+  "IconImage": "11corvettemk2.png",
+  "IconScale": 0.7,
+  "ModelImage": "11corvettemk2.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.75
+  },
+  "EngineColor": "#4065CBFF",
+  "EngineSize": 0.15,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.15
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "4000444000000012421000000124210000001222100000003330000004133314000031222140000012221000000052500000000555000000005050000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "Offset": 0.2,
+      "PlatformType": 2,
+      "AutoAimingArc": 35.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": -0.0837988853,
+        "y": 0.456238359
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.09869646,
+        "y": -0.456238359
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

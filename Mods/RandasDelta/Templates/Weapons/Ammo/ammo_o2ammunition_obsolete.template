@@ -1,0 +1,24 @@
+{
+  "Name": "Weapon/Only Ammunition/2 Obsolete Ammunition",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_1",
+      "Type": "File",
+      "Content": {
+		    "ItemType": 4,
+		    "Id": "%n{0}",
+                                         "CoupledAmmunitionId": "%n{0}+1"
+		}
+    },
+    {
+      "Filename": "{1}_2",
+      "Type": "File",
+      "Content": {
+		    "ItemType": 4,
+		    "Id": "%n{0}+1"
+		}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ItemType": 6,
+  "Id": 1021,
+  "Name": "Serpeant",
+  "SizeClass": 2,
+  "IconImage": "12serpeant.png",
+  "IconScale": 0.9,
+  "ModelImage": "12serpeant.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#1EFFFFFF",
+  "EngineSize": 0.4,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.6
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.6
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [
+    20
+  ],
+  "Layout": "4000000400040000000000000040004000000000000004141400000000000001144411000000000000114441100000000000011444110000000000001122211000000000001112221110000000000112222211000000000011222221100000000001122222110000000001132222231100000001113222223111000000111322222311100000001113222311100000000055551555500000000005555155550000000000055000550000000000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z",
+      "Image": "12serpeant.png",
+      "Size": 1.6
+    },
+    {
+      "Position": {
+        "x": 0.899441361,
+        "y": 0.124767229
+      },
+      "Rotation": -5.0,
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.895504236,
+        "y": -0.130012155
+      },
+      "Rotation": 5.0,
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "PlatformType": 3,
+      "AutoAimingArc": 30.0,
+      "WeaponClass": "SL"
+    }
+  ]
+}

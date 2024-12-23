@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 112,
+  "Name": "Pulse Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 25,
+  "Icon": "gun5",
+  "Color": "#DBA398",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 63,
+  "AmmunitionId": 11003,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

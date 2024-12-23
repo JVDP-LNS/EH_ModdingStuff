@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 12262,
+  "Name": "3C Bio Reactor",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 12262,
+  "Faction": 12,
+  "Level": 150,
+  "Icon": "reactorbio3.png",
+  "Layout": "1111111011011100111001010",
+  "CellType": "2",
+  "Restrictions": {
+    "ShipSizes": [
+      4,
+      3
+    ],
+    "NotForMechanicShips": true,
+    "UniqueComponentTag": "bioreactor3"
+  },
+  "PossibleModifications": [
+    9,
+    12
+  ]
+}

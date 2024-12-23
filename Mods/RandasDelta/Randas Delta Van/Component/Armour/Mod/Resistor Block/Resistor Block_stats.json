@@ -1,0 +1,9 @@
+{
+  "ItemType": 11,
+  "Id": 11002,
+  "Type": 1,
+  "Weight": 160.0,
+  "KineticResistance": 25.0,
+  "EnergyResistance": 25.0,
+  "ThermalResistance": 25.0
+}

@@ -1,0 +1,147 @@
+{
+    "Name": "Component/Dronebay Component/With Technology/3 Size With DroneShip with Build",
+    "NameDialog":"File Name",
+    "IdDialog":"ID",
+    "Items":[
+        {
+            "Filename":"{1}",
+            "Type":"Folder",
+            "Items":[
+                {
+                    "Filename": "{1}_S_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}",
+                        "Name":"Small {1}",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "DroneId": "%n{0}",
+                        "ComponentStatsId":1,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":1
+                    },
+                    "Type":"File"
+                },
+                {
+                    "Filename": "{1}_M_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}+1",
+                        "Name":"{1}",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "DroneId": "%n{0}",
+                        "ComponentStatsId":1,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":2
+                    },
+                    "Type":"File"
+                },
+                {
+                    "Filename": "{1}_L_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}+2",
+                        "Name":"{1}",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "DroneId": "%n{0}",
+                        "ComponentStatsId":1,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":3
+                    },
+                    "Type":"File"
+                },
+                {
+                  "Filename": "{1}_S_technology",
+                  "Type": "File",
+                  "Content": {
+                    "ItemType": 10,
+                    "Id": "%n{0}",
+                    "ItemId": "%n{0}",
+                    "Type": 0,
+                    "Dependencies": []
+                  }
+                },
+                {
+                  "Filename": "{1}_M_technology",
+                  "Type": "File",
+                  "Content": {
+                    "ItemType": 10,
+                    "Id": "%n{0}+1",
+                    "ItemId": "%n{0}+1",
+                    "Type": 0,
+                    "Dependencies": []
+                  }
+                },
+                {
+                  "Filename": "{1}_L_technology",
+                  "Type": "File",
+                  "Content": {
+                    "ItemType": 10,
+                    "Id": "%n{0}+2",
+                    "ItemId": "%n{0}+2",
+                    "Type": 0,
+                    "Dependencies": []
+                  }
+                },
+                {
+                    "Filename":"{1}_ship",
+                    "Type":"Folder",
+                    "Items":[
+                        {
+                            "Filename":"{1}_ship",
+                            "Content":{
+                                "ItemType":6,
+                                "Name":"{1}",
+                                "Id":"%n{0}",
+                                "ModelImage":"",
+                                "IconImage":"",
+                                "BuiltinDevices":[
+
+                                ],
+                                "Barrels":[
+
+                                ]
+                            },
+                            "Type":"File"
+                        },
+                        {
+                            "Filename":"{1}_build",
+                            "Type":"File",
+                            "Content":{
+                                "ItemType":8,
+                                "Id":"%n{0}",
+                                "ShipId":"%n{0}",
+                                "Components":[
+
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

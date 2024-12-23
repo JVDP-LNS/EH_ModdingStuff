@@ -1,0 +1,40 @@
+{
+  "ItemType": 25,
+  "Id": 13058,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 1E-05,
+    "Range": 20.0,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 993,
+      "Color": "#01020202",
+      "ColorMode": 1,
+      "Size": 40.0,
+      "PowerMultiplier": 1E-05
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#3CE5FECC",
+      "ColorMode": 1,
+      "Size": 20.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1001,
+      "Color": "#1ECCFF99",
+      "ColorMode": 1,
+      "Size": 20.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": []
+}

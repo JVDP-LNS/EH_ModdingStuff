@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 12363,
+  "ShipCategory": 6,
+  "Name": "Drone T2",
+  "IconImage": "TAMdrone2.png",
+  "IconScale": 0.6,
+  "ModelImage": "TAMdrone2.png",
+  "ModelScale": 0.8,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#3F7DFF00",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.5
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.5
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.6,
+  "Layout": "4404400055544044000555440440005554404400055500000000555333333335553333333355533333333555333333335553333333300033333333000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7467412,
+        "y": 0.150837988
+      }
+    },
+    {
+      "Position": {
+        "x": 0.7430168,
+        "y": -0.117318437
+      }
+    }
+  ]
+}

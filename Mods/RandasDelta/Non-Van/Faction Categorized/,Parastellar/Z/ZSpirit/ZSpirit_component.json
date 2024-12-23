@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 13201,
+  "Name": "Spiritual Regeneration",
+  "Availability": 3,
+  "ComponentStatsId": 13201,
+  "Faction": 12301,
+  "Icon": "doom1",
+  "Color": "#3FBFAA",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

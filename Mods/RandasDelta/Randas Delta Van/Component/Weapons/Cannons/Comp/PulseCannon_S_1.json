@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 114,
+  "Name": "Small Pulse Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Icon": "gun1",
+  "Color": "#DD9B9B",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 65,
+  "AmmunitionId": 11001,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ItemType": 6,
+  "Id": 47,
+  "Name": "Oblivion MK2",
+  "Faction": 6,
+  "SizeClass": 1,
+  "IconImage": "6oblivionmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "6oblivionmk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.7
+  },
+  "EngineColor": "#40FFAE23",
+  "EngineSize": 0.5,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.6
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.6
+      },
+      "Size": 0.2
+    }
+  ],
+  "HeatResistance": 1.0,
+  "Regeneration": true,
+  "BuiltinDevices": [],
+  "Layout": "4000000000000144444100001144411000112242211011122222111111322231111113222311110113331101005555555000055050550000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.158357769,
+        "y": 0.0146627566
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.6363636,
+        "y": -0.0175953079
+      },
+      "WeaponClass": "SL"
+    }
+  ]
+}

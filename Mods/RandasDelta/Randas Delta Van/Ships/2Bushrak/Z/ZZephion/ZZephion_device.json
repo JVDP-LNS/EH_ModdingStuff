@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 13209,
+  "DeviceClass": 8,
+  "EnergyConsumption": 2.0,
+  "PassiveEnergyConsumption": 0.1,
+  "Power": 2.0,
+  "Range": 10.0,
+  "Size": 10.0,
+  "Cooldown": 1.0,
+  "Lifetime": 2.0,
+  "ActivationType": 2,
+  "Color": "#FF9989",
+  "Sound": "explosion_04",
+  "EffectPrefab": "Charge3",
+  "ControlButtonIcon": "controls_gear"
+}

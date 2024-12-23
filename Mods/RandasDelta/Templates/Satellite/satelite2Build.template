@@ -1,0 +1,33 @@
+{
+  "Name": "Satellite/2 Satelite Builds",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_builds",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_build_1",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}",
+            "SatelliteId": "%n{0}",
+            "Components": []
+          }
+        },
+        {
+          "Filename": "{1}_build_2",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}",
+            "SatelliteId": "%n{0}+1",
+            "Components": []
+          }
+        }
+      ]
+    }
+  ]
+}

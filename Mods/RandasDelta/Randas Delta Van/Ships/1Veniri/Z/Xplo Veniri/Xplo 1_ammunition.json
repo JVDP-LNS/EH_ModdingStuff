@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 18021,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 0.01,
+    "Range": 0.001,
+    "Lifetime": 0.1,
+    "Color": "#01050505",
+    "BulletPrefab": 1
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 18019,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.1,
+      "PowerMultiplier": 1.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 20.0
+    }
+  ]
+}

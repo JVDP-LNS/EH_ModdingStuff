@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 14002,
+  "Name": "Kinetic res 1000",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 14002,
+  "Icon": "gun1",
+  "Color": "#01020202",
+  "Layout": "0",
+  "PossibleModifications": [
+    3,
+    21
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13049,
+  "Name": "Hornet Stinger",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 4,
+  "Icon": "shock1",
+  "Color": "#D4FF7F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13049,
+  "AmmunitionId": 13049,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    7
+  ]
+}

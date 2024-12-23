@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 12273,
+  "Name": "Large Ethereal Energy Cells",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 12273,
+  "Faction": 1300,
+  "Level": 80,
+  "Icon": "fueltank13",
+  "Color": "#D4B1E6",
+  "Layout": "111111111",
+  "PossibleModifications": [
+    9
+  ]
+}

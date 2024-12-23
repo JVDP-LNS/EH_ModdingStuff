@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13092,
+  "Name": "Probing Scanner",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 8,
+  "Icon": "doom1",
+  "Color": "#EEEE8A",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13092,
+  "AmmunitionId": 13092,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

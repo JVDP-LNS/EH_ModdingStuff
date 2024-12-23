@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 12346,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 1.0,
+    "Range": 0.02,
+    "Lifetime": 0.02,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12347,
+      "Color": "#00000000",
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "AudioClip": "hit_07",
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 3,
+      "Power": 0.5
+    }
+  ]
+}

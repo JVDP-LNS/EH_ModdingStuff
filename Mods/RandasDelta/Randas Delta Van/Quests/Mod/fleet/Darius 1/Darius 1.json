@@ -1,0 +1,10 @@
+{
+  "ItemType": 18,
+  "Id": 15002,
+  "LevelBonus": 40,
+  "CombatTimeLimit": 30,
+  "SpecificShips": [
+    11003,
+    11003
+  ]
+}

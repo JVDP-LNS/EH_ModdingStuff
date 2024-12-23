@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 13220,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 0.1,
+    "Range": 0.01,
+    "Lifetime": 0.1,
+    "Color": "#FCA8FF",
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#84FF0092",
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 0.2
+    }
+  ],
+  "Effects": [
+    {
+      "Type": 7,
+      "DamageType": 1,
+      "Power": 100.0
+    }
+  ]
+}

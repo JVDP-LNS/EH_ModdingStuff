@@ -1,0 +1,15 @@
+{
+  "ItemType": 2,
+  "Id": 13061,
+  "DeviceClass": 17,
+  "EnergyConsumption": 50.0,
+  "Power": 2.0,
+  "Size": 1.5,
+  "Cooldown": 120.0,
+  "Lifetime": 0.01,
+  "ActivationType": 2,
+  "Color": "#7BBF3F",
+  "Sound": "launch_05 ",
+  "EffectPrefab": "charge3",
+  "ControlButtonIcon": "controls_boost"
+}

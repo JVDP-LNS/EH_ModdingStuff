@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 12236,
+  "Name": "Merc Mass Driver",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 14,
+  "Level": 130,
+  "Icon": "gun5",
+  "Color": "#DDD29B",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 17003,
+  "AmmunitionId": 12236,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

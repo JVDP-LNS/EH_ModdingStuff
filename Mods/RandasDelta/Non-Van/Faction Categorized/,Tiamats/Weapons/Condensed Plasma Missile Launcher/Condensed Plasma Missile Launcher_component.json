@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 12349,
+  "Name": "Condensed Plasma Missile Launcher",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 12302,
+  "Level": 125,
+  "Icon": "missile2",
+  "Color": "#8AE4EE",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 55,
+  "AmmunitionId": 12349,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    8,
+    21,
+    6,
+    16,
+    5,
+    7,
+    14
+  ]
+}

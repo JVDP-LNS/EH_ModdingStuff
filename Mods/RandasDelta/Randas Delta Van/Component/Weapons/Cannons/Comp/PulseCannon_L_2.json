@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 111,
+  "Name": "Heavy Pulse Blaster M2",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 100,
+  "Icon": "gun7",
+  "Color": "#D995B7",
+  "Layout": "0010001000100010",
+  "CellType": "4",
+  "WeaponId": 62,
+  "AmmunitionId": 11006,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

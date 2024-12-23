@@ -1,0 +1,8 @@
+{
+  "ItemType": 20,
+  "Id": 14005,
+  "Name": "Grade 3 Armour Mats Blueprint",
+  "Description": "Blueprint required by Fuel Forges to fabricate Grade 1 Armor Compounds",
+  "Icon": "matBP.png",
+  "Color": "#84E093"
+}

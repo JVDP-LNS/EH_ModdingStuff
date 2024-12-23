@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13007,
+  "Name": "Barrel Coolers",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 13007,
+  "Faction": 1,
+  "Level": 500,
+  "Icon": "focus1",
+  "Color": "#8FEDEF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "PossibleModifications": []
+}

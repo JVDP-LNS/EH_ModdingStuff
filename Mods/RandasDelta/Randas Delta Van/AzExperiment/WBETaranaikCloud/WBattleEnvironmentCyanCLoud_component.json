@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 18007,
+  "Name": "WBEGreen",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#1E00FF00",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 18001,
+  "AmmunitionId": 18007,
+  "PossibleModifications": [
+    14,
+    6
+  ]
+}

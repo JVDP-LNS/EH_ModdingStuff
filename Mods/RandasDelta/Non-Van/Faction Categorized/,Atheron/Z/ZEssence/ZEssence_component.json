@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13222,
+  "Name": "Repairing Essence Orb",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Icon": "detonator1",
+  "Color": "#C99FDF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 56,
+  "AmmunitionId": 13222,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16
+  ]
+}

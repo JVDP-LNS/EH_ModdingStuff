@@ -1,0 +1,67 @@
+{
+  "ItemType": 25,
+  "Id": 13078,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 10.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 20.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 30.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 40.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 50.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 60.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 70.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 80.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13079,
+      "Size": 90.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": []
+}

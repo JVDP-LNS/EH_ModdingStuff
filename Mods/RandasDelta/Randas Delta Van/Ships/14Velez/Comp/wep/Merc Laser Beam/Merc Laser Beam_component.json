@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1242,
+  "Name": "Merc Laser Beam",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 14,
+  "Level": 130,
+  "Icon": "laser3",
+  "Color": "#DFC4A4",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 28,
+  "AmmunitionId": 1242,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

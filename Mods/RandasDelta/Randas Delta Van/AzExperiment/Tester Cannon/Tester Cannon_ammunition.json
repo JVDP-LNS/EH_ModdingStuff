@@ -1,0 +1,13 @@
+{
+  "ItemType": 25,
+  "Id": 19999,
+  "Body": {
+    "Type": 3,
+    "Size": 8.0,
+    "Range": 3.2,
+    "Lifetime": 120.0,
+    "Color": "#FFF400",
+    "BulletPrefab": 18002
+  },
+  "ImpactType": 2
+}

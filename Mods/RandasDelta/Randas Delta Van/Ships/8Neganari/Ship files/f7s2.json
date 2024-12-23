@@ -1,0 +1,54 @@
+{
+  "ItemType": 6,
+  "Id": 52,
+  "Name": "Probe MK2",
+  "Faction": 8,
+  "IconImage": "8probemk2.png",
+  "IconScale": 0.9,
+  "ModelImage": "8probemk2.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FFE865",
+  "EngineSize": 0.4,
+  "BuiltinDevices": [],
+  "Layout": "4000010000000000100000000001000000000121000000002220000041122211400411222114000412221400004005004000000555000000005550000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": -0.02,
+        "y": 0.65
+      },
+      "Rotation": 90.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.0293255132,
+        "y": -0.6392962
+      },
+      "Rotation": -90.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.398827,
+        "y": 0.5542522
+      },
+      "Rotation": 120.0,
+      "WeaponClass": "CMT"
+    },
+    {
+      "Position": {
+        "x": -0.398827,
+        "y": -0.5366569
+      },
+      "Rotation": -120.0,
+      "WeaponClass": "CMT"
+    }
+  ]
+}

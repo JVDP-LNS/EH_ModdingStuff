@@ -1,0 +1,40 @@
+{
+  "ItemType": 25,
+  "Id": 12151,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.2,
+    "Color": "#01020202",
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Quantity": 2,
+      "Size": 1.0,
+      "Lifetime": 0.2,
+      "RandomFactor": 0.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1001,
+      "Color": "#3CFFFFFF",
+      "ColorMode": 2,
+      "Size": 1.2,
+      "Lifetime": 0.4
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 4,
+      "DamageType": 1,
+      "Power": 5.0,
+      "Factor": 0.1
+    }
+  ]
+}

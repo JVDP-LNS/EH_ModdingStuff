@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 15005,
+  "Name": "ghost weight reduc 5x",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 15005,
+  "Icon": "gun1",
+  "Color": "#07020202",
+  "Layout": "0",
+  "PossibleModifications": [
+    17,
+    16
+  ]
+}

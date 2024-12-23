@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 11007,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 60.0,
+    "Range": 40.0,
+    "Lifetime": 0.7,
+    "Color": "#0076FF",
+    "EnergyCost": 40.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 11008,
+      "MaxNestingLevel": 80
+    }
+  ]
+}

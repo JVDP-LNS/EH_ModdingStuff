@@ -1,0 +1,57 @@
+{
+  "ItemType": 6,
+  "Id": 28,
+  "ShipCategory": 1,
+  "Name": "Trident MK2",
+  "Faction": 2,
+  "SizeClass": 1,
+  "IconImage": "2tridentmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "2tridentmk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#40FF7F7F",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.7
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.7
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "400001100000000003300000000013310000000012210000004032230400004002200400004002200400001132231100011132231110011055550110000055550000000005500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9684418
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.333333343,
+        "y": 0.6134122
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.3372434,
+        "y": -0.6041056
+      },
+      "WeaponClass": "M"
+    }
+  ]
+}

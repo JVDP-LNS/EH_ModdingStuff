@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 72,
+  "ShipCategory": 5,
+  "Name": "$fn_Scout2",
+  "IconImage": "fns1",
+  "IconScale": 0.7,
+  "ModelImage": "fns1_2",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40E0E0FF",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "KineticResistance": 2.0,
+  "Layout": "400040000000444000002444200002222200013222310013222310013222310011555110000555000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "WeaponClass": "CMLTS"
+    }
+  ]
+}

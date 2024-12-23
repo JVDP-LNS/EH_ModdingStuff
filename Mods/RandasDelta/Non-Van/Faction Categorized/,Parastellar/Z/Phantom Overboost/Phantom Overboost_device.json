@@ -1,0 +1,14 @@
+{
+  "ItemType": 2,
+  "Id": 13215,
+  "EnergyConsumption": 2.0,
+  "PassiveEnergyConsumption": 2.0,
+  "Power": 1.0,
+  "Range": 1.0,
+  "Size": 0.075,
+  "Cooldown": 10.0,
+  "ActivationType": 2,
+  "Color": "#FF3276",
+  "EffectPrefab": "Lightning",
+  "ControlButtonIcon": "controls_boost"
+}

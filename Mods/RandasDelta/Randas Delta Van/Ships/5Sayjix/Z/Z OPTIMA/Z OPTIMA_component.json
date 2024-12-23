@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 13059,
+  "Name": "Optimal Speed",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13059,
+  "Faction": 5,
+  "Icon": "lightweight1",
+  "Color": "#BFFF7F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

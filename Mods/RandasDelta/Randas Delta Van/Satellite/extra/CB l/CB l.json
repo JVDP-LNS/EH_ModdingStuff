@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17048,
+  "Name": "Carrier M3",
+  "ModelImage": "satellite5",
+  "ModelScale": 1.1,
+  "SizeClass": -1,
+  "Layout": "000000111111111111111111111111000000",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "C",
+      "Image": "holy_gun ",
+      "Size": 1.5
+    }
+  ]
+}

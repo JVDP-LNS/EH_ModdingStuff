@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 153,
+  "Name": "$ProtoonTorpedo_M_2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 3,
+  "Level": 50,
+  "Icon": "torpedo4",
+  "Color": "#BCFFED",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 56,
+  "AmmunitionId": 12093,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "ItemType": 6,
+  "Id": 12316,
+  "Name": "Ichor",
+  "Faction": 1300,
+  "SizeClass": 3,
+  "IconImage": "ATHichor.png",
+  "IconScale": 1.1,
+  "ModelImage": "ATHichor.png",
+  "ModelScale": 4.6,
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineColor": "#39B970FF",
+  "EngineSize": 0.4,
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.1
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -0.1
+      },
+      "Size": 0.3
+    }
+  ],
+  "BaseWeightModifier": 0.2,
+  "Layout": "400000000000000000000000000000000000000010000000000000000000000000111000000000000000000000001111100000000000000000000041333140000000000000000000043333340000000000000000000043222340000000000000000000012222210000000000000000000112222211000000000000000001112222211100000000000000041112222211140000000000000041112222211140000000000000041112222211140000000000000001112222211100000000000000004112222211400000000000000004112222211400000000000000004112040211400000000000000001112444211100000000000000041112040211140000000000000041112222211140000000000000041112222211140000000000000000112222211000000000000000000012222210000000000000000000000555000000000000000000000005555500000000000000000000005555500000000000000000000005555500000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.6185936,
+        "y": 0.22526817
+      },
+      "Rotation": 80.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": 0.614744365,
+        "y": -0.219976217
+      },
+      "Rotation": -80.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": 0.177170038,
+        "y": 0.43876338
+      },
+      "Rotation": 90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": 0.174791917,
+        "y": -0.431629
+      },
+      "Rotation": -90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": -0.2175981,
+        "y": 0.3079667
+      },
+      "Rotation": 90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": -0.219976217,
+        "y": -0.303210467
+      },
+      "Rotation": -90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": -0.3174792
+      },
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4197384,
+        "y": 0.42687276
+      },
+      "Rotation": 90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    },
+    {
+      "Position": {
+        "x": -0.422116518,
+        "y": -0.42687276
+      },
+      "Rotation": -90.0,
+      "PlatformType": 2,
+      "AutoAimingArc": 100.0,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.08
+    }
+  ]
+}

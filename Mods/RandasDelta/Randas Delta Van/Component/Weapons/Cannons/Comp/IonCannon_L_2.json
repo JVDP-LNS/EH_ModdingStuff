@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 169,
+  "Name": "Ion Multicannon",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 11,
+  "Level": 200,
+  "Icon": "ion_cannon2",
+  "Color": "#CCCEFE",
+  "Layout": "0110011001100110",
+  "CellType": "4",
+  "WeaponId": 21,
+  "AmmunitionId": 12175,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 95,
+  "Name": "$FragBomb_M_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 7,
+  "Level": 40,
+  "Icon": "torpedo3",
+  "Color": "#FFC46D",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 19,
+  "AmmunitionId": 12171,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

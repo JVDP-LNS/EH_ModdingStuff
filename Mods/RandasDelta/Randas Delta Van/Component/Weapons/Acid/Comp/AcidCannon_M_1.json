@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 93,
+  "Name": "$AcidCannon_M_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 105,
+  "Icon": "gun7",
+  "Color": "#7FFFD8",
+  "Layout": "100100100",
+  "CellType": "4",
+  "WeaponId": 1,
+  "AmmunitionId": 12129,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

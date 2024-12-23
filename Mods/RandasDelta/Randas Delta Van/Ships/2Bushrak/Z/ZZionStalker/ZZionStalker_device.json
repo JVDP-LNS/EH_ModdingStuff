@@ -1,0 +1,12 @@
+{
+  "ItemType": 2,
+  "Id": 13019,
+  "DeviceClass": 9,
+  "EnergyConsumption": 10.0,
+  "Power": 0.5,
+  "Size": 0.3,
+  "Cooldown": 10.0,
+  "Lifetime": 3.0,
+  "ActivationType": 2,
+  "ControlButtonIcon": "controls_ghost"
+}

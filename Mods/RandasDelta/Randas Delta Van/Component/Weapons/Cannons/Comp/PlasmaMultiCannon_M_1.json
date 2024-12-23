@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 142,
+  "Name": "$PlasmaMultiCannon_M_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 80,
+  "Icon": "shotgun2",
+  "Color": "#FFE97F",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 49,
+  "AmmunitionId": 12220,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    6,
+    16,
+    5,
+    7
+  ]
+}

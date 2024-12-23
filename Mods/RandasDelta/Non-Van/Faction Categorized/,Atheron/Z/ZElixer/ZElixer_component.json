@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13220,
+  "Name": "Reparing Elixer",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Icon": "fueltank21",
+  "Color": "#C99FDF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 17011,
+  "AmmunitionId": 13220,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16
+  ]
+}

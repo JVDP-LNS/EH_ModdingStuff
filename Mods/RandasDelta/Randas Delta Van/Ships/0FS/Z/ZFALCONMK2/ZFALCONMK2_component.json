@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 13108,
+  "Name": "Flying Falcon",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13108,
+  "Icon": "intertial_damper2",
+  "Color": "#BCBCBC",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    11
+  ]
+}

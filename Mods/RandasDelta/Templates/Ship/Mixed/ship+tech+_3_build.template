@@ -1,0 +1,54 @@
+{
+  "Name": "Ship/With Tech/With 3* build",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_ship",
+          "Content": {
+            "ItemType": 6,
+            "Name": "%s{1}",
+            "Id": "%n{0}",
+			"ModelImage": "",
+			"IconImage": "",
+            "BuiltinDevices": [],
+            "Barrels": [
+              {
+                "Position": {
+                  "x": 0.1
+                }
+              }
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_buildXXX",
+          "Type": "File",
+          "Content": {
+            "ItemType": 8,
+            "Id": "%n{0}",
+            "ShipId": "%n{0}",
+            "DifficultyClass": 3,
+            "Components": []
+         }
+        },
+        {
+          "Filename": "{1}_technology",
+	  "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}",
+            "ItemId": "%n{0}",
+            "Type": 1,
+            "Dependencies": []
+          }
+        }
+      ]
+    }
+  ]
+}

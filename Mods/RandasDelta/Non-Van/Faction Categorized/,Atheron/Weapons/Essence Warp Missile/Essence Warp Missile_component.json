@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 12287,
+  "Name": "Essence Warp Missile",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Level": 50,
+  "Icon": "rocket1",
+  "Color": "#D07FFF",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 19,
+  "AmmunitionId": 12287,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    8,
+    21,
+    6,
+    16,
+    5,
+    7
+  ]
+}

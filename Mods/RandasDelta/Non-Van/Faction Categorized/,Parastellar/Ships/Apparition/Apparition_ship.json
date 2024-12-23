@@ -1,0 +1,50 @@
+{
+  "ItemType": 6,
+  "Id": 12336,
+  "Name": "Apparition",
+  "Faction": 12301,
+  "SizeClass": 1,
+  "IconImage": "PRSapparition.png",
+  "IconScale": 0.85,
+  "ModelImage": "PRSapparition.png",
+  "ModelScale": 2.5,
+  "EnginePosition": {
+    "x": -0.3
+  },
+  "EngineColor": "#4100FFAD",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "EnergyResistance": 0.25,
+  "KineticResistance": 0.25,
+  "HeatResistance": 0.25,
+  "BaseWeightModifier": -0.2,
+  "Layout": "4000000444000000000000044444000000000001324231000000001113222311100000011132223111000000001322231000000001112222211100000011122222111000000100222220010000000111222111000000001112221110000000010550550100000000005505500000000000055055000000000000550550000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.0095
+      },
+      "PlatformType": 2,
+      "WeaponClass": "SL"
+    }
+  ]
+}

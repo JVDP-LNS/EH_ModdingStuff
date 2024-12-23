@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 1121,
+  "ShipCategory": 6,
+  "Name": "V1 Drone",
+  "Faction": 14,
+  "IconImage": "14dronev1.png",
+  "IconScale": 0.5,
+  "ModelImage": "14dronev1.png",
+  "ModelScale": 0.8,
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "EngineColor": "#3CFFF765",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 1.0
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -1.0
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "4404403333344044033333440440333334404403333333333333333333333333333333333333333333333333555555555335555555553355555555533",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.445065171,
+        "y": 0.6275605
+      }
+    },
+    {
+      "Position": {
+        "x": 0.396648049,
+        "y": -0.5977654
+      }
+    }
+  ]
+}

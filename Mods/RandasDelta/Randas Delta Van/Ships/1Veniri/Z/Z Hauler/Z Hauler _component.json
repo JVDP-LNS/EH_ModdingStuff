@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13006,
+  "Name": "Sturdy",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 13006,
+  "Faction": 1,
+  "Level": 500,
+  "Icon": "armor13",
+  "Color": "#8FEDEF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    3
+  ]
+}

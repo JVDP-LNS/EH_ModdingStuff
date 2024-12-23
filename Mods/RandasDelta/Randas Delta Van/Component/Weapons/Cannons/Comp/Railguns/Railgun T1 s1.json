@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 11012,
+  "Body": {
+    "Type": 2,
+    "Size": 0.1,
+    "Lifetime": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 11013,
+      "Color": "#0031FF",
+      "ColorMode": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 11014,
+      "MaxNestingLevel": 80
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": []
+}

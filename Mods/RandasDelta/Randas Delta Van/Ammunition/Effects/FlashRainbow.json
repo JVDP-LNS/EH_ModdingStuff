@@ -1,0 +1,124 @@
+{
+  "ItemType": 26,
+  "Id": 12019,
+  "Elements": [
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FF7F7F",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FF8300",
+      "Size": 1.0,
+      "StartTime": 0.4,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FFF200",
+      "Size": 1.0,
+      "StartTime": 0.6,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#BFFF00",
+      "Size": 1.0,
+      "StartTime": 0.8,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#10FF00",
+      "Size": 1.0,
+      "StartTime": 1.0,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#00FFAE",
+      "Size": 1.0,
+      "StartTime": 1.2,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#00FEFF",
+      "Size": 1.0,
+      "StartTime": 1.4,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#00C3FF",
+      "Size": 1.0,
+      "StartTime": 1.6,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#0015FF",
+      "Size": 1.0,
+      "StartTime": 1.8,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#8300FF",
+      "Size": 1.0,
+      "StartTime": 2.0,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#C300FF",
+      "Size": 1.0,
+      "StartTime": 2.2,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#E500FF",
+      "Size": 1.0,
+      "StartTime": 2.4,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FF007F",
+      "Size": 1.0,
+      "StartTime": 2.6,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FECCCC",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.15
+    }
+  ]
+}

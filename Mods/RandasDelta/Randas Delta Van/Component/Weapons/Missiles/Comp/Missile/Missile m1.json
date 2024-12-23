@@ -1,0 +1,50 @@
+{
+  "ItemType": 25,
+  "Id": 12032,
+  "Body": {
+    "Type": 1,
+    "Size": 0.5,
+    "Velocity": 5.0,
+    "Range": 0.2,
+    "Lifetime": 0.04,
+    "Color": "#878787",
+    "BulletPrefab": 12009,
+    "EnergyCost": 10.0,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#0FFF8E65",
+      "ColorMode": 1,
+      "Size": 7.0,
+      "Lifetime": 0.1
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 14017,
+      "Color": "#49FF6E60",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12020,
+      "Color": "#FFA970",
+      "ColorMode": 1,
+      "Size": 1.2,
+      "PowerMultiplier": 3.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12032,
+      "MaxNestingLevel": 75
+    }
+  ]
+}

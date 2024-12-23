@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17041,
+  "Name": "Rocket Pod",
+  "ModelImage": "satellite5",
+  "ModelScale": 1.5,
+  "SizeClass": -1,
+  "Layout": "0114110111411133444333340433224442235545530554550",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "M",
+      "Image": "holygun2.png",
+      "Size": 1.5
+    }
+  ]
+}

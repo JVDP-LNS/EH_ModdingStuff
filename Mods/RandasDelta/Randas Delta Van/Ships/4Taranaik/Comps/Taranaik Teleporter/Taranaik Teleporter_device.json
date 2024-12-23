@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 12115,
+  "DeviceClass": 10,
+  "EnergyConsumption": 10.0,
+  "PassiveEnergyConsumption": 2.0,
+  "Power": 1.0,
+  "Range": 10.0,
+  "Size": 3.0,
+  "Cooldown": 5.0,
+  "Lifetime": 0.5,
+  "ActivationType": 1,
+  "Color": "#825BF4FF",
+  "Sound": "shot_11",
+  "EffectPrefab": "Charge3",
+  "ControlButtonIcon": "controls_boost"
+}

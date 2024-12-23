@@ -1,0 +1,11 @@
+{
+  "ItemType": 1,
+  "Id": 13026,
+  "Name": "Mjolnir boost",
+  "ComponentStatsId": 3,
+  "Icon": "accelerator1",
+  "Color": "#FFF600",
+  "Layout": "1",
+  "DeviceId": 13026,
+  "PossibleModifications": []
+}

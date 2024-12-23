@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12293,
+  "Name": "Spectral Beam",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 12301,
+  "Level": 80,
+  "Icon": "laser3",
+  "Color": "#95D9C5",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 17002,
+  "AmmunitionId": 12293,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    7
+  ]
+}

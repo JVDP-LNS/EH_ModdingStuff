@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 99992,
+  "Body": {
+    "Type": 3,
+    "Size": 10.0,
+    "Range": 0.1,
+    "Lifetime": 60.0,
+    "Color": "#2D60FFCC",
+    "BulletPrefab": 12010,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 14029,
+      "Color": "#1E00CBFF",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 0.1
+    }
+  ],
+  "ImpactType": 2
+}

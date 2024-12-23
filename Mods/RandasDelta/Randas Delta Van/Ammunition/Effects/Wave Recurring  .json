@@ -1,0 +1,40 @@
+{
+  "ItemType": 26,
+  "Id": 1001,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "StartTime": 0.4,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "StartTime": 0.6,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "StartTime": 0.8,
+      "Lifetime": 1.0
+    }
+  ]
+}

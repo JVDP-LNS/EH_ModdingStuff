@@ -1,0 +1,78 @@
+{
+  "ItemType": 6,
+  "Id": 26,
+  "Name": "Zion MK2",
+  "Faction": 2,
+  "SizeClass": 2,
+  "IconImage": "2zionmk2.png",
+  "IconScale": 1.1,
+  "ModelImage": "2zionmk2.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.75
+  },
+  "EngineColor": "#40FF8484",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.83,
+        "y": 0.865
+      },
+      "Size": 0.05
+    },
+    {
+      "Position": {
+        "x": -0.83,
+        "y": -0.85
+      },
+      "Size": 0.05
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.59
+      },
+      "Size": 0.05
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.58
+      },
+      "Size": 0.05
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "400004400000000014410000004012210400014022220410011022220110111322223111111322223111111322223111111355553111111155551111001105501100000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.825
+      },
+      "WeaponClass": "SML"
+    },
+    {
+      "Position": {
+        "x": 0.80351907,
+        "y": 0.5219941
+      },
+      "Rotation": -5.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.7859238,
+        "y": -0.513196468
+      },
+      "Rotation": 5.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

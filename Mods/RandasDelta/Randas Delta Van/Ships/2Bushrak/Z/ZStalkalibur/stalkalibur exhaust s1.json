@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 13017,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 2.0,
+    "Range": 6.0,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 998,
+      "Color": "#FFEE00",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.8
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#0AFF0008",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 1.2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 1.0
+    }
+  ]
+}

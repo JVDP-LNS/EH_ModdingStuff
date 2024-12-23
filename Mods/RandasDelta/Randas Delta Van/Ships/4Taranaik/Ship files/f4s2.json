@@ -1,0 +1,83 @@
+{
+  "ItemType": 6,
+  "Id": 36,
+  "Name": "Dragonfly MK2",
+  "Faction": 4,
+  "SizeClass": 1,
+  "IconImage": "4dragonflymk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "4dragonflymk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#3C7AFFD0",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.97,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.97,
+        "y": -0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.25,
+        "y": 0.65
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.25,
+        "y": -0.65
+      },
+      "Size": 0.1
+    }
+  ],
+  "EnergyResistance": 0.5,
+  "Regeneration": true,
+  "BaseWeightModifier": -0.1,
+  "BuiltinDevices": [],
+  "Layout": "4000044400000000004440000000401000104000040100010400004012221040000113222311000001322231000000133233100000111333111000000113110000000001110000000005555500000000055500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2404692,
+        "y": 0.0263929628
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 1.02,
+        "y": 0.02346041
+      },
+      "PlatformType": 2,
+      "AutoAimingArc": 120.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.6539589,
+        "y": 0.6304985
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.624633431,
+        "y": -0.580645144
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

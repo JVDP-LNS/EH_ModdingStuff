@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17036,
+  "Name": "Holytank",
+  "ModelImage": "satellite2",
+  "ModelScale": 1.5,
+  "SizeClass": -1,
+  "Layout": "0111110113331133444332244422224442233555330355530",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "C",
+      "Image": "holygun2.png",
+      "Size": 1.5
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ItemType": 25,
+  "Id": 12036,
+  "Body": {
+    "Type": 1,
+    "Size": 0.6,
+    "Velocity": 30.0,
+    "Range": 45.0,
+    "Weight": 0.2,
+    "Color": "#FEB7B7",
+    "BulletPrefab": 12009,
+    "EnergyCost": 16.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1FFF0F0F",
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 1.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 999,
+      "Color": "#FF0048",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 30.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#21FF0300",
+      "ColorMode": 1,
+      "Size": 13.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 14017,
+      "Color": "#2BFC6DAD",
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 1.5
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 999,
+      "Color": "#FF0059",
+      "ColorMode": 1,
+      "Size": 8.0,
+      "PowerMultiplier": 45.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 12011,
+      "Color": "#82FF0004",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 15.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12011,
+      "Color": "#7EFF003F",
+      "ColorMode": 1,
+      "Size": 8.0,
+      "PowerMultiplier": 20.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#1FFF003E",
+      "ColorMode": 1,
+      "Size": 15.0,
+      "Lifetime": 0.3
+    }
+  ]
+}

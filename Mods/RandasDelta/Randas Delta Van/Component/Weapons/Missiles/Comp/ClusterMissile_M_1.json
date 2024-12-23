@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 221,
+  "Name": "$ClusterMissile_M_1",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 2,
+  "Level": 150,
+  "Icon": "rocket1",
+  "Color": "#FFC289",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 104,
+  "AmmunitionId": 12054,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5
+  ]
+}

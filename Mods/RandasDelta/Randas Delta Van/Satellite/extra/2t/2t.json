@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17006,
+  "Name": "Dart M4",
+  "ModelImage": "satellite2",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "0004400000044000003443000034430011344311113223110112211000055000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

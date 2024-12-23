@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 13609,
+  "Name": "Anchorage V8",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Color": "#14FF0054",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13601,
+  "AmmunitionId": 13609,
+  "WeaponSlotType": "V"
+}

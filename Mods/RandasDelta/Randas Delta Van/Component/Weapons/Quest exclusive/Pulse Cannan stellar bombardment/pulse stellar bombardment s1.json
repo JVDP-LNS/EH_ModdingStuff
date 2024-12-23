@@ -1,0 +1,56 @@
+{
+  "ItemType": 25,
+  "Id": 12202,
+  "Body": {
+    "Type": 1,
+    "Size": 0.1,
+    "Velocity": 0.1,
+    "Range": 0.05,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1001,
+      "Color": "#3FFFE9C6",
+      "Size": 15.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "shot_04 ",
+      "Ammunition": 11006,
+      "Color": "#FDC8E4",
+      "ColorMode": 1,
+      "PowerMultiplier": 0.1
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 11004,
+      "Color": "#FFEDDB",
+      "ColorMode": 1,
+      "PowerMultiplier": 0.1
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#7EFF907F",
+      "ColorMode": 1,
+      "Size": 20.0,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 11003,
+      "Color": "#FED6D6",
+      "ColorMode": 1,
+      "PowerMultiplier": 0.1
+    }
+  ],
+  "ImpactType": 1
+}

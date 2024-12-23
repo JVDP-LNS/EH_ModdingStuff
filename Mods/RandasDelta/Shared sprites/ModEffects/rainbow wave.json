@@ -1,0 +1,14 @@
+{
+  "ItemType": 26,
+  "Id": 17009,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "bblaserblacknoise1.jpg",
+      "ColorMode": 1,
+      "Color": "#32FBFF",
+      "Size": 5.0,
+      "Lifetime": 5.0
+    }
+  ]
+}

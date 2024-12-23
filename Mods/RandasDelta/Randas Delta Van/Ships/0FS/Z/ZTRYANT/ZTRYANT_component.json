@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 13117,
+  "Name": "Tyrannical Gunfire",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13117,
+  "Icon": "focus2",
+  "Color": "#B2B2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

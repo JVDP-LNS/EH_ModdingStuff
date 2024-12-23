@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15009,
+  "Name": "Grade 2 Conductors",
+  "Description": "A special compound produced at a fuel forge, which is able to conduct several forms of energy.",
+  "Icon": "tubes",
+  "Color": "#94BCE4",
+  "Price": 300
+}

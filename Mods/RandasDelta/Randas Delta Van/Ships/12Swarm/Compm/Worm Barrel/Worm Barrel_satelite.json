@@ -1,0 +1,19 @@
+{
+  "ItemType": 7,
+  "Id": 12264,
+  "Name": "Worm Barrel",
+  "ModelImage": "satellite7",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "014410014410314413332233225522555555",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "WeaponClass": "CT",
+      "Image": "12wormshipaddon.png",
+      "Size": 1.4
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13080,
+  "Name": "ZTRYPOLOSSUS",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "missile1",
+  "Color": "#D8E5B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13080,
+  "AmmunitionId": 13080,
+  "PossibleModifications": [
+    21,
+    7
+  ]
+}

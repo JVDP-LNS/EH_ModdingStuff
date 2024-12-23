@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 12345,
+  "Name": "Parasite Stream",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 12,
+  "Level": 160,
+  "Icon": "shield2",
+  "Color": "#9E7E60",
+  "Layout": "101111000",
+  "CellType": "4",
+  "WeaponId": 17009,
+  "AmmunitionId": 12345,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    16,
+    5
+  ]
+}

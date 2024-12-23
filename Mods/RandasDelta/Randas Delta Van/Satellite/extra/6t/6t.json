@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17026,
+  "Name": "Maggot M4",
+  "ModelImage": "satellite6",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "0004000004440001444101344431132223111222110001000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "CT"
+    }
+  ]
+}

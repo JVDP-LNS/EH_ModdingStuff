@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 71,
+  "Name": "Inertial Nullifier",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 71,
+  "Faction": 8,
+  "Level": 50,
+  "Icon": "intertial_damper1",
+  "Layout": "1111",
+  "CellType": "2",
+  "Restrictions": {
+    "UniqueComponentTag": "stabilizer1"
+  },
+  "PossibleModifications": [
+    2
+  ]
+}

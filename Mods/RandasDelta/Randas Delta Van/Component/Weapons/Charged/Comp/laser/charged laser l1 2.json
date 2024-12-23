@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 12183,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 15.0,
+    "Range": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 14010,
+      "Quantity": 3
+    }
+  ],
+  "ImpactType": 1
+}

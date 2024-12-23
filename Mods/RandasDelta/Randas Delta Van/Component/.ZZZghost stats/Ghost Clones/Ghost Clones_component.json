@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 15002,
+  "Name": "Ghost Clones",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1,
+  "Color": "#07050505",
+  "Layout": "0",
+  "DeviceId": 15002,
+  "PossibleModifications": [
+    13,
+    8
+  ]
+}

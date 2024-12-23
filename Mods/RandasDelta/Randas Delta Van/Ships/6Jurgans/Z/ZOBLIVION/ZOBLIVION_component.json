@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13060,
+  "Name": "Oblivion Beam",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "laser3",
+  "Color": "#DFC99F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13060,
+  "AmmunitionId": 13060,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16,
+    5
+  ]
+}

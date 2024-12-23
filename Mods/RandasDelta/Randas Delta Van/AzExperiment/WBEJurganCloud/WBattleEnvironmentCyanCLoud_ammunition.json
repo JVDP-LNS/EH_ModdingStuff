@@ -1,0 +1,21 @@
+{
+  "ItemType": 25,
+  "Id": 18003,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 50.0,
+    "Range": 1.0,
+    "Lifetime": 0.2,
+    "Color": "#01FF7F00"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 18000,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "RandomFactor": 1.0
+    }
+  ]
+}

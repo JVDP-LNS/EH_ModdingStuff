@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17016,
+  "Name": "Glaive M4",
+  "ModelImage": "satellite4",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "0044400004440000444000324230132223111555110005000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "T"
+    }
+  ]
+}

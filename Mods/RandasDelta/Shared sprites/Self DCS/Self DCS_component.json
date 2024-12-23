@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 19979,
+  "Name": "Self DCS",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Color": "#0B050505",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 19979,
+  "AmmunitionId": 19979
+}

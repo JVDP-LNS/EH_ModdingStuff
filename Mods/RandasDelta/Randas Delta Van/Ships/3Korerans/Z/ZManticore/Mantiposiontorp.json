@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13031,
+  "Name": "Manticore's Sting Bomb",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Icon": "torpedo1",
+  "Color": "#9FA4DF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 58,
+  "AmmunitionId": 13030,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    14
+  ]
+}

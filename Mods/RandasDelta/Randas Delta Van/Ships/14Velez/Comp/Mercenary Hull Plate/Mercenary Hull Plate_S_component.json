@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12231,
+  "Name": "Small Mercenary Hull Plate",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 12231,
+  "Faction": 14,
+  "Level": 130,
+  "Icon": "armor11",
+  "Color": "#DFCF9F",
+  "Layout": "1",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

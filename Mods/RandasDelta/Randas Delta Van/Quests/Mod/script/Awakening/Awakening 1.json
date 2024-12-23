@@ -1,0 +1,290 @@
+{
+  "ItemType": 15,
+  "Id": 1,
+  "Name": "Awakening",
+  "QuestType": 2,
+  "StartCondition": 4,
+  "Origin": {
+    "Type": 3
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "It is the year 6021, an unusual large hunk of metal can be seen wandering aimlessly through space. At a closer look, its a ship. Inside the ship, a cryogenic pod deactivates and opens its lid. Jan Salo has awoken from his 2 year long slumber.",
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Continue"
+        },
+        {
+          "TargetNode": 10,
+          "ButtonText": "Skip Stroy Dialogue"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "Damn, that was cold. I assume its been 2 years since I went into cryostasis. ",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Oh, so you're finally awake. I have been waiting for a while. ",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Good to see you doing well, friend. Looks like we made it out, and my wound is healed too, albeit that's one nasty scar.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "Yeah, we barely escaped from the Frontier. I made sure the ship remained undetected while we escaped the invaders. The Captain and a few other crew members also seem to have escaped with their lives, though many are likely dead now. I haven't seen them since then.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "The Captain is a strong guy, he's probably running around to rebuild his fleet to take revenge. Where are we right now?",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Near an abandoned Starbase surrounded by the Veniri, Bushrak and Korerans. The scanners detect several lifeforms inside, they might be pirates or smugglers, or perhaps some alien lifeform that has mutated and thrived in the lack of presence of intelligent beings.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "This might be a good opportunity for us to set up a base. Lets approach the Starbase and make sure if they are hostile.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "Dammit! I let my guard down on the stealth, some ships have detached from the Starbase and are rapidly approaching us. Their guns seem ready to fire, we are under attack!",
+      "Enemy": 15001,
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "Well damn, I'll take the wheel. Lets kick some ass.",
+      "Enemy": 15001,
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": "To Battle! "
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 20,
+      "DefaultTransition": 12,
+      "FailureTransition": 13,
+      "Enemy": 15001
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "We did it! That was a nice warm up after waking from that freezer. Lets head into the Starbase.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "The battle has been in progress for a while, when a bombardment of Heavy Pulse Blaster shots rain on the remaining enemy from the old Starbase, obliterating the pirates and barely sparing the Falcon. A long range tractor beam then pulls the Falcon into an available docking port in the Starbase.",
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "The people at the Starbase appear to be friendlies. I guess these pirates must have tricked them to get inside without getting rained on by pulse blasters. We are docking now.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "We are very sorry, it took a while to power up the weapons on this old base. ",
+      "Character": 15003,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "Thanks for getting rid of those pirates. One of our own had betrayed us and allowed them to get inside. Now he's dead along with his true comrades.",
+      "Character": 15003,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": "Continue"
+        },
+        {
+          "TargetNode": 20,
+          "ButtonText": "Skip Story Dialogue"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "It was our pleasure to torment some pirates, as we have been on the receiving end several times. Either way, we were looking to set up base here, do you mind if we do?",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 10,
+      "Message": "After your help we couldn't possibly decline, make yourselves at home here. We small time merchants banded together at this Starbase, which we believe was formed as part of the syndicate alliance. By the way there's a sort of Space Forge in a nearby star system. Could look into it for us? We are afraid theremay be more pirates hiding there.",
+      "Character": 15003,
+      "Actions": [
+        {
+          "TargetNode": 19,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 10,
+      "Message": "I see, we will investigate this Forge later. Jan, let's go and find a few empty rooms.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 20,
+          "ButtonText": "Continue "
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 10,
+      "Message": "Hmm, interesting. This Forge might be useful to us if we figure out how to make it work.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 23,
+          "ButtonText": "Continue "
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 43,
+      "DefaultTransition": 22,
+      "Quest": 15002
+    },
+    {
+      "Id": 22,
+      "Type": 40
+    },
+    {
+      "Id": 23,
+      "Type": 10,
+      "Message": "Unknown Forge location received.",
+      "Actions": [
+        {
+          "TargetNode": 24,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 24,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 21,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 1,
+            "MaxValue": 2
+          }
+        }
+      ]
+    }
+  ]
+}

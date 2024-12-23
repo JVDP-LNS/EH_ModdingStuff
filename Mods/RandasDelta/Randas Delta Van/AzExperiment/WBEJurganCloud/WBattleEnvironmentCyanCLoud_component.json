@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 18003,
+  "Name": "WBEOrange",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#1EFF7F00",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 18001,
+  "AmmunitionId": 18003,
+  "PossibleModifications": [
+    14,
+    6
+  ]
+}

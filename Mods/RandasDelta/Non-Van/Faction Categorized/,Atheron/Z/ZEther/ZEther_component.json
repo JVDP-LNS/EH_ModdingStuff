@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13221,
+  "Name": "Ether Fuel",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Icon": "fueltank11",
+  "Color": "#C99FDF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13271,
+  "AmmunitionId": 13221,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16
+  ]
+}

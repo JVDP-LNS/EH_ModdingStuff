@@ -1,0 +1,34 @@
+{
+  "ItemType": 25,
+  "Id": 12105,
+  "Body": {
+    "Type": 3,
+    "Size": 0.4,
+    "Range": 2.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 5
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#5A009DFF",
+      "ColorMode": 1
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 106,
+      "Quantity": 2,
+      "Cooldown": 0.2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 10.0
+    }
+  ]
+}

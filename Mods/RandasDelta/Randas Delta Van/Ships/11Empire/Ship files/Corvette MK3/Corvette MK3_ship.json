@@ -1,0 +1,76 @@
+{
+  "ItemType": 6,
+  "Id": 5950,
+  "ShipCategory": 1,
+  "Name": "ISS Corvette MK3",
+  "Faction": 11,
+  "IconImage": "11corvettemk3.png",
+  "IconScale": 0.8,
+  "ModelImage": "11corvettemk3.png",
+  "ModelScale": 1.4,
+  "EnginePosition": {
+    "x": -0.7
+  },
+  "EngineColor": "#4065C6FF",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.45,
+        "y": 0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.15
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "4000000000000000004440000000001242100000000124210000004002220040000400222004000041132311400000113231100000011222110000000155510000000055555000000000505000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.5270019,
+        "y": 0.01
+      },
+      "Offset": 0.2,
+      "PlatformType": 2,
+      "AutoAimingArc": 40.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.292364985,
+        "y": 0.5716946
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.2886406,
+        "y": -0.556797
+      },
+      "WeaponClass": "CT"
+    }
+  ]
+}

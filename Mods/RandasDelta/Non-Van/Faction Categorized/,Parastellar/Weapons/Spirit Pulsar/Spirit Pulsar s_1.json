@@ -1,0 +1,42 @@
+{
+  "ItemType": 25,
+  "Id": 12311,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1002,
+      "AudioClip": "hit_09",
+      "Color": "#78FFFFFF",
+      "ColorMode": 2,
+      "Size": 1.2,
+      "Lifetime": 0.4
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 4,
+      "DamageType": 3,
+      "Power": 200.0,
+      "Factor": 0.5
+    },
+    {
+      "Type": 3,
+      "Power": 5.0
+    }
+  ]
+}

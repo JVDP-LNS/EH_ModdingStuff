@@ -1,0 +1,111 @@
+{
+  "ItemType": 15,
+  "Id": 20,
+  "Name": "$Mission_DestroyPirates",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Nodes": [
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "$Mission_DestroyPirates_Intro",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 3,
+            "MaxValue": 4
+          }
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "$Mission_DestroyPirates_Attack",
+      "Enemy": 3,
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 20,
+      "DefaultTransition": 20,
+      "FailureTransition": 15,
+      "Enemy": 3
+    },
+    {
+      "Id": 20,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "$Mission_DestroyPirates_Completed",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "$Mission_DestroyPirates_Failed",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 56,
+      "DefaultTransition": 18,
+      "Value": 5
+    },
+    {
+      "Id": 17,
+      "Type": 56,
+      "DefaultTransition": 19,
+      "Value": -2
+    },
+    {
+      "Id": 18,
+      "Type": 40
+    },
+    {
+      "Id": 19,
+      "Type": 41
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12327,
+  "Name": "Large Phantom Drive",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 12327,
+  "Faction": 12301,
+  "Level": 130,
+  "Icon": "engine4",
+  "Color": "#9FDFC9",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 12115,
+  "Name": "Taranaik Teleporter",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 4,
+  "Level": 50,
+  "Icon": "doom1",
+  "Color": "#9FDFCC",
+  "Layout": "1111",
+  "CellType": "2",
+  "DeviceId": 12115,
+  "PossibleModifications": [
+    7,
+    2,
+    6
+  ]
+}

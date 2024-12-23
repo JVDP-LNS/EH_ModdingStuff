@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 13045,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 50.0,
+    "Range": 25.0,
+    "Color": "#01020202",
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13209,
+      "Color": "#00F8FF"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "Color": "#410080FF",
+      "ColorMode": 1,
+      "Size": 12.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

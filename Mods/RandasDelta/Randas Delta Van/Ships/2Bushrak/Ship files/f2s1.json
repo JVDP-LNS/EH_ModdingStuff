@@ -1,0 +1,100 @@
+{
+  "ItemType": 6,
+  "Id": 23,
+  "Name": "Stalkalibur",
+  "Faction": 2,
+  "SizeClass": 2,
+  "IconImage": "2stalkalibur.png",
+  "IconScale": 1.1,
+  "ModelImage": "2stalkalibur.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FF7F7F",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.8
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.8
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.6
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.6
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "4000000111000000000000013331000000000000122210000000000001222100000000000012221000000000000032300000000000000323000000000000003230000000000000032300000000000000323000000000000003230000000044111322231114400041113222311140000011132223111000000441555551440000000405555504000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.65
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": -0.3841642,
+        "y": 0.6803519
+      },
+      "WeaponClass": "ML"
+    },
+    {
+      "Position": {
+        "x": -0.3841642,
+        "y": -0.6598241
+      },
+      "WeaponClass": "ML"
+    },
+    {
+      "Position": {
+        "x": -0.574780047,
+        "y": 0.513196468
+      },
+      "Rotation": 3.0,
+      "WeaponClass": "ML"
+    },
+    {
+      "Position": {
+        "x": -0.5601173,
+        "y": -0.5073314
+      },
+      "Rotation": -3.0,
+      "WeaponClass": "ML"
+    }
+  ]
+}

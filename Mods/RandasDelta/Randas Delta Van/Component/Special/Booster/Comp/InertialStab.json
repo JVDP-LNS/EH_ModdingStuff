@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 70,
+  "Name": "Inertial Stabilizer",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 70,
+  "Faction": 8,
+  "Level": 75,
+  "Icon": "inertial2",
+  "Color": "#80C0FF",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
+}

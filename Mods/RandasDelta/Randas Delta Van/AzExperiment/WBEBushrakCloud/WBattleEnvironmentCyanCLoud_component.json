@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 18002,
+  "Name": "WBERed",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#1EFF0004",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 18001,
+  "AmmunitionId": 18002,
+  "PossibleModifications": [
+    14,
+    6
+  ]
+}

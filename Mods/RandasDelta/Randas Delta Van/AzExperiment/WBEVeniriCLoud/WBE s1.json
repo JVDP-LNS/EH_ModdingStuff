@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 18000,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 100.0,
+    "Range": 100.0,
+    "Lifetime": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 18001,
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 30.0
+    }
+  ]
+}

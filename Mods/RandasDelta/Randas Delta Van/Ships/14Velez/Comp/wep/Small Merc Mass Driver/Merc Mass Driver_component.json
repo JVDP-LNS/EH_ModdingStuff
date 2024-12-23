@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 12239,
+  "Name": "Small Merc Mass Driver",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 14,
+  "Level": 140,
+  "Icon": "gun2",
+  "Color": "#DDD29B",
+  "Layout": "0101",
+  "CellType": "4",
+  "WeaponId": 17005,
+  "AmmunitionId": 12239,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

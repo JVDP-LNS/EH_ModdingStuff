@@ -1,0 +1,36 @@
+{
+  "ItemType": 26,
+  "Id": 14017,
+  "Elements": [
+    {
+      "Image": "bbstarBling.png",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Image": "bbstarBling.png",
+      "Color": "#00000000",
+      "Size": 1.6,
+      "Lifetime": 1.0
+    },
+    {
+      "Image": "bbstarBling.png",
+      "Color": "#00000000",
+      "Size": 1.2,
+      "Lifetime": 1.0
+    },
+    {
+      "Image": "bbstarBling.png",
+      "ColorMode": 2,
+      "Size": 0.8,
+      "Lifetime": 1.0
+    },
+    {
+      "Image": "bbstarBling.png",
+      "ColorMode": 1,
+      "Size": 0.4,
+      "Lifetime": 1.0
+    }
+  ]
+}

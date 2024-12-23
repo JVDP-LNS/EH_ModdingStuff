@@ -1,0 +1,8 @@
+{
+  "ItemType": 20,
+  "Id": 14000,
+  "Name": "Stable Fuel Blueprint",
+  "Description": "Blueprint required by Fuel Forges to fabricate Stable Hyperdrive Fuel.",
+  "Icon": "matBP.png",
+  "Color": "#65FEFF"
+}

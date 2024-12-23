@@ -1,0 +1,11 @@
+{
+  "ItemType": 1,
+  "Id": 13027,
+  "Name": "Mjolnirfortification",
+  "ComponentStatsId": 3,
+  "Icon": "pointdefense",
+  "Color": "#FFF900",
+  "Layout": "1",
+  "DeviceId": 13027,
+  "PossibleModifications": []
+}

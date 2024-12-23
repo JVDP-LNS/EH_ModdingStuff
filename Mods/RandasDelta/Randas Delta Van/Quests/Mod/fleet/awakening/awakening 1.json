@@ -1,0 +1,13 @@
+{
+  "ItemType": 18,
+  "Id": 15001,
+  "Factions": {
+    "Type": 1
+  },
+  "NoRandomShips": true,
+  "CombatTimeLimit": 1,
+  "SpecificShips": [
+    15002,
+    15001
+  ]
+}

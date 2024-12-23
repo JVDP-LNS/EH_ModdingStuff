@@ -1,0 +1,19 @@
+{
+  "ItemType": 7,
+  "Id": 19991,
+  "Name": "Test Satellite",
+  "ModelImage": "satellite7",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "402030105",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "WeaponClass": "CT",
+      "Image": "12wormshipaddon.png",
+      "Size": 1.4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 51,
+  "Name": "Venger",
+  "Faction": 8,
+  "SizeClass": 1,
+  "IconImage": "8zevenger.png",
+  "IconScale": 0.8,
+  "ModelImage": "8zevenger.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FFE865",
+  "EngineSize": 0.3,
+  "Layout": "4000000000000000000000000000000000000000000040011110040004401322310440044012222104400111322223111001112222221110011125555211100011115511110000011155111000000010550100000000005500000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.4281525,
+        "y": 0.689149559
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.4281525,
+        "y": -0.686217
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

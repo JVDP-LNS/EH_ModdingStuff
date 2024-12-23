@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 12288,
+  "Body": {
+    "Size": 0.5,
+    "Velocity": 500.0,
+    "Range": 10.0,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12289,
+      "Color": "#0F070707",
+      "ColorMode": 1
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "shot_11",
+      "Color": "#C638FE",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 0.2
+    }
+  ],
+  "ImpactType": 1
+}

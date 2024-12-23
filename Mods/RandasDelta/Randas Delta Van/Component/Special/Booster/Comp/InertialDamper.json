@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 69,
+  "Name": "Inertial Damper ",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 69,
+  "Faction": 8,
+  "Level": 30,
+  "Icon": "inertial2",
+  "Color": "#70E9FF",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
+}

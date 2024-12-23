@@ -1,0 +1,8 @@
+{
+  "ItemType": 2,
+  "Id": 13044,
+  "DeviceClass": 11,
+  "Power": 20.0,
+  "Cooldown": 0.1,
+  "ControlButtonIcon": "controls_boost"
+}

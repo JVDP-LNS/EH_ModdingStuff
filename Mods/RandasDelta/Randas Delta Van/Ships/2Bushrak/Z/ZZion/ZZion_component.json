@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13014,
+  "Name": "Zionic Warp",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 2,
+  "Icon": "doom1",
+  "Color": "#FFB2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13014,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13072,
+  "Name": "Biomutant Wing Drive",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 6,
+  "Icon": "accelerator1",
+  "Color": "#DFC99F",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13072,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

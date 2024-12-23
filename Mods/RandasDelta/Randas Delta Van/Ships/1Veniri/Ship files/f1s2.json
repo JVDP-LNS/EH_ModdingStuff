@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 19,
+  "ShipCategory": 1,
+  "Name": "Paladin MK2",
+  "Faction": 1,
+  "IconImage": "1pala.png",
+  "IconScale": 0.9,
+  "ModelImage": "1pala.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#3FFFAE00",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.94
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.94
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "400040000000040000000020000000121000000222000041222140041222140001555100000555000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.214076251,
+        "y": 0.008797654
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9296188,
+        "y": -0.00586510263
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.293255121,
+        "y": 0.9061583
+      },
+      "Rotation": -3.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": -0.290322572,
+        "y": -0.909090936
+      },
+      "Rotation": 3.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

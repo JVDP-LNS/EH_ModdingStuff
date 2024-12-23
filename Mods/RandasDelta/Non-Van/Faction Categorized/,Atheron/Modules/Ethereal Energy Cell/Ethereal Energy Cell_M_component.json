@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 12272,
+  "Name": "Medium Ethereal Energy Cells",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 12272,
+  "Faction": 1300,
+  "Level": 70,
+  "Icon": "fueltank12",
+  "Color": "#D4B2E5",
+  "Layout": "1111",
+  "PossibleModifications": [
+    9
+  ]
+}

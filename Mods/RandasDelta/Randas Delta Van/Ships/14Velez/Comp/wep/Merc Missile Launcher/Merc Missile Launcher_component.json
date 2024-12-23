@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12250,
+  "Name": "Merc Missile Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 150,
+  "Icon": "rocket1",
+  "Color": "#D9BC96",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 17004,
+  "AmmunitionId": 12250,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    21,
+    6,
+    16,
+    5,
+    7
+  ]
+}

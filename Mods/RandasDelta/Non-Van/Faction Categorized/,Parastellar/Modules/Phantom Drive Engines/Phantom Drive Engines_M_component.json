@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12326,
+  "Name": "Medium Phantom Drive",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 12326,
+  "Faction": 12301,
+  "Level": 110,
+  "Icon": "engine2",
+  "Color": "#9EDFCB",
+  "Layout": "1010",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

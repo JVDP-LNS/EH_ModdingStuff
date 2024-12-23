@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 228,
+  "Name": "$AcidTorpedo_L_1",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 150,
+  "Icon": "torpedo1",
+  "Color": "#8FEFDF",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 58,
+  "AmmunitionId": 12099,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    8,
+    16,
+    5,
+    6,
+    7
+  ]
+}

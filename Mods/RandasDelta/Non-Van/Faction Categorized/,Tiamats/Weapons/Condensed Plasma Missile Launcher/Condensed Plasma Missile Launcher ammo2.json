@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 12348,
+  "Body": {
+    "Type": 2,
+    "Size": 0.01,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12321,
+      "Color": "#00FFFF",
+      "ColorMode": 1,
+      "Quantity": 8,
+      "Size": 0.9,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 1.0
+    }
+  ]
+}

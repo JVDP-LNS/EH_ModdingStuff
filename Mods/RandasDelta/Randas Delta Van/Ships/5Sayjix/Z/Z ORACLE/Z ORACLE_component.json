@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 13058,
+  "Name": "Oracle's Sight",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 5,
+  "Icon": "shield1",
+  "Color": "#BFFF7F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13058,
+  "AmmunitionId": 13058,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

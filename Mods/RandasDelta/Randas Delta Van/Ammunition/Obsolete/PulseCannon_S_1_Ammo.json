@@ -1,0 +1,7 @@
+{
+  "ItemType": 4,
+  "Id": 65,
+  "Color": "#B4FF9B80",
+  "HitEffectPrefab": "FlashAdditive",
+  "BulletPrefab": "Plasma1"
+}

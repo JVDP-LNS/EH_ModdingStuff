@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13042,
+  "Name": "Lil Manty's Stinger",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "gun7",
+  "Color": "#9BA6DD",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13042,
+  "AmmunitionId": 13042,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    8,
+    13
+  ]
+}

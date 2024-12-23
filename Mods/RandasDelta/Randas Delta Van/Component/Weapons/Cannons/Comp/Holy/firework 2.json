@@ -1,0 +1,95 @@
+{
+  "ItemType": 25,
+  "Id": 12178,
+  "Body": {
+    "Type": 2,
+    "Size": 0.01,
+    "Lifetime": 0.05,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#FF0300",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#FFAA00",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#FEFF00",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#54FF00",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#00FEFF",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#0000FF",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#AA00FF",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#FF00FE",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12179,
+      "Color": "#FF007F",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 0.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": []
+}

@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 13074,
+  "Body": {
+    "Type": 3,
+    "Size": 2.0,
+    "Range": 20.0,
+    "Lifetime": 0.05,
+    "Color": "#FFE700",
+    "BulletPrefab": 14015,
+    "EnergyCost": 30.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 13075,
+      "Size": 1.5,
+      "Cooldown": 0.02,
+      "RandomFactor": 0.1,
+      "PowerMultiplier": 10.0,
+      "MaxNestingLevel": 2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": []
+}

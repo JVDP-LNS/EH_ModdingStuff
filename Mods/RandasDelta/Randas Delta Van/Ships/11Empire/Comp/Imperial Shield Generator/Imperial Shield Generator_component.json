@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 12299,
+  "Name": "Imperial Shield Generator",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 12299,
+  "Faction": 11,
+  "Level": 120,
+  "Icon": "shield1",
+  "Color": "#84D0FF",
+  "Layout": "101111101",
+  "CellType": "2",
+  "Restrictions": {
+    "UniqueComponentTag": "shieldgen"
+  },
+  "PossibleModifications": [
+    12,
+    3
+  ]
+}

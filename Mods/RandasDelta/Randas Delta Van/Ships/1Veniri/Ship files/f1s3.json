@@ -1,0 +1,79 @@
+{
+  "ItemType": 6,
+  "Id": 20,
+  "Name": "Javelin MK2",
+  "Faction": 1,
+  "SizeClass": 1,
+  "IconImage": "1javelinmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "1javelinmk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.1
+  },
+  "EngineColor": "#3DFF9600",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.55,
+        "y": 0.775
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.55,
+        "y": -0.765
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "400001100000000013310000000032230000000032230000000032230000000002200000000002200000040432234040041435534140011135531110001115511100000005500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.964809358,
+        "y": 0.00293255132
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": -0.208211139,
+        "y": 0.454545468
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.176913425,
+        "y": 0.3425345
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.184441656,
+        "y": -0.329987466
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.207026348,
+        "y": -0.4378921
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 129,
+  "Name": "Pulse Gatling",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 90,
+  "Icon": "gun1",
+  "Color": "#FBFFC0",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 67,
+  "AmmunitionId": 11002,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

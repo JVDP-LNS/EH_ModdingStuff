@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 12271,
+  "Name": "Small Ethereal Energy Cells",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 12271,
+  "Faction": 1300,
+  "Level": 60,
+  "Icon": "fueltank11",
+  "Color": "#D6B6E6",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

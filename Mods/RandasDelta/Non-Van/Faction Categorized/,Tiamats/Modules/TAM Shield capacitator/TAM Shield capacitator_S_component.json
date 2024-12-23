@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12401,
+  "Name": "Small Tiamat Shield Capacitator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 12401,
+  "Faction": 12302,
+  "Level": 120,
+  "Icon": "shield_capacitator1",
+  "Color": "#7AFFD0",
+  "Layout": "1",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

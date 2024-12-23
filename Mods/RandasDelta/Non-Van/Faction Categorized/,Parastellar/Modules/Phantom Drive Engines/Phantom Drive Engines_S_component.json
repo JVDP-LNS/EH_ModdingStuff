@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12325,
+  "Name": "Small Phantom Drive",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 12325,
+  "Faction": 12301,
+  "Level": 90,
+  "Icon": "engine0",
+  "Color": "#9FDFC7",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

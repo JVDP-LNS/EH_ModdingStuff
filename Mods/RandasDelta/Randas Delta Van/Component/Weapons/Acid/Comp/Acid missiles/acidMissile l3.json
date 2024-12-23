@@ -1,0 +1,107 @@
+{
+  "ItemType": 25,
+  "Id": 12130,
+  "Body": {
+    "Type": 1,
+    "Size": 0.5,
+    "Velocity": 2.0,
+    "Range": 0.08,
+    "Lifetime": 0.04,
+    "Color": "#CCFEEE",
+    "BulletPrefab": 12009,
+    "EnergyCost": 12.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1E00FFAD",
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 0.15
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "Color": "#1900FFAA",
+      "ColorMode": 1,
+      "Size": 1.1,
+      "Lifetime": 2.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 996,
+      "Color": "#00FFAA",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "PowerMultiplier": 25.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#2100FFAA",
+      "ColorMode": 1,
+      "Size": 13.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#9FFDDE",
+      "ColorMode": 1,
+      "Size": 1.5,
+      "Lifetime": 0.1
+    },
+    {
+      "Condition": 7,
+      "EffectType": 2,
+      "Ammunition": 996,
+      "Color": "#00FFAA",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 32.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 995,
+      "Color": "#8200FF94",
+      "ColorMode": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 8.0
+    },
+    {
+      "Condition": 7,
+      "EffectType": 2,
+      "Ammunition": 995,
+      "Color": "#7E00FFBF",
+      "ColorMode": 1,
+      "Size": 7.5,
+      "PowerMultiplier": 10.0
+    },
+    {
+      "Condition": 7,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "AudioClip": "explosion_04",
+      "Color": "#1F00FFAA",
+      "ColorMode": 1,
+      "Size": 15.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12130,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 40
+    }
+  ],
+  "Effects": []
+}

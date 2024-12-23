@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 13097,
+  "Name": "Range Extenders",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13097,
+  "Faction": 8,
+  "Icon": "range1",
+  "Color": "#EFEF8F",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

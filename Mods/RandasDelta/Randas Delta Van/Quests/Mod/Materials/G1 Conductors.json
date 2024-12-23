@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15007,
+  "Name": "Grade 1 Conductors",
+  "Description": "A special compound produced at a fuel forge, which is able to conduct several forms of energy.",
+  "Icon": "tubes",
+  "Color": "#85D2DF",
+  "Price": 30
+}

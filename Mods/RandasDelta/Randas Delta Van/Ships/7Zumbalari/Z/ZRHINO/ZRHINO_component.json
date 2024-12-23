@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13076,
+  "Name": "Rhino's Fortification",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 7,
+  "Icon": "pointdefense",
+  "Color": "#D2D8BF",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13076,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

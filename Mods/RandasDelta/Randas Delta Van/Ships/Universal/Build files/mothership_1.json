@@ -1,0 +1,285 @@
+{
+  "ItemType": 8,
+  "Id": 220,
+  "ShipId": 83,
+  "NotAvailableInGame": true,
+  "BuildFaction": -1,
+  "Components": [
+    {
+      "ComponentId": 61,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 61,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 15,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 61,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 12,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 61,
+      "Modification": 11,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 26,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 15005,
+      "Locked": true,
+      "X": 23,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 15005,
+      "Locked": true,
+      "X": 22,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 15005,
+      "Locked": true,
+      "X": 24,
+      "Y": 15,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 15005,
+      "Locked": true,
+      "X": 28,
+      "Y": 15,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 15005,
+      "Locked": true,
+      "X": 27,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 23,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 20,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 17,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 17,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 23,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 20,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 75,
+      "Modification": 12,
+      "Quality": 5,
+      "Locked": true,
+      "X": 12,
+      "Y": 16,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 75,
+      "Modification": 12,
+      "Quality": 5,
+      "Locked": true,
+      "X": 12,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 75,
+      "Modification": 12,
+      "Quality": 5,
+      "Locked": true,
+      "X": 12,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 9,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 18,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 10,
+      "Y": 6,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Modification": 3,
+      "Quality": 5,
+      "Locked": true,
+      "X": 10,
+      "Y": 4,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 15,
+      "Y": 23,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 12,
+      "Y": 23,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 15,
+      "Y": 3,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 65,
+      "Locked": true,
+      "X": 12,
+      "Y": 3,
+      "BarrelId": -1
+    }
+  ]
+}

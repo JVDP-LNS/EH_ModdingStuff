@@ -1,0 +1,53 @@
+{
+  "ItemType": 26,
+  "Id": 12008,
+  "Elements": [
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "Size": 0.5,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#450C0C0C",
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#31191919",
+      "Size": 1.5,
+      "Lifetime": 2.4
+    },
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "ColorMode": 2,
+      "Color": "#007C7C7C",
+      "Size": 1.0,
+      "Lifetime": 1.6
+    },
+    {
+      "Type": 5,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 5,
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.9
+    },
+    {
+      "Type": 5,
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.8
+    }
+  ]
+}

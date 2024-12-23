@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13209,
+  "Name": "Nuke ship",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 3,
+  "Faction": 2,
+  "Icon": "detonator1",
+  "Color": "#FF7F7F",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13209,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    7
+  ]
+}

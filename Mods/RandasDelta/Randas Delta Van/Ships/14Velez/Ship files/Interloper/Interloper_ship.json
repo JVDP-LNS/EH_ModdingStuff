@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 1126,
+  "Name": "Interloper",
+  "Faction": 14,
+  "IconImage": "14interloper.png",
+  "IconScale": 0.8,
+  "ModelImage": "14interloper.png",
+  "ModelScale": 1.4,
+  "EnginePosition": {
+    "x": -0.6
+  },
+  "EngineColor": "#39FFF76B",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.1
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "4000040400000000004040000000000404000000000031300000000002220000000041222140000014122214100000013231000000001323100000000055500000000055055000000015505510000001100011000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.8845438,
+        "y": 0.176908746
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.8882682,
+        "y": -0.165735573
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1396648,
+        "y": 0.41527003
+      },
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.1433892,
+        "y": -0.411545634
+      },
+      "WeaponClass": "CM"
+    }
+  ]
+}

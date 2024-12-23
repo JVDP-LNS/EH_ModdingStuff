@@ -1,0 +1,81 @@
+{
+  "ItemType": 6,
+  "Id": 46,
+  "Name": "Chrysalis MK2",
+  "Faction": 6,
+  "IconImage": "6chrysalismk2.png",
+  "IconScale": 0.9,
+  "ModelImage": "6chrysalismk2.png",
+  "ModelScale": 1.1,
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineColor": "#4077B639",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "y": 0.6
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "y": -0.6
+      },
+      "Size": 0.2
+    }
+  ],
+  "KineticResistance": 0.25,
+  "HeatResistance": 0.25,
+  "Regeneration": true,
+  "BaseWeightModifier": 0.1,
+  "BuiltinDevices": [],
+  "Layout": "400111000001323100001222100011222110054222450054555450004545400000040000000040000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4164223
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": -0.2346041,
+        "y": 0.401759535
+      },
+      "Rotation": 170.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -0.231671557,
+        "y": -0.381231666
+      },
+      "Rotation": -170.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "C"
+    }
+  ]
+}

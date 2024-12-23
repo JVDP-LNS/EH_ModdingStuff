@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 17001,
+  "Name": "Pot M4",
+  "ModelImage": "satellite1",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "0000000000000000032222301322223113222231113333110100001000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

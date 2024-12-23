@@ -1,0 +1,143 @@
+{
+  "ItemType": 15,
+  "Id": 15006,
+  "Name": "The Gladiator",
+  "QuestType": 2,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 6,
+    "MinValue": 3,
+    "MaxValue": 10
+  },
+  "Level": 3,
+  "Nodes": [
+    {
+      "Id": 99,
+      "Type": 10,
+      "Message": "Hey! I'm Darius, and I have been wandering the nearby regions battling some decently strong-looking folk. If you win I'll give you some of my stuff. What do you say?",
+      "Enemy": 3,
+      "Character": 15006,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Fight"
+        },
+        {
+          "TargetNode": 7,
+          "ButtonText": "Decline"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 20,
+      "DefaultTransition": 3,
+      "FailureTransition": 9,
+      "Enemy": 15002
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Damn, your fleet was stronger than the other captains around here. As promised, here's your reward.",
+      "Loot": 15006,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 5,
+      "Loot": 15006
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "I guess I'll go to other regions now, you are the strongest I've faced around here. Lets meet again when we are both even stronger.",
+      "Character": 15006,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "ButtonText": "Finish"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "That's too bad...  I'll be wandering around the merchant base if you decide to battle me later.",
+      "Character": 15006,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 10,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 30
+              },
+              {
+                "Type": 15,
+                "MinValue": 1,
+                "MaxValue": 100,
+                "Character": 12001
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "Hmm, that's not enough to beat my fleet. I'll wandering around the merchant base if you wanna go at it again.",
+      "Character": 15006,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Type": 50,
+      "DefaultTransition": 99,
+      "Character": 12001
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "We meet again! Are you prepared to fight now?",
+      "Character": 15006,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Let's Fight!"
+        },
+        {
+          "TargetNode": 7,
+          "ButtonText": "No, maybe later."
+        }
+      ]
+    }
+  ]
+}

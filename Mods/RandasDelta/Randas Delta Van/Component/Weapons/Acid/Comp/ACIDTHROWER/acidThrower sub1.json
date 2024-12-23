@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 12136,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 20.0,
+    "Range": 0.4,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12134,
+      "Quantity": 2,
+      "Size": 1.0,
+      "RandomFactor": 0.2,
+      "PowerMultiplier": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

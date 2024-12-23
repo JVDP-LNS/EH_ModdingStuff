@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 60,
+  "Name": "ISS Gunboat MK2",
+  "Faction": 11,
+  "SizeClass": 1,
+  "IconImage": "11gunboatmk2.png",
+  "IconScale": 0.85,
+  "ModelImage": "11gunboatmk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.7
+  },
+  "EngineColor": "#4070C3FF",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.1
+      }
+    }
+  ],
+  "Layout": "400000000000000000000111000000000000222000000000040222040000000040222040000000040222040000000141222141000001141222141100044111222111440044333222333440044333555333440001105555501100001101555101100000101000101000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.452513963,
+        "y": 0.452513963
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.452513963,
+        "y": -0.433891982
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": -0.199255124,
+        "y": 0.7132216
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": -0.191806331,
+        "y": -0.6945996
+      },
+      "WeaponClass": "M"
+    }
+  ]
+}

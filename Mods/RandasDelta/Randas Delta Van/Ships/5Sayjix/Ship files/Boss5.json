@@ -1,0 +1,31 @@
+{
+  "ItemType": 6,
+  "Id": 6,
+  "ShipCategory": 1,
+  "Name": "Oracle MK2",
+  "Faction": 5,
+  "SizeClass": 3,
+  "IconImage": "5oraclemk2.png",
+  "IconScale": 1.2,
+  "ModelImage": "5oraclemk2.png",
+  "ModelScale": 4.0,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#40FAFD49",
+  "EngineSize": 0.4,
+  "Layout": "4000001111100000000001111111110000000111111111110000011111333111110001111122222111110011112222222111100111222242222111011132204440223111111322444442231111113220444022311101112220002221110011112222222111100011112222211110000011113331111000000011555551100000000005555500000000000005550000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.04
+      },
+      "Offset": 0.53,
+      "PlatformType": 1,
+      "WeaponClass": "LS"
+    }
+  ]
+}

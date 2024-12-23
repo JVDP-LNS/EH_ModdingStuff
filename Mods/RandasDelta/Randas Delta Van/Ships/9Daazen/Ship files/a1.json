@@ -1,0 +1,25 @@
+{
+  "ItemType": 6,
+  "Id": 93,
+  "ShipCategory": 6,
+  "Name": "Drone A2",
+  "Faction": 9,
+  "IconImage": "9dronea2.png",
+  "IconScale": 0.5,
+  "ModelImage": "9dronea2.png",
+  "ModelScale": 0.6,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3CFF00FE",
+  "EngineSize": 0.2,
+  "BaseWeightModifier": -0.5,
+  "BuiltinDevices": [],
+  "Layout": "4444333333344443333333444433333334444333333355553333333555533333335555333333355553333333555533333335555333333355553333333",
+  "Barrels": [
+    {
+      "Offset": 1.0,
+      "PlatformType": 3
+    }
+  ]
+}

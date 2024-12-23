@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 12295,
+  "Name": "Essence  Warp Missile M2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Level": 80,
+  "Icon": "afterburner1",
+  "Color": "#D870FF",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 19,
+  "AmmunitionId": 12295,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    8,
+    21,
+    6,
+    16,
+    5,
+    7
+  ]
+}

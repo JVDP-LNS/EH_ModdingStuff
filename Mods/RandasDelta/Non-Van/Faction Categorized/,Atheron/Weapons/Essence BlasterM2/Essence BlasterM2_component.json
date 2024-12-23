@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 12281,
+  "Name": "Essence Blaster M2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Level": 60,
+  "Icon": "gun7",
+  "Color": "#D47FFF",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 13042,
+  "AmmunitionId": 12281,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

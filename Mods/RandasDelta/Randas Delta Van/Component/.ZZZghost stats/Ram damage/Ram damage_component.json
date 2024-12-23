@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 14001,
+  "Name": "Ram damage",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 14001,
+  "Icon": "gun1",
+  "Color": "#01020202",
+  "Layout": "0",
+  "PossibleModifications": [
+    16,
+    8
+  ]
+}

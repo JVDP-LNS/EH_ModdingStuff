@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 12319,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 30.0,
+    "Range": 25.0,
+    "Color": "#00FFFD",
+    "EnergyCost": 15.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12320,
+      "Color": "#00A2FF",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12321,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12320,
+      "Color": "#00FFAF",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "RandomFactor": 1.0
+    }
+  ]
+}

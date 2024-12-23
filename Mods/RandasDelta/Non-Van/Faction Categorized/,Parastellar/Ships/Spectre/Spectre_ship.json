@@ -1,0 +1,70 @@
+{
+  "ItemType": 6,
+  "Id": 12351,
+  "Name": "Spectre",
+  "Faction": 12301,
+  "SizeClass": 3,
+  "IconImage": "PRSspectre.png",
+  "IconScale": 1.2,
+  "ModelImage": "PRSspectre.png",
+  "ModelScale": 4.2,
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "EngineColor": "#3B00FFB0",
+  "EngineSize": 0.5,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.16
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.16
+      },
+      "Size": 0.2
+    }
+  ],
+  "EnergyResistance": 0.25,
+  "KineticResistance": 0.25,
+  "HeatResistance": 0.25,
+  "Layout": "400000000040000000000000000000444000000000000000000444000000000000000000222000000000000000440222044000000000101442222244101000001111442222244111100001101122222221101100011111322222223111110011101322222223101110111101322222223101111111111125222521111111011111115555511111110011111115555511111110001101105555501101100000101105505501101000000110100101001011000000010000101000010000000010000101000010000000000000101000000000000000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7504656
+      },
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    },
+    {
+      "Position": {
+        "x": 0.21787709,
+        "y": 0.162011176
+      },
+      "Rotation": 30.0,
+      "Offset": 0.4,
+      "PlatformType": 3,
+      "AutoAimingArc": 30.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.21787709,
+        "y": -0.162011176
+      },
+      "Rotation": -30.0,
+      "Offset": 0.4,
+      "PlatformType": 3,
+      "AutoAimingArc": 30.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ItemType": 6,
+  "Id": 35,
+  "ShipCategory": 1,
+  "Name": "Drone MK3 ",
+  "Faction": 4,
+  "IconImage": "4dronemk3.png",
+  "IconScale": 0.9,
+  "ModelImage": "4dronemk3.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#3C7AFFD0",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.98,
+        "y": 0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.98,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": 0.05,
+        "y": 0.65
+      },
+      "Size": 0.05
+    },
+    {
+      "Position": {
+        "x": 0.05,
+        "y": -0.65
+      },
+      "Size": 0.05
+    }
+  ],
+  "EnergyResistance": 0.5,
+  "Regeneration": true,
+  "BaseWeightModifier": -0.1,
+  "Layout": "4000404000000004440000000110110000001121100000012221000001322231000011333110000013331000000113110000000555000000005550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.228739008
+      },
+      "Offset": 0.1,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 1.1
+      },
+      "Offset": 0.1,
+      "PlatformType": 2,
+      "AutoAimingArc": 150.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

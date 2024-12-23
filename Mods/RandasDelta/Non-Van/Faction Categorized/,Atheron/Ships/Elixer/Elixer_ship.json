@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 12306,
+  "Name": "Elixir",
+  "Faction": 1300,
+  "SizeClass": 1,
+  "IconImage": "ATHelixir.png",
+  "IconScale": 0.85,
+  "ModelImage": "ATHelixir.png",
+  "ModelScale": 2.1,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#33CC89FF",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "400000040000000000000242000000000000242000000000000242000000000041222140000000041222140000000141222141000000111222111000000113222311000000113222311000000113222311000001111222111100001055555550100000055555550000000000555000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.407821238,
+        "y": 0.378026068
+      },
+      "Rotation": -2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.396648049,
+        "y": -0.370577276
+      },
+      "Rotation": 2.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

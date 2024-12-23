@@ -1,0 +1,46 @@
+{
+  "ItemType": 25,
+  "Id": 12187,
+  "Body": {
+    "Type": 3,
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 20.0,
+    "BulletPrefab": 14015
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12186,
+      "Cooldown": 0.1
+    },
+    {
+      "EffectType": 2,
+      "Ammunition": 12188
+    },
+    {
+      "EffectType": 2,
+      "Ammunition": 12188
+    },
+    {
+      "EffectType": 2,
+      "Ammunition": 12188
+    },
+    {
+      "EffectType": 2,
+      "Ammunition": 12189,
+      "Quantity": 5,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0
+    },
+    {
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Size": 20.0,
+      "Lifetime": 0.2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": []
+}

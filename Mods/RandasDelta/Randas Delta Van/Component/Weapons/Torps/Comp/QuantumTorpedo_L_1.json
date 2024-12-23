@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 155,
+  "Name": "$QuantumTorpedo_L_1",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 3,
+  "Level": 80,
+  "Icon": "torpedo3",
+  "Color": "#FF99FD",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 56,
+  "AmmunitionId": 12100,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

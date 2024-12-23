@@ -1,0 +1,46 @@
+{
+  "ItemType": 26,
+  "Id": 14009,
+  "Elements": [
+    {
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#02FFFFFF",
+      "Size": 1.0,
+      "StartTime": 0.65,
+      "Lifetime": 0.55
+    },
+    {
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#02FFFFFF",
+      "Size": 1.5,
+      "StartTime": 0.7,
+      "Lifetime": 0.5
+    },
+    {
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#02FFFFFF",
+      "Size": 2.0,
+      "StartTime": 0.75,
+      "Lifetime": 0.45
+    },
+    {
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#02FFFFFF",
+      "Size": 2.5,
+      "StartTime": 0.8,
+      "Lifetime": 0.4
+    },
+    {
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#02FFFFFF",
+      "Size": 3.0,
+      "StartTime": 0.85,
+      "Lifetime": 0.35
+    }
+  ]
+}

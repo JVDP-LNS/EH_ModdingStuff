@@ -1,0 +1,18 @@
+{
+  "ItemType": 7,
+  "Id": 17031,
+  "Name": "Barrel M4",
+  "ModelImage": "satellite7",
+  "ModelScale": 1.2,
+  "SizeClass": -1,
+  "Layout": "0014100001110001111100333330032223001555100555550",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "E"
+    }
+  ]
+}

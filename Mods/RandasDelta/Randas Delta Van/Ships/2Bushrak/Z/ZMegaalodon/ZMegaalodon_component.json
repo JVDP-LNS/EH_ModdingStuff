@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13011,
+  "Name": "Megalodon Maw Blast ",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "detonator1",
+  "Color": "#FFB2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13011,
+  "AmmunitionId": 13011,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16,
+    5
+  ]
+}

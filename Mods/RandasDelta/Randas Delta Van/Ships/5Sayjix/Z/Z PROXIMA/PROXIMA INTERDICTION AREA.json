@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 13052,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.05,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#0A7FFF00",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.1
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 5,
+      "Power": 1.0
+    }
+  ]
+}

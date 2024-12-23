@@ -1,0 +1,52 @@
+{
+  "ItemType": 25,
+  "Id": 12140,
+  "Body": {
+    "Size": 0.4,
+    "Velocity": 30.0,
+    "Range": 15.0,
+    "Color": "#FECCE5",
+    "BulletPrefab": 12001,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 10.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 8.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12139,
+      "Size": 6.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12137,
+      "Size": 2.0,
+      "Lifetime": 0.5,
+      "PowerMultiplier": 0.5
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 10.0
+    },
+    {
+      "Type": 1,
+      "Power": 0.5
+    }
+  ]
+}

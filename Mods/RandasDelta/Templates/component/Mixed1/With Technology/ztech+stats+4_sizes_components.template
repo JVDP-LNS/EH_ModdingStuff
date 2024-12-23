@@ -1,0 +1,137 @@
+{
+  "Name": "Component/With Technology/With 4 Stats and Sizes",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_S_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "Small {1}",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_M_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+1",
+            "Name": "Medium {1}",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+1",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_L_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+2",
+            "Name": "Large {1}",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+2",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_XL_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+3",
+            "Name": "Huge {1}",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+3",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_S_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}"
+          }
+        },
+        {
+          "Filename": "{1}_M_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+1"
+          }
+        },
+        {
+          "Filename": "{1}_L_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+2"
+          }
+        },
+        {
+          "Filename": "{1}_XL_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+3"
+          }
+        },
+        {
+          "Filename": "{1}_S_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}",
+            "ItemId": "%n{0}",
+            "Type": 0,
+            "Dependencies": []
+          }
+        },
+        {
+          "Filename": "{1}_M_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}+1",
+            "ItemId": "%n{0}+1",
+            "Type": 0,
+            "Dependencies": []
+          }
+        },
+        {
+          "Filename": "{1}_L_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}+2",
+            "ItemId": "%n{0}+2",
+            "Type": 0,
+            "Dependencies": []
+          }
+        },
+        {
+          "Filename": "{1}_XL_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}+3",
+            "ItemId": "%n{0}+3",
+            "Type": 0,
+            "Dependencies": []
+          }
+        }
+      ]
+    }
+  ]
+}

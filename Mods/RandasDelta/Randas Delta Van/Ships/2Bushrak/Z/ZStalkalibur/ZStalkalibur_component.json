@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13016,
+  "Name": "Flaming Exhaust",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "accelerator1",
+  "Color": "#FFB2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13016,
+  "AmmunitionId": 13016,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13123,
+  "Name": "Viper Bite",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#BBA7C8",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13123,
+  "AmmunitionId": 13123,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6,
+    16
+  ]
+}

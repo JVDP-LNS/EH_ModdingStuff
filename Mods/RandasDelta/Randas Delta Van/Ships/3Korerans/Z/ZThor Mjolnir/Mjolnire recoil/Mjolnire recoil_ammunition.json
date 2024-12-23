@@ -1,0 +1,12 @@
+{
+  "ItemType": 4,
+  "Id": 13022,
+  "Recoil": 1.0,
+  "Size": 0.01,
+  "Damage": 0.1,
+  "Range": 10.0,
+  "Velocity": 50.0,
+  "LifeTime": 0.2,
+  "EnergyCost": 0.1,
+  "BulletPrefab": "CommonProjectile"
+}

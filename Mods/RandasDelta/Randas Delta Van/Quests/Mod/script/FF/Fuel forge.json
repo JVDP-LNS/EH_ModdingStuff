@@ -1,0 +1,790 @@
+{
+  "ItemType": 15,
+  "Id": 15001,
+  "Name": "Fuel Forge",
+  "QuestType": 2,
+  "Nodes": [
+    {
+      "Id": 99,
+      "Type": 10,
+      "Message": "What would you like to produce?",
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 14003,
+            "MinValue": 1
+          },
+          "ButtonText": "Stable Hyperdrive Fuel"
+        },
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 14001,
+            "MinValue": 1
+          },
+          "ButtonText": "Grade 1 Armour Materials"
+        },
+        {
+          "TargetNode": 20,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 14002,
+            "MinValue": 1
+          },
+          "ButtonText": "Grade 1 Conductors"
+        },
+        {
+          "TargetNode": 98,
+          "Requirement": {
+            "Type": 1,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 14003,
+                "MinValue": 1
+              },
+              {
+                "Type": 25,
+                "ItemId": 14004,
+                "MinValue": 1
+              },
+              {
+                "Type": 25,
+                "ItemId": 14005,
+                "MinValue": 1
+              },
+              {
+                "Type": 25,
+                "ItemId": 14006,
+                "MinValue": 1
+              }
+            ]
+          },
+          "ButtonText": "Grade 2 or 3 Compounds"
+        },
+        {
+          "TargetNode": 1,
+          "ButtonText": "Nothing, Exit Fuel Forge"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "How many units of Stable Fuel do you wish to make? ",
+      "Loot": 13005,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 2,
+              "MinAmount": 22,
+              "MaxAmount": 1000
+            }
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 2,
+              "MinAmount": 52,
+              "MaxAmount": 1000
+            }
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 7,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 2,
+              "MinAmount": 102,
+              "MaxAmount": 1000
+            }
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 2,
+              "MinAmount": 202,
+              "MaxAmount": 1000
+            }
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 99,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 36,
+      "DefaultTransition": 4,
+      "Loot": 13006
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 13005
+    },
+    {
+      "Id": 5,
+      "Type": 36,
+      "DefaultTransition": 6,
+      "Loot": 13001
+    },
+    {
+      "Id": 6,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 13008
+    },
+    {
+      "Id": 7,
+      "Type": 36,
+      "DefaultTransition": 8,
+      "Loot": 13002
+    },
+    {
+      "Id": 8,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 13009
+    },
+    {
+      "Id": 9,
+      "Type": 36,
+      "DefaultTransition": 10,
+      "Loot": 13003
+    },
+    {
+      "Id": 10,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 13010
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "How many Grade 1 Armour Materials do you wish to make? ",
+      "Loot": 13012,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 16,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 18,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13003
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 99,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 36,
+      "DefaultTransition": 13,
+      "Loot": 13007
+    },
+    {
+      "Id": 13,
+      "Type": 35,
+      "DefaultTransition": 11,
+      "Loot": 13012
+    },
+    {
+      "Id": 14,
+      "Type": 36,
+      "DefaultTransition": 15,
+      "Loot": 13009
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 11,
+      "Loot": 13013
+    },
+    {
+      "Id": 16,
+      "Type": 36,
+      "DefaultTransition": 17,
+      "Loot": 13010
+    },
+    {
+      "Id": 17,
+      "Type": 35,
+      "DefaultTransition": 11,
+      "Loot": 13014
+    },
+    {
+      "Id": 18,
+      "Type": 36,
+      "DefaultTransition": 19,
+      "Loot": 13011
+    },
+    {
+      "Id": 19,
+      "Type": 35,
+      "DefaultTransition": 11,
+      "Loot": 13015
+    },
+    {
+      "Id": 20,
+      "Type": 10,
+      "Message": "How many Grade 1 Conductors do you wish to make? ",
+      "Loot": 13016,
+      "Actions": [
+        {
+          "TargetNode": 21,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 23,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 25,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 27,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13011
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 99,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 36,
+      "DefaultTransition": 22,
+      "Loot": 13007
+    },
+    {
+      "Id": 22,
+      "Type": 35,
+      "DefaultTransition": 20,
+      "Loot": 13016
+    },
+    {
+      "Id": 23,
+      "Type": 36,
+      "DefaultTransition": 24,
+      "Loot": 13009
+    },
+    {
+      "Id": 24,
+      "Type": 35,
+      "DefaultTransition": 20,
+      "Loot": 13017
+    },
+    {
+      "Id": 25,
+      "Type": 36,
+      "DefaultTransition": 26,
+      "Loot": 13010
+    },
+    {
+      "Id": 26,
+      "Type": 35,
+      "DefaultTransition": 20,
+      "Loot": 13018
+    },
+    {
+      "Id": 27,
+      "Type": 36,
+      "DefaultTransition": 28,
+      "Loot": 13011
+    },
+    {
+      "Id": 28,
+      "Type": 35,
+      "DefaultTransition": 20,
+      "Loot": 13019
+    },
+    {
+      "Id": 31,
+      "Type": 10,
+      "Message": "How many Grade 2 Armour Materials do you wish to make? ",
+      "Loot": 13028,
+      "Actions": [
+        {
+          "TargetNode": 32,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 34,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 36,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 38,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13003
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 98,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 32,
+      "Type": 36,
+      "DefaultTransition": 33,
+      "Loot": 13007
+    },
+    {
+      "Id": 33,
+      "Type": 35,
+      "DefaultTransition": 31,
+      "Loot": 13028
+    },
+    {
+      "Id": 34,
+      "Type": 36,
+      "DefaultTransition": 35,
+      "Loot": 13009
+    },
+    {
+      "Id": 35,
+      "Type": 35,
+      "DefaultTransition": 31,
+      "Loot": 13029
+    },
+    {
+      "Id": 36,
+      "Type": 36,
+      "DefaultTransition": 37,
+      "Loot": 13010
+    },
+    {
+      "Id": 37,
+      "Type": 35,
+      "DefaultTransition": 31,
+      "Loot": 13030
+    },
+    {
+      "Id": 38,
+      "Type": 36,
+      "DefaultTransition": 39,
+      "Loot": 13011
+    },
+    {
+      "Id": 39,
+      "Type": 35,
+      "DefaultTransition": 31,
+      "Loot": 13023
+    },
+    {
+      "Id": 40,
+      "Type": 10,
+      "Message": "How many Grade 2 Conductors do you wish to make? ",
+      "Loot": 13024,
+      "Actions": [
+        {
+          "TargetNode": 41,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 43,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 45,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 47,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13011
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 98,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 41,
+      "Type": 36,
+      "DefaultTransition": 42,
+      "Loot": 13007
+    },
+    {
+      "Id": 42,
+      "Type": 35,
+      "DefaultTransition": 40,
+      "Loot": 13024
+    },
+    {
+      "Id": 43,
+      "Type": 36,
+      "DefaultTransition": 44,
+      "Loot": 13009
+    },
+    {
+      "Id": 44,
+      "Type": 35,
+      "DefaultTransition": 40,
+      "Loot": 13025
+    },
+    {
+      "Id": 45,
+      "Type": 36,
+      "DefaultTransition": 46,
+      "Loot": 13010
+    },
+    {
+      "Id": 46,
+      "Type": 35,
+      "DefaultTransition": 40,
+      "Loot": 13026
+    },
+    {
+      "Id": 47,
+      "Type": 36,
+      "DefaultTransition": 48,
+      "Loot": 13011
+    },
+    {
+      "Id": 48,
+      "Type": 35,
+      "DefaultTransition": 40,
+      "Loot": 13027
+    },
+    {
+      "Id": 49,
+      "Type": 10,
+      "Message": "How many Grade 3 Armour Materials do you wish to make? ",
+      "Loot": 13031,
+      "Actions": [
+        {
+          "TargetNode": 50,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 52,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 54,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 56,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13003
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 98,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 50,
+      "Type": 36,
+      "DefaultTransition": 51,
+      "Loot": 13007
+    },
+    {
+      "Id": 51,
+      "Type": 35,
+      "DefaultTransition": 49,
+      "Loot": 13031
+    },
+    {
+      "Id": 52,
+      "Type": 36,
+      "DefaultTransition": 53,
+      "Loot": 13009
+    },
+    {
+      "Id": 53,
+      "Type": 35,
+      "DefaultTransition": 49,
+      "Loot": 13032
+    },
+    {
+      "Id": 54,
+      "Type": 36,
+      "DefaultTransition": 55,
+      "Loot": 13010
+    },
+    {
+      "Id": 55,
+      "Type": 35,
+      "DefaultTransition": 49,
+      "Loot": 13033
+    },
+    {
+      "Id": 56,
+      "Type": 36,
+      "DefaultTransition": 57,
+      "Loot": 13011
+    },
+    {
+      "Id": 57,
+      "Type": 35,
+      "DefaultTransition": 49,
+      "Loot": 13034
+    },
+    {
+      "Id": 58,
+      "Type": 10,
+      "Message": "How many Grade 3 Conductors do you wish to make? ",
+      "Loot": 13035,
+      "Actions": [
+        {
+          "TargetNode": 59,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13007
+          },
+          "ButtonText": "10"
+        },
+        {
+          "TargetNode": 61,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13009
+          },
+          "ButtonText": "25"
+        },
+        {
+          "TargetNode": 63,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13010
+          },
+          "ButtonText": "50"
+        },
+        {
+          "TargetNode": 65,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 13011
+          },
+          "ButtonText": "100"
+        },
+        {
+          "TargetNode": 98,
+          "ButtonText": "Go Back"
+        }
+      ]
+    },
+    {
+      "Id": 59,
+      "Type": 36,
+      "DefaultTransition": 60,
+      "Loot": 13007
+    },
+    {
+      "Id": 60,
+      "Type": 35,
+      "DefaultTransition": 58,
+      "Loot": 13035
+    },
+    {
+      "Id": 61,
+      "Type": 36,
+      "DefaultTransition": 62,
+      "Loot": 13009
+    },
+    {
+      "Id": 62,
+      "Type": 35,
+      "DefaultTransition": 58,
+      "Loot": 13036
+    },
+    {
+      "Id": 63,
+      "Type": 36,
+      "DefaultTransition": 64,
+      "Loot": 13010
+    },
+    {
+      "Id": 64,
+      "Type": 35,
+      "DefaultTransition": 58,
+      "Loot": 13037
+    },
+    {
+      "Id": 65,
+      "Type": 36,
+      "DefaultTransition": 66,
+      "Loot": 13011
+    },
+    {
+      "Id": 66,
+      "Type": 35,
+      "DefaultTransition": 58,
+      "Loot": 13038
+    },
+    {
+      "Id": 98,
+      "Type": 10,
+      "Actions": [
+        {
+          "TargetNode": 31,
+          "ButtonText": "Grade 2 Armor Materials"
+        },
+        {
+          "TargetNode": 40,
+          "ButtonText": "Grade 2 Conductors"
+        },
+        {
+          "TargetNode": 49,
+          "ButtonText": "Grade 3 Armor Materials"
+        },
+        {
+          "TargetNode": 58,
+          "ButtonText": "Grade 3 Conductors"
+        },
+        {
+          "TargetNode": 99,
+          "ButtonText": "Grade 1 Compounds or Exit Forge"
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 91,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 30
+              },
+              {
+                "Type": 15,
+                "MinValue": 1,
+                "MaxValue": 100,
+                "Character": 12001
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Id": 91,
+      "Type": 50,
+      "DefaultTransition": 99,
+      "Character": 12001
+    }
+  ]
+}

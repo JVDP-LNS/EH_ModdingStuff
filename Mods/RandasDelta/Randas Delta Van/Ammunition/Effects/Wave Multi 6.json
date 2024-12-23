@@ -1,0 +1,53 @@
+{
+  "ItemType": 26,
+  "Id": 1002,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 0.4,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 0.6,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 0.8,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.2,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.4,
+      "Lifetime": 0.5
+    },
+    {
+      "Type": 5,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Type": 5,
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 1.0
+    }
+  ]
+}

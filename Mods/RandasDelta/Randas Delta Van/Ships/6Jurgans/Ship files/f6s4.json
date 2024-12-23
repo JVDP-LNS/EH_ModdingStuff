@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 48,
+  "Name": "Beholder MK2",
+  "Faction": 6,
+  "SizeClass": 2,
+  "IconImage": "6beholdermk2.png",
+  "IconScale": 1.1,
+  "ModelImage": "6beholdermk2.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#30CC9D51",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.2
+      },
+      "Size": 0.4
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.2
+      },
+      "Size": 0.4
+    }
+  ],
+  "HeatResistance": 0.25,
+  "Regeneration": true,
+  "BuiltinDevices": [],
+  "Layout": "4000000000000000000000000000000000000044440000000000012442100000011111244211111000111222222111000111122222211110000112222221100000111322223111000001113223111000000115555551100000015555555510000001500550051000000050055005000000000005500000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "PlatformType": 3,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "WeaponClass": "LS"
+    }
+  ]
+}

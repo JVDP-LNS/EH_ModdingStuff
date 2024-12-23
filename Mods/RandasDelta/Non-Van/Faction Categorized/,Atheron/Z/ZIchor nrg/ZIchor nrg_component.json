@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13229,
+  "Name": "Ichor Fuel",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Icon": "fueltank12",
+  "Color": "#C99FDF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 56,
+  "AmmunitionId": 13229,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ItemType": 6,
+  "Id": 12366,
+  "Name": "Dinayl",
+  "IconImage": "TAMDinayl.png",
+  "IconScale": 0.7,
+  "ModelImage": "TAMDinayl.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3F7BFF00",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.75,
+        "y": 0.15
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.75,
+        "y": -0.15
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.64,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.64,
+        "y": -0.3
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "4000101000000011011000001100011000110000011004404240440044042404400112222211000132223100005555555000000555000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.117318437,
+        "y": 0.538175046
+      },
+      "Rotation": 80.0,
+      "Offset": 0.3,
+      "PlatformType": 2,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.176908746,
+        "y": 0.121042833
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.184357539,
+        "y": -0.117318437
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.121042833,
+        "y": -0.527001858
+      },
+      "Rotation": -80.0,
+      "Offset": 0.3,
+      "PlatformType": 2,
+      "WeaponClass": "CM"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 3,
+  "Id": 34,
+  "WeaponClass": 4,
+  "FireRate": 8.0,
+  "Spread": 10.0,
+  "Magazine": 2,
+  "ActivationType": 1,
+  "ShotSound": "hit_06",
+  "ControlButtonIcon": "controls_shock"
+}

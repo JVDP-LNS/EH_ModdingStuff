@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 19999,
+  "Name": "Raijin Shine",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Color": "#828282",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 19999,
+  "AmmunitionId": 19999,
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

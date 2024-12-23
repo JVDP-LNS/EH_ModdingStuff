@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 77,
+  "ShipCategory": 1,
+  "Name": "Meteor MK2",
+  "IconImage": "0meteormk2.png",
+  "IconScale": 0.7,
+  "ModelImage": "0meteormk2.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3900E9FF",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "4000004000000000001410000000000141000000000024200000000002220000000000323000000000022200000000002220000000000121000000000112110000000115551100000011555110000001005001000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.700879753,
+        "y": -0.00293255132
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "CTL"
+    }
+  ]
+}

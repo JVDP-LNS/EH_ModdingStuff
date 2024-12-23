@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 12132,
+  "Body": {
+    "Type": 1,
+    "Size": 0.1,
+    "Velocity": 2.0,
+    "Range": 40.0,
+    "Color": "#01020202",
+    "BulletPrefab": 3,
+    "EnergyCost": 12.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12130,
+      "Color": "#CCFEEE",
+      "ColorMode": 1,
+      "PowerMultiplier": 1.0
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 3
+    }
+  ]
+}

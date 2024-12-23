@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 13044,
+  "Name": "Hovering Dragonfly",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 4,
+  "Icon": "hangar",
+  "Color": "#9FDFC9",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13044,
+  "WeaponSlotType": "Z"
+}

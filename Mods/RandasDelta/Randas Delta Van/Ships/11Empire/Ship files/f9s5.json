@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 63,
+  "ShipCategory": 1,
+  "Name": "ISS Shuttle",
+  "Faction": 11,
+  "IconImage": "11shuttle.png",
+  "IconScale": 0.7,
+  "ModelImage": "11shuttle.png",
+  "ModelScale": 1.3,
+  "EnginePosition": {
+    "x": -0.85
+  },
+  "EngineColor": "#4075D1FF",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "BaseWeightModifier": -0.1,
+  "Layout": "4000040000000001410000000012100000000222000000002220000000422240000004222400001145254110011452541100115525511000055055000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3,
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.02793296,
+        "y": 0.329608947
+      },
+      "WeaponClass": "TM"
+    },
+    {
+      "Position": {
+        "x": 0.02793296,
+        "y": -0.329608947
+      },
+      "WeaponClass": "TM"
+    }
+  ]
+}

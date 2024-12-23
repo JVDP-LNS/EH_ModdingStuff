@@ -1,0 +1,75 @@
+{
+  "ItemType": 26,
+  "Id": 11001,
+  "Elements": [
+    {
+      "Image": "bbbwave1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.3,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.4,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.5,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.6,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.7,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.8,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "bbbwave2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.9,
+      "Lifetime": 0.15
+    }
+  ]
+}

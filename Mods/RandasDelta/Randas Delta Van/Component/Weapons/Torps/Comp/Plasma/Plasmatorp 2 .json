@@ -1,0 +1,39 @@
+{
+  "ItemType": 25,
+  "Id": 12087,
+  "Body": {
+    "Size": 0.3,
+    "Velocity": 0.1,
+    "Range": 0.005,
+    "Lifetime": 0.05,
+    "BulletPrefab": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1DFF0004",
+      "ColorMode": 1,
+      "Size": 10.0,
+      "Lifetime": 0.1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12046,
+      "Quantity": 2,
+      "RandomFactor": 0.25,
+      "PowerMultiplier": 10.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12087,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 30
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": []
+}

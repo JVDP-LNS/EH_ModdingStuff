@@ -1,0 +1,30 @@
+{
+  "ItemType": 16,
+  "Id": 19998,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 10000000,
+          "MaxAmount": 10000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 4,
+          "MinAmount": 100000,
+          "MaxAmount": 100000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 2,
+          "MinAmount": 1000,
+          "MaxAmount": 1000
+        }
+      }
+    ]
+  }
+}

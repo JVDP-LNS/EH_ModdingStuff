@@ -1,0 +1,15 @@
+{
+  "ItemType": 2,
+  "Id": 13014,
+  "DeviceClass": 10,
+  "EnergyConsumption": 15.0,
+  "PassiveEnergyConsumption": 2.0,
+  "Range": 8.0,
+  "Size": 5.0,
+  "Cooldown": 10.0,
+  "ActivationType": 2,
+  "Color": "#7CFF0084",
+  "Sound": "shot_11",
+  "EffectPrefab": "Charge3",
+  "ControlButtonIcon": "controls_gear"
+}

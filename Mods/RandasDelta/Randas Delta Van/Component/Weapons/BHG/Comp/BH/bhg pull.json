@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 12139,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 10.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 2,
+      "Power": 5.0
+    }
+  ]
+}

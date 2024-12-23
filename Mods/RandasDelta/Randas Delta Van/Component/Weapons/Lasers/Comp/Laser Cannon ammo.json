@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 12015,
+  "Body": {
+    "Type": 3,
+    "Size": 0.3,
+    "Range": 16.0,
+    "Lifetime": 0.1,
+    "Color": "#FFA575",
+    "BulletPrefab": 2,
+    "EnergyCost": 3.0
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 11001,
+      "Quantity": 3,
+      "Size": 0.5,
+      "Cooldown": 1.0,
+      "RandomFactor": 0.5
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 15.0
+    }
+  ]
+}

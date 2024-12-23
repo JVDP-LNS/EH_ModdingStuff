@@ -1,0 +1,107 @@
+{
+  "ItemType": 6,
+  "Id": 7,
+  "ShipCategory": 1,
+  "Name": "Overlord MK2",
+  "Faction": 6,
+  "SizeClass": 3,
+  "IconImage": "6overlordmk2.png",
+  "IconScale": 1.2,
+  "ModelImage": "6overlordmk2.png",
+  "ModelScale": 4.0,
+  "EnginePosition": {
+    "x": -0.85
+  },
+  "EngineColor": "#469EBD41",
+  "EngineSize": 0.4,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.75,
+        "y": 0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.75,
+        "y": -0.2
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.6
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.6
+      },
+      "Size": 0.2
+    }
+  ],
+  "Regeneration": true,
+  "BuiltinDevices": [],
+  "Layout": "4000000014410000000000000000144100000000000000041441400000000000000412214000000000000004222240000000000004112222114000000000041122221140000000000413222231400000000411132222311140000004111222222111400000041132222223114000001111322222231111000011113222222311110000111132222223111100001111132222311111000111111555555111111001101115555551110110000011155555511100000000110005500011000000001100000000110000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.8853373
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.5659824,
+        "y": 0.296187669
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.5659824,
+        "y": -0.296187669
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.2346041,
+        "y": 0.5102639
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.228739008,
+        "y": -0.5043988
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -0.08504399,
+        "y": 0.6363636
+      },
+      "Rotation": 20.0,
+      "PlatformType": 3,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -0.09090909,
+        "y": -0.624633431
+      },
+      "Rotation": -20.0,
+      "PlatformType": 3,
+      "WeaponClass": "CS"
+    }
+  ]
+}

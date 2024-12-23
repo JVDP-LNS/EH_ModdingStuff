@@ -1,0 +1,24 @@
+{
+  "ItemType": 26,
+  "Id": 999,
+  "Elements": [
+    {
+      "Image": "star",
+      "Color": "#0AFFFFFF",
+      "Size": 3.0,
+      "Lifetime": 0.9
+    },
+    {
+      "Image": "star",
+      "Color": "#0AFFFFFF",
+      "Size": 1.5,
+      "Lifetime": 0.95
+    },
+    {
+      "Image": "star",
+      "Color": "#0AFFFFFF",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

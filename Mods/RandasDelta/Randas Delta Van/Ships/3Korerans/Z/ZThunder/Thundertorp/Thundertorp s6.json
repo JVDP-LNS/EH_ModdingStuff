@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 13041,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 0.1,
+    "Range": 0.1,
+    "Lifetime": 1.0,
+    "Weight": 1.0,
+    "HitPoints": 1000,
+    "BulletPrefab": 1,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13038,
+      "Quantity": 2,
+      "MaxNestingLevel": 8
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#7FFFF8",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": []
+}

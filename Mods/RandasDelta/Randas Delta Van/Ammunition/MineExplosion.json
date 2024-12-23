@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 111,
+  "Body": {
+    "Size": 0.01,
+    "Velocity": 5.0,
+    "Range": 50.0,
+    "Lifetime": 0.5,
+    "Color": "#FFDAB2",
+    "EnergyCost": 50.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 108,
+      "PowerMultiplier": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": []
+}

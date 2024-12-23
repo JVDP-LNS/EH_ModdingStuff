@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 13613,
+  "Name": "Anchorage V12",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Color": "#14FF0054",
+  "Layout": "0",
+  "CellType": "0",
+  "WeaponId": 13601,
+  "AmmunitionId": 13613
+}

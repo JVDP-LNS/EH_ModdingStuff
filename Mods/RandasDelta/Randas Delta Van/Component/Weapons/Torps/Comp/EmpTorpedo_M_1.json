@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 149,
+  "Name": "$EmpTorpedo_M_1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 3,
+  "Level": 70,
+  "Icon": "torpedo3",
+  "Color": "#C0FFFF",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 55,
+  "AmmunitionId": 12095,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

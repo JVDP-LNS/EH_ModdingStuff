@@ -1,0 +1,17 @@
+{
+  "ItemType": 25,
+  "Id": 13113,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 1.0,
+    "Range": 0.1,
+    "Lifetime": 0.1,
+    "FriendlyFire": true
+  },
+  "Effects": [
+    {
+      "Type": 1,
+      "Power": 2.0
+    }
+  ]
+}

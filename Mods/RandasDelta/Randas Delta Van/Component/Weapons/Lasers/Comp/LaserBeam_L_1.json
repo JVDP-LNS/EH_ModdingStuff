@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 20,
+  "Name": "Heavy Laser Beam M1",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 2,
+  "Level": 90,
+  "Icon": "laser3",
+  "Color": "#FFFFC0",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 24,
+  "AmmunitionId": 12023,
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

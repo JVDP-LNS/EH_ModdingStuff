@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 30,
+  "Name": "Lil Manty",
+  "Faction": 3,
+  "IconImage": "3dronemanty.png",
+  "IconScale": 0.9,
+  "ModelImage": "3dronemanty.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3C3240FF",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 1.0
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -1.0
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.1,
+  "Layout": "4004400000144100001221000002200000022000111551110115511000055000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.8123167
+      },
+      "Rotation": 180.0,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "WeaponClass": "TS"
+    }
+  ]
+}

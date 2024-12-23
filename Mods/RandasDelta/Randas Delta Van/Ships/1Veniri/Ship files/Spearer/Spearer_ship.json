@@ -1,0 +1,61 @@
+{
+  "ItemType": 6,
+  "Id": 11003,
+  "Name": "Spearer",
+  "IconImage": "1spearer.png",
+  "IconScale": 0.6,
+  "ModelImage": "1spearer.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#43FFA000",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.82,
+        "y": 0.35
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.82,
+        "y": -0.35
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": 0.1,
+  "Layout": "4004400000022000000220000002200000433400011331100115511000055000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.906890154,
+        "y": 0.00186219742
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.00186219742,
+        "y": 0.325884551
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.005586592,
+        "y": -0.314711362
+      },
+      "WeaponClass": "C"
+    }
+  ]
+}

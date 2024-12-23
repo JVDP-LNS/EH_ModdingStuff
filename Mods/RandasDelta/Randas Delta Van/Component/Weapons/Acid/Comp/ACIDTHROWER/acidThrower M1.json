@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 12135,
+  "Body": {
+    "Type": 3,
+    "Size": 0.1,
+    "Range": 20.0,
+    "Lifetime": 0.1,
+    "Color": "#00FFAA",
+    "BulletPrefab": 12010,
+    "EnergyCost": 15.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 12136,
+      "Quantity": 1,
+      "Size": 2.0,
+      "Cooldown": 0.05,
+      "RandomFactor": 0.1,
+      "PowerMultiplier": 8.0
+    }
+  ],
+  "ImpactType": 2
+}

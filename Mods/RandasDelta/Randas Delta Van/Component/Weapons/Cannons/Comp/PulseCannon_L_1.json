@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 22,
+  "Name": "Heavy Pulse Blaster",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 100,
+  "Icon": "gun7",
+  "Color": "#DBAE98",
+  "Layout": "0010001000100010",
+  "CellType": "4",
+  "WeaponId": 61,
+  "AmmunitionId": 11005,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

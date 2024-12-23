@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 13035,
+  "Name": "Thunder Torpedo",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1,
+  "Icon": "torpedo2",
+  "Color": "#9FAADF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 56,
+  "AmmunitionId": 13035,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    14
+  ]
+}

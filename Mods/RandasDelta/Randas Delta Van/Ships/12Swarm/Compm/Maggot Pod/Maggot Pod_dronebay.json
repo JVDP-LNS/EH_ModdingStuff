@@ -1,0 +1,16 @@
+{
+  "ItemType": 5,
+  "Id": 12248,
+  "EnergyConsumption": 5.0,
+  "PassiveEnergyConsumption": 1.0,
+  "Range": 45.0,
+  "DamageMultiplier": 0.5,
+  "DefenseMultiplier": 0.5,
+  "SpeedMultiplier": 1.0,
+  "ImprovedAi": true,
+  "Capacity": 1,
+  "ActivationType": 2,
+  "LaunchSound": "launch_08",
+  "LaunchEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "controls_drone"
+}

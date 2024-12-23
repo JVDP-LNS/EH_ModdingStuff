@@ -1,0 +1,149 @@
+{
+  "ItemType": 26,
+  "Id": 14005,
+  "Elements": [
+    {
+      "Image": "fireblacka0.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "ColorMode": 2,
+      "Color": "#64FFFFFF",
+      "Size": 1.1,
+      "StartTime": 0.05,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "fireblacka2.png",
+      "Color": "#00000000",
+      "Size": 1.2,
+      "StartTime": 0.1,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.1,
+      "StartTime": 0.15,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka0.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "ColorMode": 2,
+      "Color": "#64FFFFFF",
+      "Size": 1.3,
+      "StartTime": 0.25,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "fireblacka2.png",
+      "Color": "#00000000",
+      "Size": 0.8,
+      "StartTime": 0.3,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.35,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka0.png",
+      "Color": "#00000000",
+      "Size": 0.9,
+      "StartTime": 0.4,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "ColorMode": 2,
+      "Color": "#96FFFFFF",
+      "Size": 1.1,
+      "StartTime": 0.45,
+      "Lifetime": 0.3
+    },
+    {
+      "Image": "fireblacka2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.5,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.5,
+      "StartTime": 0.55,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka0.png",
+      "Color": "#00000000",
+      "Size": 1.3,
+      "StartTime": 0.6,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.2,
+      "StartTime": 0.65,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.7,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.1,
+      "StartTime": 0.75,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka0.png",
+      "Color": "#00000000",
+      "Size": 0.8,
+      "StartTime": 0.8,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "ColorMode": 2,
+      "Color": "#64FFFFFF",
+      "Size": 1.2,
+      "StartTime": 0.85,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "fireblacka2.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "StartTime": 0.9,
+      "Lifetime": 0.08
+    },
+    {
+      "Image": "fireblacka1.png",
+      "Color": "#00000000",
+      "Size": 1.6,
+      "StartTime": 0.95,
+      "Lifetime": 0.08
+    }
+  ]
+}

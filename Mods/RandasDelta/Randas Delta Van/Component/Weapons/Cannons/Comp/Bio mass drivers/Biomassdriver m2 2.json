@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 12120,
+  "Body": {
+    "Type": 2,
+    "Size": 0.3,
+    "Velocity": 10.0,
+    "Range": 5.0,
+    "BulletPrefab": 7,
+    "EnergyCost": 2.0
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 996,
+      "Size": 2.0,
+      "PowerMultiplier": 2.0
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 2.0
+    },
+    {
+      "Type": 1,
+      "Power": 0.05
+    }
+  ]
+}

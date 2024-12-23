@@ -1,0 +1,55 @@
+{
+  "ItemType": 25,
+  "Id": 12153,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.2,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Size": 1.0,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1001,
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Size": 0.75,
+      "Lifetime": 0.2
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "ColorMode": 1,
+      "Size": 0.5,
+      "Lifetime": 0.2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 4,
+      "DamageType": 1,
+      "Power": 10.0,
+      "Factor": 0.5
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 5.0
+    }
+  ]
+}

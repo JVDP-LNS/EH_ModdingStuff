@@ -1,0 +1,49 @@
+{
+  "ItemType": 25,
+  "Id": 12143,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 5.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#32FF0004",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#7EFEFF5B",
+      "ColorMode": 1,
+      "Size": 0.5,
+      "Lifetime": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1EFF0505",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 5.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 10.0
+    },
+    {
+      "Type": 5,
+      "Power": 1.0
+    }
+  ]
+}

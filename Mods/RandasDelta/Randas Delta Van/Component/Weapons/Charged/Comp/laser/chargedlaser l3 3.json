@@ -1,0 +1,16 @@
+{
+  "ItemType": 25,
+  "Id": 12189,
+  "Body": {
+    "Size": 1.0,
+    "Lifetime": 0.1
+  },
+  "Triggers": [],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 1,
+      "Power": 1.0
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "ItemType": 6,
+  "Id": 12321,
+  "ShipCategory": 2,
+  "Name": "Aethon",
+  "Faction": 1300,
+  "SizeClass": 4,
+  "IconImage": "AThaethon.png",
+  "IconScale": 1.3,
+  "ModelImage": "AThaethon.png",
+  "ModelScale": 9.2,
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineColor": "#39C36BFF",
+  "EngineSize": 0.5,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.081
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.081
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.3
+      },
+      "Size": 0.4
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.3
+      },
+      "Size": 0.4
+    }
+  ],
+  "Layout": "400000000000000040000000000000000000000000000000040000000000000000000000000000040141040000000000000000000000000041141140000000000000000000000000041141140000000000000000000000000041131140000000000000000000000000011434110000000000000000000000004441434144400000000000000000000004441434144400000000000000000000000133222331000000000000000000000000133222331000000000000000000000000134222431000000000000000000000044404222404440000000000000000000044404222404440000000000000000000001333222333100000000000000000000001333222333100000000000000000000001333222333100000000000000000000444112222211444000000000000000000444112222211444000000000000000000001412222214100000000000000000000001412222214100000000000000000000011412222214110000000000000000000411412222214114000000000000000000413312222213314000000000000000000413312222213314000000000000000000113312040213311000000000000000000013312444213310000000000000000000055512040215550000000000000000000055515555515550000000000000000000055515555515550000000000000000000005505555505500000000000000000000000000555000000000000000000000000000000000000000000000004",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.975
+      },
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.844252169,
+        "y": 0.161928311
+      },
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.844252169,
+        "y": -0.164400488
+      },
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.5500618,
+        "y": 0.161928311
+      },
+      "Rotation": 90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": 0.552534,
+        "y": -0.159456119
+      },
+      "Rotation": -90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": 0.4264524,
+        "y": 0.152039558
+      },
+      "Rotation": 78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.423980236,
+        "y": -0.147095174
+      },
+      "Rotation": -78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.213844255,
+        "y": 0.171817064
+      },
+      "Rotation": 90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": 0.213844255,
+        "y": -0.164400488
+      },
+      "Rotation": -90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": 0.156983927,
+        "y": 0.19653894
+      },
+      "Rotation": 78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": 0.161928311,
+        "y": -0.194066748
+      },
+      "Rotation": -78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": -0.117428921,
+        "y": 0.250927061
+      },
+      "Rotation": 78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": -0.117428921,
+        "y": -0.245982692
+      },
+      "Rotation": -78.0,
+      "Offset": 0.15,
+      "PlatformType": 3,
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": -0.250927061,
+        "y": 0.218788624
+      },
+      "Rotation": 90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": -0.255871445,
+        "y": -0.221260816
+      },
+      "Rotation": -90.0,
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": -0.4462299,
+        "y": 0.436341166
+      },
+      "Rotation": 75.0,
+      "PlatformType": 2,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": -0.441285551,
+        "y": -0.436341166
+      },
+      "Rotation": -75.0,
+      "PlatformType": 2,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.07
+    },
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "PlatformType": 1,
+      "WeaponClass": "L",
+      "Image": "ATHturret.png",
+      "Size": 0.09
+    },
+    {
+      "Position": {
+        "x": -0.25
+      },
+      "WeaponClass": "X"
+    }
+  ]
+}

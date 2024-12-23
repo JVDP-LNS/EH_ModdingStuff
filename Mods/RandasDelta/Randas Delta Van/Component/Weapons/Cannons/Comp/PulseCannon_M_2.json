@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 113,
+  "Name": "Pulse Blaster M2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Level": 50,
+  "Icon": "gun7",
+  "Color": "#DD9B9B",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 64,
+  "AmmunitionId": 11004,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ItemType": 6,
+  "Id": 78,
+  "Name": "Scavenger MK2",
+  "SizeClass": 2,
+  "IconImage": "0scavengermk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "0scavengermk2.png",
+  "ModelScale": 3.3,
+  "EnginePosition": {
+    "x": -0.75
+  },
+  "EngineColor": "#4100EFFF",
+  "EngineSize": 0.45,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.3
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.3
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "4000004004000000000000400400000000000040040000000000002002000000000000244200000000001124421100000000112442110000000011322311000000001132231100000001112222111000000113222231100000011322223110000001115555111000000010555501000000001050050100000000005005000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.876832843,
+        "y": 0.175953075
+      },
+      "Rotation": -2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.8739003,
+        "y": -0.161290318
+      },
+      "Rotation": 2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.228739008,
+        "y": 0.00586510263
+      },
+      "PlatformType": 3,
+      "WeaponClass": "LMS"
+    }
+  ]
+}

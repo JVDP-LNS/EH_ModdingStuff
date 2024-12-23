@@ -1,0 +1,97 @@
+{
+  "ItemType": 6,
+  "Id": 103,
+  "Name": "Wormship MK2",
+  "Faction": 12,
+  "SizeClass": 3,
+  "IconImage": "worm_head",
+  "IconScale": 1.0,
+  "ModelImage": "worm_head",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineColor": "#4B7F7F7F",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.97,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.97,
+        "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.4
+      }
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -0.4
+      }
+    }
+  ],
+  "BuiltinDevices": [
+    20
+  ],
+  "Layout": "4000440000000440000000044000000044000000004400000004400000000440000000440000000111004040011100000011100444001110000011112044402111100003333224442233330000333222222222333004111322222222231114411132222222223111441113222222222311140111322222222231110011112222222221111000111122222221111000011555322235551100000155555555555100000005555555555500000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.25
+      },
+      "WeaponClass": "Z",
+      "Image": "12wormshipaddon.png",
+      "Size": 1.275
+    },
+    {
+      "Position": {
+        "x": 1.4,
+        "y": 0.25
+      },
+      "Rotation": -2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 1.4,
+        "y": -0.25
+      },
+      "Rotation": 2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    },
+    {
+      "Position": {
+        "x": 0.0827067643,
+        "y": 0.9398496
+      },
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.0789473653,
+        "y": -0.9398496
+      },
+      "PlatformType": 3,
+      "WeaponClass": "L"
+    }
+  ]
+}

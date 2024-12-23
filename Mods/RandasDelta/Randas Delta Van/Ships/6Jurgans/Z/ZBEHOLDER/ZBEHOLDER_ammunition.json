@@ -1,0 +1,39 @@
+{
+  "ItemType": 25,
+  "Id": 13062,
+  "Body": {
+    "Type": 3,
+    "Size": 1.2,
+    "Range": 16.0,
+    "Lifetime": 0.05,
+    "Color": "#DCBB92",
+    "BulletPrefab": 5,
+    "EnergyCost": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 13060,
+      "Quantity": 3,
+      "Size": 0.5,
+      "Cooldown": 0.1,
+      "PowerMultiplier": 5.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 999,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "PowerMultiplier": 20.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 100.0
+    }
+  ]
+}

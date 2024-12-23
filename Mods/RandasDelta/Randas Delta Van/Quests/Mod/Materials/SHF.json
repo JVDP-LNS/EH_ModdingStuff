@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15005,
+  "Name": "Stable Hyperdrive Fuel",
+  "Description": "An better alternaative to standard hyperdrive fuel, which can be stored with other cargo with (almost) no risk of explosions. It is produced at Fuel forges by consuming standard fuel",
+  "Icon": "eye",
+  "Color": "#00F9FF",
+  "Price": 20
+}

@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 96,
+  "ShipCategory": 6,
+  "Name": "Drone",
+  "IconImage": "0santadronemk2.png",
+  "IconScale": 0.7,
+  "ModelImage": "0santadronemk2.png",
+  "ModelScale": 1.2,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#AA00FBFF",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "y": 0.7
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "y": -0.7
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": -0.3,
+  "Layout": "4444433333344444333333444443333334444433333344444333333333333335553333333355533333333555333333335553333333355533333333555",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5
+      }
+    }
+  ]
+}

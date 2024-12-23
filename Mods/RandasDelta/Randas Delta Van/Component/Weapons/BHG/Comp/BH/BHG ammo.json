@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 12137,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 10.0,
+    "Color": "#FECCE2",
+    "BulletPrefab": 14013,
+    "EnergyCost": 30.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "ColorMode": 1,
+      "Size": 0.3,
+      "Lifetime": 10.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Power": 100.0
+    },
+    {
+      "Type": 1,
+      "Power": 100.0
+    }
+  ]
+}

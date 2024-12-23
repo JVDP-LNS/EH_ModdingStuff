@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 12124,
+  "Name": "Acid Missile Launcher M1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 60,
+  "Icon": "rocket1",
+  "Color": "#7FFFD4",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 104,
+  "AmmunitionId": 12131,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    14,
+    8,
+    21,
+    16,
+    5,
+    7,
+    6
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12233,
+  "Name": "Large Mercenary Hull Plate",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 12233,
+  "Faction": 14,
+  "Level": 150,
+  "Icon": "armor13",
+  "Color": "#DFCF9F",
+  "Layout": "111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

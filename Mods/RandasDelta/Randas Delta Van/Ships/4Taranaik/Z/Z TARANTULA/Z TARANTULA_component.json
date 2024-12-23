@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13056,
+  "Name": "Mini Web Barrage",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 4,
+  "Icon": "shock2",
+  "Color": "#9FDFC9",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13056,
+  "AmmunitionId": 13056,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    14
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 13628,
+  "Name": "Anchor V8",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Color": "#3BFF00B6",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13621,
+  "AmmunitionId": 13628,
+  "WeaponSlotType": "V"
+}

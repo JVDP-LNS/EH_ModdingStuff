@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 21,
+  "Name": "Lightning Cannon M2",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 4,
+  "Level": 100,
+  "Icon": "shock1",
+  "Color": "#65E5FF",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 100,
+  "AmmunitionId": 12110,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    6,
+    16,
+    5,
+    7
+  ]
+}

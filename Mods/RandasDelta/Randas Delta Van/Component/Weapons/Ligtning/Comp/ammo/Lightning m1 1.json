@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 12104,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 30.0,
+    "Range": 15.0,
+    "Lifetime": 0.5,
+    "Color": "#01000305",
+    "BulletPrefab": 5,
+    "EnergyCost": 5.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12105,
+      "Color": "#75E8FF"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 12106,
+      "Color": "#01020202",
+      "ColorMode": 1,
+      "MaxNestingLevel": 10
+    }
+  ],
+  "Effects": []
+}

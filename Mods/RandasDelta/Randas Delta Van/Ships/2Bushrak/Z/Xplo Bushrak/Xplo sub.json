@@ -1,0 +1,44 @@
+{
+  "ItemType": 25,
+  "Id": 18029,
+  "Body": {
+    "Type": 2,
+    "Size": 0.1,
+    "Velocity": 1.0,
+    "Range": 1.0,
+    "Lifetime": 0.5
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 999,
+      "Color": "#FF6865",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 4.0,
+      "RandomFactor": 0.5,
+      "PowerMultiplier": 20.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#2FFF9D70",
+      "ColorMode": 1,
+      "Size": 15.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 18022,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "Size": 0.6,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 0.5,
+      "MaxNestingLevel": 2
+    }
+  ]
+}

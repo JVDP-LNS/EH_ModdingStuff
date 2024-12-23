@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 13024,
+  "Body": {
+    "Type": 2,
+    "Size": 0.2,
+    "Lifetime": 0.05,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#01010103",
+      "ColorMode": 1
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 5,
+      "Power": 1.0
+    }
+  ]
+}

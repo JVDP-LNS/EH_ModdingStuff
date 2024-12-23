@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 13124,
+  "Body": {
+    "Velocity": 5.0,
+    "Range": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13126,
+      "Color": "#0CFF00",
+      "ColorMode": 1
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1
+    }
+  ]
+}

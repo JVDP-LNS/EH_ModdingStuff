@@ -1,0 +1,10 @@
+{
+  "ItemType": 16,
+  "Id": 13005,
+  "Loot": {
+    "Type": 25,
+    "ItemId": 15005,
+    "MinAmount": 10,
+    "MaxAmount": 10
+  }
+}

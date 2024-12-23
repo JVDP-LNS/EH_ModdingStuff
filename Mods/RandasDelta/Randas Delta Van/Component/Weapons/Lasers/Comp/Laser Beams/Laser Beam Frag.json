@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 12025,
+  "Body": {
+    "Size": 0.3,
+    "Velocity": 15.0,
+    "Range": 3.0,
+    "Lifetime": 0.1,
+    "BulletPrefab": 12002
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "ColorMode": 2,
+      "Size": 1.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Size": 1.0,
+      "Lifetime": 0.1
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 1.0
+    }
+  ]
+}

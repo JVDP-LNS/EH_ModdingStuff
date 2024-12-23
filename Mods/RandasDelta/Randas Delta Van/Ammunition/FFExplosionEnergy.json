@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 997,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.5,
+    "Color": "#FF0000",
+    "EnergyCost": 1.0,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "AudioClip": "explosion_04",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 998,
+      "Size": 0.7,
+      "Lifetime": 0.8
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 1.0
+    }
+  ]
+}

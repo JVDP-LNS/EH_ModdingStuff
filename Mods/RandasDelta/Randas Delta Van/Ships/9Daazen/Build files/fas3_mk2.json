@@ -1,0 +1,12 @@
+{
+  "ItemType": 8,
+  "Id": 89,
+  "ShipId": 67,
+  "NotAvailableInGame": true,
+  "Components": [
+    {
+      "ComponentId": 13106,
+      "Locked": true
+    }
+  ]
+}

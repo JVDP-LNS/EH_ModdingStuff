@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13099,
+  "Name": "Pulse Barrage",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Faction": 1,
+  "Icon": "gun7",
+  "Color": "#7FFEFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13099,
+  "AmmunitionId": 13089,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6
+  ]
+}

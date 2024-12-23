@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 15011,
+  "Name": "Grade 3 Conductors",
+  "Description": "Special high quality compounds produced at a Fuel Forge, which is able to easly conduct several forms of energy.",
+  "Icon": "tubes",
+  "Color": "#7F8FE0",
+  "Price": 3000
+}

@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 13119,
+  "Name": "Load Bearering Boosters",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 13119,
+  "Icon": "intertial_damper1",
+  "Color": "#B2B2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

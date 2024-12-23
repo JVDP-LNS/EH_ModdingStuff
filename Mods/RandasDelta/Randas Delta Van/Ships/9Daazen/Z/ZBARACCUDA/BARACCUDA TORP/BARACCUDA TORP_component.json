@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 13102,
+  "Name": "Baraccuda Torpedo",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 9,
+  "Icon": "torpedo4",
+  "Color": "#FF00A9",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 13102,
+  "AmmunitionId": 13102,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    8,
+    6
+  ]
+}

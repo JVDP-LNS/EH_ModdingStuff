@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 13122,
+  "Name": "bro",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 2,
+  "Icon": "detonator1",
+  "Layout": "1",
+  "DroneBayId": 13122,
+  "DroneId": 261,
+  "PossibleModifications": [
+    19
+  ]
+}

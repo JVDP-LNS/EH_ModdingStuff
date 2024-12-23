@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13095,
+  "Name": "Twin Escorts",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 2,
+  "Faction": 8,
+  "Icon": "dronebay1",
+  "Color": "#ECEE8A",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z",
+  "DroneBayId": 2,
+  "DroneId": 141,
+  "PossibleModifications": [
+    19
+  ]
+}

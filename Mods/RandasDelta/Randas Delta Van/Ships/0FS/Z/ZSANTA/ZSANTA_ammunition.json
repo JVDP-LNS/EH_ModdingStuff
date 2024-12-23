@@ -1,0 +1,21 @@
+{
+  "ItemType": 25,
+  "Id": 13127,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 15.0,
+    "Range": 12.0,
+    "Color": "#FF75F8",
+    "BulletPrefab": 8,
+    "EnergyCost": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 110,
+      "Quantity": 10
+    }
+  ],
+  "Effects": []
+}

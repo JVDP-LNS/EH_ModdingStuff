@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 12248,
+  "Name": "Maggot Pod",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 12,
+  "Level": 150,
+  "Icon": "zygote2",
+  "Color": "#D5CEC7",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 12248,
+  "DroneId": 1025,
+  "Restrictions": {
+    "NotForMechanicShips": true
+  },
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20
+  ]
+}

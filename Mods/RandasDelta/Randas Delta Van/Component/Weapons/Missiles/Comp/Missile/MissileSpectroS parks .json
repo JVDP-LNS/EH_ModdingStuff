@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 12028,
+  "Body": {
+    "Type": 1,
+    "Size": 0.3,
+    "Velocity": 10.0,
+    "Range": 10.0,
+    "Color": "#29FF00EF",
+    "BulletPrefab": 12002,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 12019,
+      "Size": 2.0,
+      "Lifetime": 2.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#1DFFFFFF",
+      "ColorMode": 1
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 1.0
+    }
+  ]
+}

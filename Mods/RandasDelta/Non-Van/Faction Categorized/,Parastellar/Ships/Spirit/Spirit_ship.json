@@ -1,0 +1,49 @@
+{
+  "ItemType": 6,
+  "Id": 12331,
+  "Name": "Spirit",
+  "Faction": 12301,
+  "IconImage": "PRSspirit.png",
+  "IconScale": 0.7,
+  "ModelImage": "PRSspirit.png",
+  "ModelScale": 1.1,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#3300FFC6",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "EnergyResistance": 0.25,
+  "KineticResistance": 0.25,
+  "HeatResistance": 0.25,
+  "Regeneration": true,
+  "BaseWeightModifier": -0.25,
+  "Layout": "4000440000000144100001132231101113223111110322301101132231100010220100001055010000005500000000550000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "PlatformType": 3,
+      "WeaponClass": "SL"
+    }
+  ]
+}

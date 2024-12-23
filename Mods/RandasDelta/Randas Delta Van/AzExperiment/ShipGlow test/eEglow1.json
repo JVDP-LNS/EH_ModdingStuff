@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 14029,
+  "Elements": [
+    {
+      "Image": "eeglow1.png",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

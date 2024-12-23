@@ -1,0 +1,72 @@
+{
+  "ItemType": 25,
+  "Id": 18027,
+  "Body": {
+    "Type": 2,
+    "Size": 0.01,
+    "Velocity": 0.01,
+    "Range": 0.002,
+    "Lifetime": 0.02,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 18029,
+      "Color": "#00000000",
+      "Quantity": 5,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 18028,
+      "Color": "#00000000",
+      "Quantity": 3,
+      "RandomFactor": 1.0,
+      "MaxNestingLevel": 2
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#60FF0004",
+      "ColorMode": 1,
+      "Size": 50.0,
+      "Lifetime": 0.3
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "Color": "#78FF7F7F",
+      "ColorMode": 1,
+      "Size": 50.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "Color": "#43FFB6A8",
+      "ColorMode": 1,
+      "Size": 30.0,
+      "Lifetime": 4.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 18028,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 12034,
+      "Color": "#00000000",
+      "Quantity": 5,
+      "RandomFactor": 1.0
+    }
+  ]
+}

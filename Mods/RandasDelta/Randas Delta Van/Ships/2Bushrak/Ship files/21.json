@@ -1,0 +1,26 @@
+{
+  "ItemType": 6,
+  "Id": 86,
+  "ShipCategory": 6,
+  "Name": "Drone",
+  "Faction": 2,
+  "IconImage": "2dromem23.png",
+  "IconScale": 0.7,
+  "ModelImage": "2dromem23.png",
+  "ModelScale": 0.7,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FF7575",
+  "EngineSize": 0.1,
+  "Engines": [],
+  "BuiltinDevices": [],
+  "Layout": "4443222444322244432223333333111355511135551113555",
+  "Barrels": [
+    {
+      "Offset": 1.0,
+      "PlatformType": 3,
+      "AutoAimingArc": 25.0
+    }
+  ]
+}

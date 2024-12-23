@@ -1,0 +1,73 @@
+{
+  "ItemType": 6,
+  "Id": 61,
+  "Name": "ISS Caravel MK2",
+  "Faction": 11,
+  "SizeClass": 2,
+  "IconImage": "11caravelmk2.png",
+  "IconScale": 1.0,
+  "ModelImage": "11caravelmk2.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#407AE0FF",
+  "EngineSize": 0.4,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.15
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.15
+      },
+      "Size": 0.2
+    }
+  ],
+  "BaseWeightModifier": 0.2,
+  "Layout": "4000000000000000000000004440000000000000144410000000000441444144000000014412221441000144144122214414411443333222333344104433322222333440000333222223330000003333222333300000011112221111000000111155511110000001111555111100000011155555111000000001555551000000000011000110000000000000000000000",
+  "Barrels": [
+    {
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.7
+      },
+      "WeaponClass": "MS"
+    },
+    {
+      "Position": {
+        "x": 0.489757925,
+        "y": 0.340782136
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.482309133,
+        "y": -0.329608947
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.2774674,
+        "y": 0.7243948
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.266294241,
+        "y": -0.716946
+      },
+      "WeaponClass": "M"
+    }
+  ]
+}

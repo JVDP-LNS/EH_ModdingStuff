@@ -1,0 +1,19 @@
+{
+  "ItemType": 15,
+  "Id": 19999,
+  "QuestType": 1,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 19998
+    },
+    {
+      "Id": 2,
+      "Type": 40
+    }
+  ]
+}

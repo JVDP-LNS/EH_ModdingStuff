@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 13202,
+  "Name": "Ghostship's Apparition",
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 12301,
+  "Icon": "detonator1",
+  "Color": "#3FBFAC",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 13202,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 13235,
+  "Name": "Energy Flux Field Generator",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 1300,
+  "Icon": "detonator1",
+  "Color": "#C99FDF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 17011,
+  "AmmunitionId": 13235,
+  "WeaponSlotType": "Z",
+  "PossibleModifications": [
+    16
+  ]
+}

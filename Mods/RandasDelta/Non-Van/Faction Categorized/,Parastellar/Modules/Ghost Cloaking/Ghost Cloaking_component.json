@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 12339,
+  "Name": "Ghost Cloaking Device",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 12301,
+  "Level": 120,
+  "Icon": "shield2",
+  "Color": "#A3DFCB",
+  "Layout": "000111010",
+  "CellType": "2",
+  "DeviceId": 12339,
+  "PossibleModifications": [
+    6,
+    2
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 12011,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 3.0,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 12003,
+      "Size": 1.0,
+      "Lifetime": 3.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 1.0
+    }
+  ]
+}

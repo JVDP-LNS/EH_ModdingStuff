@@ -1,0 +1,8 @@
+{
+  "ItemType": 11,
+  "Id": 13117,
+  "WeaponFireRateModifier": 0.2,
+  "WeaponDamageModifier": 0.2,
+  "WeaponRangeModifier": 0.1,
+  "WeaponEnergyCostModifier": 0.1
+}

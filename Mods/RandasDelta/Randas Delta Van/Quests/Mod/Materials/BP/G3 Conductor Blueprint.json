@@ -1,0 +1,8 @@
+{
+  "ItemType": 20,
+  "Id": 14006,
+  "Name": "Grade 3 Conductors Blueprint",
+  "Description": "Blueprint required by Fuel Forges to fabricate Conducting Compounds",
+  "Icon": "matBP.png",
+  "Color": "#8493E0"
+}

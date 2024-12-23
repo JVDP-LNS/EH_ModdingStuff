@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 18061,
+  "Name": "Xplo 1",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 18020,
+  "Icon": "block",
+  "Color": "#FF8E8E",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 18021,
+  "AmmunitionId": 18026,
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    6,
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

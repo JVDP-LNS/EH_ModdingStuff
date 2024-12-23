@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 13018,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 5.0,
+    "Range": 0.25,
+    "Lifetime": 0.05,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13017,
+      "Quantity": 2,
+      "Size": 1.0,
+      "PowerMultiplier": 3.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": []
+}

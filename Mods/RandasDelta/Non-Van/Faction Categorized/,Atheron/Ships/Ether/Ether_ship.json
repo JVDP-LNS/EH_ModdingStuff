@@ -1,0 +1,54 @@
+{
+  "ItemType": 6,
+  "Id": 12301,
+  "Name": "Ether",
+  "Faction": 1300,
+  "IconImage": "ATHether.png",
+  "IconScale": 0.7,
+  "ModelImage": "ATHether.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.7
+  },
+  "EngineColor": "#3CD299FF",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "400020000000222000040222040040121040040222040111222111111555111011555110000000000",
+  "Barrels": [
+    {
+      "PlatformType": 1,
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.370577276,
+        "y": 0.6014898
+      },
+      "Rotation": -1.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.3519553,
+        "y": -0.5865922
+      },
+      "Rotation": 1.0,
+      "WeaponClass": "L"
+    }
+  ]
+}

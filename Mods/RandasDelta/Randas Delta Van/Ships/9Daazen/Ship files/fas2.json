@@ -1,0 +1,90 @@
+{
+  "ItemType": 6,
+  "Id": 65,
+  "Name": "Scorpion MK2",
+  "Faction": 9,
+  "SizeClass": 1,
+  "IconImage": "9scorpiomk2.png",
+  "IconScale": 0.85,
+  "ModelImage": "9scorpiomk2.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#40FF00FE",
+  "EngineSize": 0.3,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.88,
+        "y": 0.48
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.88,
+        "y": -0.48
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": 0.84
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.85,
+        "y": -0.84
+      },
+      "Size": 0.1
+    }
+  ],
+  "BuiltinDevices": [],
+  "Layout": "400004400000000004400000000024420000000022220000000422224000441422224144111122221111111122221111111122221111111125521111555505505555005505505500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "MTS"
+    },
+    {
+      "Position": {
+        "x": 0.25513196,
+        "y": 0.486803532
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.249266863,
+        "y": -0.460410565
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.152492672,
+        "y": 0.7917889
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.152492672,
+        "y": -0.78299123
+      },
+      "WeaponClass": "M"
+    }
+  ]
+}

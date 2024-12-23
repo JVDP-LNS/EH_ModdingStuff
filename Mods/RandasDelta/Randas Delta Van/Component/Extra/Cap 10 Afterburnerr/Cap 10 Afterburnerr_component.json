@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 15001,
+  "Name": "Cap 10 Afterburnerr",
+  "ComponentStatsId": 1,
+  "Layout": "1",
+  "DeviceId": 15001,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ItemType": 7,
+  "Id": 12263,
+  "Name": "Jorm Barrel",
+  "ModelImage": "satellite7",
+  "ModelScale": 1.5,
+  "SizeClass": -1,
+  "Layout": "0144410014441011444113322233322222315555515555555",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "WeaponClass": "L",
+      "Image": "12jormaddon.png",
+      "Size": 1.1
+    }
+  ]
+}

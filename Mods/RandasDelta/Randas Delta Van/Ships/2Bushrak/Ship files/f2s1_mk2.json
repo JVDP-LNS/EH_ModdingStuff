@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 24,
+  "Name": "Zephion",
+  "Faction": 2,
+  "IconImage": "2zephion.png",
+  "IconScale": 0.6,
+  "ModelImage": "2zephion.png",
+  "ModelScale": 0.9,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#40FF7575",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.67,
+        "y": 0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.67,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "BaseWeightModifier": 0.1,
+  "Layout": "4044400004240000222000122210110501111555111000001",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.195530728,
+        "y": 0.009310987
+      },
+      "WeaponClass": "Z"
+    },
+    {
+      "Position": {
+        "x": 0.5977654,
+        "y": 0.009310987
+      },
+      "Offset": 0.3,
+      "AutoAimingArc": 40.0,
+      "WeaponClass": "M"
+    }
+  ]
+}

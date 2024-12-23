@@ -1,0 +1,43 @@
+{
+  "ItemType": 25,
+  "Id": 108,
+  "Body": {
+    "Type": 2,
+    "Size": 0.6,
+    "Velocity": 5.0,
+    "Range": 5.0,
+    "Weight": 0.5,
+    "HitPoints": 10,
+    "Color": "#FFE1B5",
+    "BulletPrefab": 8,
+    "EnergyCost": 50.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 3,
+      "AudioClip": "hit_01",
+      "ColorMode": 2,
+      "Size": 5.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 110,
+      "Quantity": 5,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 108,
+      "MaxNestingLevel": 5
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 20.0
+    }
+  ]
+}

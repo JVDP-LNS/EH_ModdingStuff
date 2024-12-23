@@ -1,0 +1,13 @@
+{
+  "ItemType": 26,
+  "Id": 12001,
+  "Elements": [
+    {
+      "Image": "bulletoval.png",
+      "ColorMode": 2,
+      "Color": "#FAF9F9",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

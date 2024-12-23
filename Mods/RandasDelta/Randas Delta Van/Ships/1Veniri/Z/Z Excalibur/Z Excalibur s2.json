@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 13088,
+  "Body": {
+    "Type": 2,
+    "Size": 0.01,
+    "Lifetime": 0.02
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 13087,
+      "Color": "#01020202",
+      "ColorMode": 1,
+      "RandomFactor": 0.2
+    }
+  ],
+  "ImpactType": 1
+}

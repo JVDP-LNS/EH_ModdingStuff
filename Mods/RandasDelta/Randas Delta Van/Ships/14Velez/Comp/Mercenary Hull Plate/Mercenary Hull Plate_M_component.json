@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 12232,
+  "Name": "Medium Mercenary Hull Plate",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 12232,
+  "Faction": 14,
+  "Level": 140,
+  "Icon": "armor12",
+  "Color": "#DFCF9F",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

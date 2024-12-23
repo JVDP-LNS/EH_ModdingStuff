@@ -1,0 +1,17 @@
+{
+  "ItemType": 25,
+  "Id": 19979,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.02,
+    "FriendlyFire": true
+  },
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 6,
+      "Power": 1.0
+    }
+  ]
+}

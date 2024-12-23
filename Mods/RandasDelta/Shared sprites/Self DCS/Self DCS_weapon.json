@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 19979,
+  "WeaponClass": 4,
+  "FireRate": 0.017,
+  "Spread": 360.0,
+  "Magazine": 5,
+  "ControlButtonIcon": "controls_shot"
+}

@@ -1,0 +1,52 @@
+{
+  "ItemType": 25,
+  "Id": 13056,
+  "Body": {
+    "Size": 0.4,
+    "Velocity": 50.0,
+    "Range": 15.0,
+    "Lifetime": 0.3,
+    "Color": "#7AFFF8",
+    "BulletPrefab": 12001,
+    "EnergyCost": 5.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#2900AAFF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 0.4
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 12115,
+      "Color": "#00DFFF",
+      "ColorMode": 1,
+      "Size": 0.5,
+      "Lifetime": 0.1
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 999,
+      "Color": "#210085FF",
+      "ColorMode": 1,
+      "Size": 3.0,
+      "Lifetime": 10.2
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 5.0
+    },
+    {
+      "Type": 5,
+      "Power": 0.4
+    }
+  ]
+}

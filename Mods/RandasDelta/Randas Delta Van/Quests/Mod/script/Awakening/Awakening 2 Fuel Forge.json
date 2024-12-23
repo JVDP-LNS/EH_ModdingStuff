@@ -1,0 +1,217 @@
+{
+  "ItemType": 15,
+  "Id": 15002,
+  "Name": "Awakening: Fuel Forge ",
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "The Space Forge is in sight, it looks like the merchants' base but smaller. No other ships or lifeforms detected nearby, we're moving to dock.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "ButtonText": "Continue"
+        },
+        {
+          "TargetNode": 9,
+          "ButtonText": "Skip Story Dialogue"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "The Falcon docks on one of the better looking docking ports on the Fuel Forge. The men examine the structure, which is basically a smaller starbase, like a space outpost. They start from the outer ring and move in inwards, finally reaching the core, where it looked quite different than what's seen in a typical starbase.",
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Ah I see, this looks very similar to the big machine I saw inside the Engineer's Mothership back in the Frontier.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "Oh, then we should be able to figure out how to make it work. The actual forge structure seems to be in decent condition, and there's also a usage manual on the display over there. Give me a few minutes, I'll look into it. ............... I need about 20 Units of Hyperdrive Fuel to test this. ",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "This stuff runs on Fuel? Let's go get it.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": "Proceed"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 2,
+                  "MinAmount": 20,
+                  "MaxAmount": 20
+                }
+              },
+              {
+                "Type": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "We have enough for now. The manual comes with the blueprint for \"Stable Hyperdrive Fuel\" shortened to \"SHF\" which appears to be the base ingredient for most forgeable materials. Let's try that.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": "Insert Fuel"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 36,
+      "DefaultTransition": 14,
+      "Loot": 13006
+    },
+    {
+      "Id": 14,
+      "Type": 35,
+      "DefaultTransition": 15,
+      "Loot": 13005
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "Huh, 2 units of Hyperdrive fuel consumed per 1 unit of Stable fuel. Not as efficient as i expected but i guess some fuel was used as a power source.",
+      "Loot": 13005,
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "Continue"
+        },
+        {
+          "TargetNode": 19,
+          "ButtonText": "Skip Dialogue"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "Perhaps. Well now that we know this forge works, we can put it to good use. It might be worth the time to put up some defenses here in case someone hostile shows up.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "I'll contact the men at the base and ask them to do it. This might be in their interest as well, so we probabaly won't have to worry about compensation. There are a couple more blueprints here for Armor and conductors, but nothing about constructing actual modules. I think there's a different forge for that. Lets call this as a Fuel Forge for now.",
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 10,
+      "Message": "Sounds good. After we do this I'd like to explore the neighbouring territories to get a feel of the place we're in.",
+      "Character": 2,
+      "Actions": [
+        {
+          "TargetNode": 19,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 10,
+      "Character": 14001,
+      "Actions": [
+        {
+          "TargetNode": 22,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 43,
+      "DefaultTransition": 21,
+      "Quest": 15001
+    },
+    {
+      "Id": 21,
+      "Type": 40
+    },
+    {
+      "Id": 22,
+      "Type": 35,
+      "DefaultTransition": 23,
+      "Loot": 13020
+    },
+    {
+      "Id": 23,
+      "Type": 35,
+      "DefaultTransition": 24,
+      "Loot": 13021
+    },
+    {
+      "Id": 24,
+      "Type": 35,
+      "DefaultTransition": 26,
+      "Loot": 15011
+    },
+    {
+      "Id": 26,
+      "Type": 35,
+      "DefaultTransition": 20,
+      "Loot": 13022
+    }
+  ]
+}

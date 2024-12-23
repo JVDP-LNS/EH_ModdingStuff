@@ -1,0 +1,16 @@
+{
+  "ItemType": 6,
+  "Id": 17002,
+  "ShipCategory": 5,
+  "Name": "Sat Maker Ship",
+  "IconScale": 0.1,
+  "ModelScale": 0.1,
+  "Layout": "0",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      }
+    }
+  ]
+}

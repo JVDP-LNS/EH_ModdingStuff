@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 13110,
+  "Name": "Repairing Garden",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 999,
+  "Icon": "doom1",
+  "Color": "#B2B2B2",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponSlotType": "Z"
+}

@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 12319,
+  "Name": "Condensed Plasma Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 12302,
+  "Level": 150,
+  "Icon": "gun4",
+  "Color": "#8FCFEF",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 17001,
+  "AmmunitionId": 12319,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    8,
+    6,
+    16,
+    5,
+    14,
+    7
+  ]
+}

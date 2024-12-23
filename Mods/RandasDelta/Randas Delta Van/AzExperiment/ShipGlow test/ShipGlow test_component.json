@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 99992,
+  "Name": "ShipGlow test",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "blcok",
+  "Color": "#02050505",
+  "Layout": "0",
+  "CellType": "4",
+  "WeaponId": 99992,
+  "AmmunitionId": 99992,
+  "PossibleModifications": [
+    6
+  ]
+}

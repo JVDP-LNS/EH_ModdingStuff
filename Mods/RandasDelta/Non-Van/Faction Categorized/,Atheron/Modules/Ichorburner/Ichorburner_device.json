@@ -1,0 +1,19 @@
+{
+  "ItemType": 2,
+  "Id": 12265,
+  "EnergyConsumption": 1.5,
+  "PassiveEnergyConsumption": 2.0,
+  "Power": 2.0,
+  "Range": 0.5,
+  "Size": 0.4,
+  "Cooldown": 1.5,
+  "Lifetime": 1.0,
+  "Offset": {
+    "x": -2.0
+  },
+  "ActivationType": 2,
+  "Color": "#C370FF",
+  "Sound": "explosion_08",
+  "EffectPrefab": "Lightning",
+  "ControlButtonIcon": "controls_boost"
+}
